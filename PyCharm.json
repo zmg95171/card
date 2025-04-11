@@ -1,0 +1,112 @@
+[
+  {
+    "word": "Scientific Mode",
+    "phonetic": "/ˌsaɪənˈtɪfɪk məʊd/",
+    "definition": "科学模式",
+    "example": "PyCharm's Scientific Mode is perfect for data science work.",
+    "example_trans": "PyCharm的科学模式非常适合数据科学工作。",
+    "derivatives": ["science (n.)", "scientific (adj.)"],
+    "tags": ["功能", "数据科学"],
+    "categories": ["特色功能"],
+    "level": 2
+  },
+  {
+    "word": "Project Interpreter",
+    "phonetic": "/ˈprɒdʒekt ɪnˈtɜːprətər/",
+    "definition": "项目解释器",
+    "example": "Configure the Python interpreter for your PyCharm project.",
+    "example_trans": "为你的PyCharm项目配置Python解释器。",
+    "derivatives": ["interpret (v.)", "interpretation (n.)"],
+    "tags": ["配置", "Python"],
+    "categories": ["核心功能"],
+    "level": 2
+  },
+  {
+    "word": "Virtualenv",
+    "phonetic": "/ˈvɜːtʃuəl ɪnˈvaɪrənmənt/",
+    "definition": "虚拟环境",
+    "example": "PyCharm can automatically create and manage virtualenv for your projects.",
+    "example_trans": "PyCharm可以自动为你的项目创建和管理虚拟环境。",
+    "derivatives": ["virtual (adj.)", "environment (n.)"],
+    "tags": ["Python", "环境管理"],
+    "categories": ["开发工具"],
+    "level": 2
+  },
+  {
+    "word": "Code Cell",
+    "phonetic": "/kəʊd sel/",
+    "definition": "代码单元",
+    "example": "Use code cells in PyCharm to run code segments separately.",
+    "example_trans": "在PyCharm中使用代码单元来分别运行代码段。",
+    "derivatives": ["cellular (adj.)"],
+    "tags": ["编辑器", "功能"],
+    "categories": ["特色功能"],
+    "level": 2
+  },
+  {
+    "word": "Profiler",
+    "phonetic": "/ˈprəʊfaɪlər/",
+    "definition": "性能分析器",
+    "example": "Use PyCharm's profiler to analyze code performance.",
+    "example_trans": "使用PyCharm的性能分析器来分析代码性能。",
+    "derivatives": ["profile (v.)", "profiling (n.)"],
+    "tags": ["工具", "性能"],
+    "categories": ["开发工具"],
+    "level": 2
+  },
+  {
+    "word": "Remote Interpreter",
+    "phonetic": "/rɪˈməʊt ɪnˈtɜːprətər/",
+    "definition": "远程解释器",
+    "example": "Configure a remote interpreter for Docker or SSH development.",
+    "example_trans": "配置Docker或SSH开发的远程解释器。",
+    "derivatives": ["remote (adj.)", "interpret (v.)"],
+    "tags": ["配置", "远程开发"],
+    "categories": ["开发工具"],
+    "level": 3
+  },
+  {
+    "word": "Database Tools",
+    "phonetic": "/ˈdeɪtəbeɪs tuːlz/",
+    "definition": "数据库工具",
+    "example": "PyCharm provides integrated database tools for SQL development.",
+    "example_trans": "PyCharm提供集成的数据库工具用于SQL开发。",
+    "derivatives": ["data (n.)", "base (n.)"],
+    "tags": ["工具", "数据库"],
+    "categories": ["集成工具"],
+    "level": 2
+  },
+  {
+    "word": "Test Runner",
+    "phonetic": "/test ˈrʌnər/",
+    "definition": "测试运行器",
+    "example": "PyCharm's test runner supports unittest and pytest frameworks.",
+    "example_trans": "PyCharm的测试运行器支持unittest和pytest框架。",
+    "derivatives": ["test (v.)", "run (v.)"],
+    "tags": ["测试", "工具"],
+    "categories": ["测试工具"],
+    "level": 2
+  },
+  {
+    "word": "Type Hints",
+    "phonetic": "/taɪp hɪnts/",
+    "definition": "类型提示",
+    "example": "PyCharm provides excellent support for Python type hints.",
+    "example_trans": "PyCharm为Python类型提示提供出色的支持。",
+    "derivatives": ["typing (n.)", "hint (v.)"],
+    "tags": ["Python", "编程"],
+    "categories": ["语言特性"],
+    "level": 2
+  },
+  {
+    "word": "Docstring",
+    "phonetic": "/ˈdɒkstrɪŋ/",
+    "definition": "文档字符串",
+    "example": "PyCharm can automatically generate docstring templates.",
+    "example_trans": "PyCharm可以自动生成文档字符串模板。",
+    "derivatives": ["document (n.)", "string (n.)"],
+    "tags": ["Python", "文档"],
+    "categories": ["编程特性"],
+    "level": 2
+  }
+]

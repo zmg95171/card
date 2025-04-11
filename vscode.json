@@ -1,0 +1,112 @@
+[
+  {
+    "word": "Editor",
+    "phonetic": "/ˈedɪtər/",
+    "definition": "编辑器",
+    "example": "VS Code is a powerful code editor.",
+    "example_trans": "VS Code 是一个强大的代码编辑器。",
+    "derivatives": ["edit (v.)", "editing (n.)"],
+    "tags": ["基础词汇", "界面"],
+    "categories": ["核心组件"],
+    "level": 1
+  },
+  {
+    "word": "Workspace",
+    "phonetic": "/ˈwɜːrkspeɪs/",
+    "definition": "工作区",
+    "example": "You can open multiple workspaces in VS Code.",
+    "example_trans": "你可以在VS Code中打开多个工作区。",
+    "derivatives": ["work (v.)", "space (n.)"],
+    "tags": ["基础词汇", "界面"],
+    "categories": ["核心组件"],
+    "level": 1
+  },
+  {
+    "word": "Sidebar",
+    "phonetic": "/ˈsaɪdbɑːr/",
+    "definition": "侧边栏",
+    "example": "The sidebar contains various views like Explorer and Search.",
+    "example_trans": "侧边栏包含了资源管理器和搜索等各种视图。",
+    "derivatives": ["side (n.)", "bar (n.)"],
+    "tags": ["界面", "布局"],
+    "categories": ["界面元素"],
+    "level": 1
+  },
+  {
+    "word": "Terminal",
+    "phonetic": "/ˈtɜːrmɪnl/",
+    "definition": "终端",
+    "example": "You can open an integrated terminal in VS Code.",
+    "example_trans": "你可以在VS Code中打开一个集成终端。",
+    "derivatives": ["terminate (v.)"],
+    "tags": ["界面", "工具"],
+    "categories": ["核心组件"],
+    "level": 1
+  },
+  {
+    "word": "Settings",
+    "phonetic": "/ˈsetɪŋz/",
+    "definition": "设置",
+    "example": "You can customize VS Code through its settings.",
+    "example_trans": "你可以通过设置来自定义VS Code。",
+    "derivatives": ["set (v.)", "setting (n.)"],
+    "tags": ["基础词汇", "配置"],
+    "categories": ["设置"],
+    "level": 1
+  },
+  {
+    "word": "Extension",
+    "phonetic": "/ɪkˈstenʃn/",
+    "definition": "扩展",
+    "example": "Install extensions to add new features to VS Code.",
+    "example_trans": "安装扩展可以为VS Code添加新功能。",
+    "derivatives": ["extend (v.)", "extensive (adj.)"],
+    "tags": ["功能", "工具"],
+    "categories": ["功能扩展"],
+    "level": 1
+  },
+  {
+    "word": "Command Palette",
+    "phonetic": "/kəˈmænd ˈpælət/",
+    "definition": "命令面板",
+    "example": "Press Ctrl+Shift+P to open the Command Palette.",
+    "example_trans": "按Ctrl+Shift+P打开命令面板。",
+    "derivatives": ["command (n.)", "palette (n.)"],
+    "tags": ["界面", "工具"],
+    "categories": ["界面元素"],
+    "level": 2
+  },
+  {
+    "word": "Preferences",
+    "phonetic": "/ˈprefrənsɪz/",
+    "definition": "首选项",
+    "example": "You can access VS Code preferences through the settings menu.",
+    "example_trans": "你可以通过设置菜单访问VS Code的首选项。",
+    "derivatives": ["prefer (v.)", "preferential (adj.)"],
+    "tags": ["配置", "设置"],
+    "categories": ["设置"],
+    "level": 2
+  },
+  {
+    "word": "Debug",
+    "phonetic": "/dɪˈbʌɡ/",
+    "definition": "调试",
+    "example": "VS Code provides powerful debugging capabilities.",
+    "example_trans": "VS Code提供强大的调试功能。",
+    "derivatives": ["debugger (n.)", "debugging (n.)"],
+    "tags": ["功能", "开发"],
+    "categories": ["核心功能"],
+    "level": 2
+  },
+  {
+    "word": "Intellisense",
+    "phonetic": "/ɪnˈtelɪsens/",
+    "definition": "智能感知",
+    "example": "Intellisense provides code completion and hints.",
+    "example_trans": "智能感知提供代码补全和提示。",
+    "derivatives": ["intelligent (adj.)", "sense (n.)"],
+    "tags": ["功能", "编辑器"],
+    "categories": ["核心功能"],
+    "level": 2
+  }
+]
