@@ -1,739 +1,2446 @@
-[
-  {
-    "word": "Travel",
-    "phonetic": "/ˈtrævl/",
-    "definition": "旅行",
-    "example": "I love to travel to new places.",
-    "example_trans": "我喜欢去新的地方旅行。",
-    "derivatives": ["traveler (n.)"],
-    "tags": ["基础词汇", "活动"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Airport",
-    "phonetic": "/ˈerpɔːrt/",
-    "definition": "机场",
-    "example": "We arrived at the airport early.",
-    "example_trans": "我们很早就到达了机场。",
-    "derivatives": [],
-    "tags": ["基础词汇", "地点"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Customs",
-    "phonetic": "/ˈkʌstəmz/",
-    "definition": "海关",
-    "example": "We had to go through customs after landing.",
-    "example_trans": "着陆后我们必须通过海关。",
-    "derivatives": [],
-    "tags": ["基础词汇", "检查"],
-    "categories": ["海关"],
-    "level": 1
-  },
-  {
-    "word": "Passport",
-    "phonetic": "/ˈpæspɔːrt/",
-    "definition": "护照",
-    "example": "Don't forget to bring your passport.",
-    "example_trans": "别忘了带上你的护照。",
-    "derivatives": [],
-    "tags": ["常用", "证件"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Visa",
-    "phonetic": "/ˈviːzə/",
-    "definition": "签证",
-    "example": "Do I need a visa to visit that country?",
-    "example_trans": "我去那个国家需要签证吗？",
-    "derivatives": [],
-    "tags": ["常用", "证件"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Ticket",
-    "phonetic": "/ˈtɪkɪt/",
-    "definition": "票",
-    "example": "I bought my plane ticket online.",
-    "example_trans": "我在网上买了机票。",
-    "derivatives": [],
-    "tags": ["常用", "凭证"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Flight",
-    "phonetic": "/flaɪt/",
-    "definition": "航班",
-    "example": "Our flight is delayed.",
-    "example_trans": "我们的航班延误了。",
-    "derivatives": [],
-    "tags": ["常用", "交通"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Boarding pass",
-    "phonetic": "/ˈbɔːrdɪŋ pæs/",
-    "definition": "登机牌",
-    "example": "Please show your boarding pass to the gate agent.",
-    "example_trans": "请向登机口工作人员出示您的登机牌。",
-    "derivatives": [],
-    "tags": ["常用", "凭证"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Gate",
-    "phonetic": "/ɡeɪt/",
-    "definition": "登机口",
-    "example": "Our flight leaves from gate B12.",
-    "example_trans": "我们的航班从B12号登机口起飞。",
-    "derivatives": [],
-    "tags": ["常用", "地点"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Check-in",
-    "phonetic": "/ˈtʃek ɪn/",
-    "definition": "办理登机手续",
-    "example": "We need to check-in our luggage.",
-    "example_trans": "我们需要办理行李托运。",
-    "derivatives": [],
-    "tags": ["常用", "流程"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Security",
-    "phonetic": "/sɪˈkjʊrəti/",
-    "definition": "安检",
-    "example": "We have to go through security before boarding.",
-    "example_trans": "登机前我们必须通过安检。",
-    "derivatives": [],
-    "tags": ["常用", "流程"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Departure",
-    "phonetic": "/dɪˈpɑːrtʃər/",
-    "definition": "出发",
-    "example": "The departure time is 10:00 AM.",
-    "example_trans": "出发时间是上午10:00。",
-    "derivatives": ["depart (v.)"],
-    "tags": ["常用", "时间"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Arrival",
-    "phonetic": "/əˈraɪvl/",
-    "definition": "到达",
-    "example": "The arrival time is 5:00 PM.",
-    "example_trans": "到达时间是下午5:00。",
-    "derivatives": ["arrive (v.)"],
-    "tags": ["常用", "时间"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Delay",
-    "phonetic": "/dɪˈleɪ/",
-    "definition": "延误",
-    "example": "Our flight has a two-hour delay.",
-    "example_trans": "我们的航班延误了两个小时。",
-    "derivatives": ["delayed (adj.)"],
-    "tags": ["常用", "状态"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Cancelled",
-    "phonetic": "/ˈkænsld/",
-    "definition": "取消",
-    "example": "Our flight was cancelled due to bad weather.",
-    "example_trans": "由于恶劣天气，我们的航班被取消了。",
-    "derivatives": ["cancel (v.)"],
-    "tags": ["常用", "状态"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Baggage",
-    "phonetic": "/ˈbæɡɪdʒ/",
-    "definition": "行李",
-    "example": "Where is the baggage claim area?",
-    "example_trans": "行李领取处在哪里？",
-    "derivatives": [],
-    "tags": ["常用", "物品"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Luggage",
-    "phonetic": "/ˈlʌɡɪdʒ/",
-    "definition": "行李",
-    "example": "We have a lot of luggage to carry.",
-    "example_trans": "我们有很多行李要带。",
-    "derivatives": [],
-    "tags": ["常用", "物品"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Suitcase",
-    "phonetic": "/ˈsuːtkeɪs/",
-    "definition": "手提箱",
-    "example": "I packed my clothes in a suitcase.",
-    "example_trans": "我把衣服装在手提箱里。",
-    "derivatives": [],
-    "tags": ["常用", "物品"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Carry-on",
-    "phonetic": "/ˈkæri ɒn/",
-    "definition": "随身行李",
-    "example": "This bag is small enough to be a carry-on.",
-    "example_trans": "这个包足够小，可以作为随身行李。",
-    "derivatives": [],
-    "tags": ["常用", "物品"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Checked baggage",
-    "phonetic": "/tʃekt ˈbæɡɪdʒ/",
-    "definition": "托运行李",
-    "example": "Checked baggage is usually heavier than carry-on.",
-    "example_trans": "托运行李通常比随身行李重。",
-    "derivatives": [],
-    "tags": ["常用", "物品"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Baggage claim",
-    "phonetic": "/ˈbæɡɪdʒ kleɪm/",
-    "definition": "行李领取处",
-    "example": "Go to baggage claim to pick up your luggage.",
-    "example_trans": "去行李领取处领取你的行李。",
-    "derivatives": [],
-    "tags": ["常用", "地点"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Lost and found",
-    "phonetic": "/lɔːst ænd faʊnd/",
-    "definition": "失物招领处",
-    "example": "I reported my lost item to the lost and found.",
-    "example_trans": "我把丢失的物品报告给了失物招领处。",
-    "derivatives": [],
-    "tags": ["常用", "地点"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Duty-free",
-    "phonetic": "/ˌduːti ˈfriː/",
-    "definition": "免税",
-    "example": "I bought perfume at the duty-free shop.",
-    "example_trans": "我在免税店买了香水。",
-    "derivatives": [],
-    "tags": ["购物", "优惠"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Currency exchange",
-    "phonetic": "/ˈkɜːrənsi ɪksˈtʃeɪndʒ/",
-    "definition": "货币兑换",
-    "example": "I need to exchange my dollars for euros.",
-    "example_trans": "我需要把我的美元兑换成欧元。",
-    "derivatives": [],
-    "tags": ["金融", "服务"],
-    "categories": ["机场"],
-    "level": 2
-  },
-  {
-    "word": "Boarding",
-    "phonetic": "/ˈbɔːrdɪŋ/",
-    "definition": "登机",
-    "example": "Boarding will begin in 15 minutes.",
-    "example_trans": "15分钟后开始登机。",
-    "derivatives": ["board (v.)"],
-    "tags": ["常用", "流程"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Landing",
-    "phonetic": "/ˈlændɪŋ/",
-    "definition": "着陆",
-    "example": "The landing was a bit bumpy.",
-    "example_trans": "着陆有点颠簸。",
-    "derivatives": ["land (v.)"],
-    "tags": ["常用", "流程"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Takeoff",
-    "phonetic": "/ˈteɪk ɔːf/",
-    "definition": "起飞",
-    "example": "The takeoff was smooth.",
-    "example_trans": "起飞很顺利。",
-    "derivatives": [],
-    "tags": ["常用", "流程"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Connecting flight",
-    "phonetic": "/kəˈnektɪŋ flaɪt/",
-    "definition": "中转航班",
-    "example": "I have a connecting flight in Chicago.",
-    "example_trans": "我在芝加哥有一个中转航班。",
-    "derivatives": [],
-    "tags": ["常用", "航班"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Layover",
-    "phonetic": "/ˈleɪoʊvər/",
-    "definition": "中途停留",
-    "example": "We have a three-hour layover in Amsterdam.",
-    "example_trans": "我们在阿姆斯特丹有三个小时的中途停留。",
-    "derivatives": [],
-    "tags": ["常用", "时间"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Immigration",
-    "phonetic": "/ˌɪmɪˈɡreɪʃən/",
-    "definition": "入境",
-    "example": "We had to go through immigration after landing.",
-    "example_trans": "着陆后我们必须通过入境检查。",
-    "derivatives": [],
-    "tags": ["常用", "流程"],
-    "categories": ["海关"],
-    "level": 1
-  },
-  {
-    "word": "Declaration form",
-    "phonetic": "/ˌdekləˈreɪʃən fɔːrm/",
-    "definition": "申报表",
-    "example": "Fill out the declaration form before going through customs.",
-    "example_trans": "通过海关前填写申报表。",
-    "derivatives": [],
-    "tags": ["常用", "文件"],
-    "categories": ["海关"],
-    "level": 1
-  },
-  {
-    "word": "Prohibited items",
-    "phonetic": "/proʊˈhɪbɪtɪd ˈaɪtəmz/",
-    "definition": "违禁品",
-    "example": "Make sure you don't have any prohibited items in your luggage.",
-    "example_trans": "确保你的行李中没有任何违禁品。",
-    "derivatives": [],
-    "tags": ["安全", "规定"],
-    "categories": ["海关"],
-    "level": 2
-  },
-  {
-    "word": "Restricted items",
-    "phonetic": "/rɪˈstrɪktɪd ˈaɪtəmz/",
-    "definition": "限制物品",
-    "example": "There are restrictions on certain items you can bring into the country.",
-    "example_trans": "对你可以带入该国的某些物品有限制。",
-    "derivatives": [],
-    "tags": ["安全", "规定"],
-    "categories": ["海关"],
-    "level": 2
-  },
-  {
-    "word": "Quarantine",
-    "phonetic": "/ˈkwɔːrəntiːn/",
-    "definition": "隔离",
-    "example": "Some animals may be subject to quarantine.",
-    "example_trans": "有些动物可能需要隔离。",
-    "derivatives": [],
-    "tags": ["安全", "健康"],
-    "categories": ["海关"],
-    "level": 2
-  },
-  {
-    "word": "Travel insurance",
-    "phonetic": "/ˈtrævl ɪnˈʃʊrəns/",
-    "definition": "旅行保险",
-    "example": "It's a good idea to buy travel insurance.",
-    "example_trans": "购买旅行保险是个好主意。",
-    "derivatives": [],
-    "tags": ["安全", "保障"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Itinerary",
-    "phonetic": "/aɪˈtɪnəreri/",
-    "definition": "行程",
-    "example": "I have a detailed itinerary for my trip.",
-    "example_trans": "我的旅行有一个详细的行程。",
-    "derivatives": [],
-    "tags": ["计划", "安排"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Accommodation",
-    "phonetic": "/əˌkɑːməˈdeɪʃən/",
-    "definition": "住宿",
-    "example": "We booked our accommodation in advance.",
-    "example_trans": "我们提前预订了住宿。",
-    "derivatives": [],
-    "tags": ["常用", "住宿"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Hotel",
-    "phonetic": "/hoʊˈtel/",
-    "definition": "酒店",
-    "example": "We stayed at a nice hotel near the beach.",
-    "example_trans": "我们住在海滩附近一家不错的酒店。",
-    "derivatives": [],
-    "tags": ["常用", "住宿"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Resort",
-    "phonetic": "/rɪˈzɔːrt/",
-    "definition": "度假村",
-    "example": "We spent our vacation at a luxury resort.",
-    "example_trans": "我们在一个豪华度假村度过了我们的假期。",
-    "derivatives": [],
-    "tags": ["常用", "住宿"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Hostel",
-    "phonetic": "/ˈhɑːstl/",
-    "definition": "青年旅社",
-    "example": "Hostels are a cheap option for backpackers.",
-    "example_trans": "青年旅社是背包客的廉价选择。",
-    "derivatives": [],
-    "tags": ["经济", "住宿"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Airbnb",
-    "phonetic": "/ˌer biː en ˈbiː/",
-    "definition": "爱彼迎",
-    "example": "We booked an Airbnb apartment for our trip.",
-    "example_trans": "我们为我们的旅行预订了一间爱彼迎公寓。",
-    "derivatives": [],
-    "tags": ["常用", "住宿"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Souvenir",
-    "phonetic": "/ˌsuːvəˈnɪr/",
-    "definition": "纪念品",
-    "example": "I bought a souvenir to remember my trip.",
-    "example_trans": "我买了一个纪念品来记住我的旅行。",
-    "derivatives": [],
-    "tags": ["购物", "回忆"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Local cuisine",
-    "phonetic": "/ˈloʊkl kwiˈziːn/",
-    "definition": "当地美食",
-    "example": "I want to try the local cuisine.",
-    "example_trans": "我想尝尝当地美食。",
-    "derivatives": [],
-    "tags": ["美食", "文化"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Tourist attraction",
-    "phonetic": "/ˈtʊrɪst əˈtrækʃən/",
-    "definition": "旅游景点",
-    "example": "We visited many tourist attractions.",
-    "example_trans": "我们参观了许多旅游景点。",
-    "derivatives": [],
-    "tags": ["观光", "地点"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Guided tour",
-    "phonetic": "/ˈɡaɪdɪd tʊr/",
-    "definition": "导游",
-    "example": "We took a guided tour of the city.",
-    "example_trans": "我们参加了城市的导游。",
-    "derivatives": [],
-    "tags": ["观光", "服务"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Travel agency",
-    "phonetic": "/ˈtrævl ˈeɪdʒənsi/",
-    "definition": "旅行社",
-    "example": "We booked our trip through a travel agency.",
-    "example_trans": "我们通过旅行社预订了我们的旅行。",
-    "derivatives": [],
-    "tags": ["服务", "预订"],
-    "categories": ["旅行"],
-    "level": 1
-  },
-  {
-    "word": "Travel documents",
-    "phonetic": "/ˈtrævl ˈdɑːkjumənts/",
-    "definition": "旅行证件",
-    "example": "Keep your travel documents in a safe place.",
-    "example_trans": "将你的旅行证件放在安全的地方。",
-    "derivatives": [],
-    "tags": ["安全", "证件"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Travel advisory",
-    "phonetic": "/ˈtrævl ədˈvaɪzəri/",
-    "definition": "旅行警告",
-    "example": "Check the travel advisory before you go.",
-    "example_trans": "出发前查看旅行警告。",
-    "derivatives": [],
-    "tags": ["安全", "信息"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Travel light",
-    "phonetic": "/ˈtrævl laɪt/",
-    "definition": "轻装旅行",
-    "example": "Try to travel light to avoid extra baggage fees.",
-    "example_trans": "尽量轻装旅行，以避免额外的行李费。",
-    "derivatives": [],
-    "tags": ["建议", "经济"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Traveler's diarrhea",
-    "phonetic": "/ˈtrævəlrz ˌdaɪəˈriːə/",
-    "definition": "旅行者腹泻",
-    "example": "Be careful about what you eat to avoid traveler's diarrhea.",
-    "example_trans": "注意你吃的东西，以避免旅行者腹泻。",
-    "derivatives": [],
-    "tags": ["健康", "风险"],
-    "categories": ["旅行"],
-    "level": 3
-  },
-  {
-    "word": "Jet lag",
-    "phonetic": "/ˈdʒet læɡ/",
-    "definition": "时差",
-    "example": "I'm suffering from jet lag.",
-    "example_trans": "我正在遭受时差之苦。",
-    "derivatives": [],
-    "tags": ["健康", "影响"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Motion sickness",
-    "phonetic": "/ˈmoʊʃən ˈsɪknəs/",
-    "definition": "晕车",
-    "example": "I get motion sickness easily.",
-    "example_trans": "我很容易晕车。",
-    "derivatives": [],
-    "tags": ["健康", "影响"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Travel-sized",
-    "phonetic": "/ˈtrævl saɪzd/",
-    "definition": "旅行装",
-    "example": "I bought travel-sized toiletries.",
-    "example_trans": "我买了旅行装洗漱用品。",
-    "derivatives": [],
-    "tags": ["购物", "方便"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Connecting flight",
-    "phonetic": "/kəˈnektɪŋ flaɪt/",
-    "definition": "转机",
-    "example": "I missed my connecting flight.",
-    "example_trans": "我错过了转机。",
-    "derivatives": [],
-    "tags": ["机场", "航班"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Boarding time",
-    "phonetic": "/ˈbɔːrdɪŋ taɪm/",
-    "definition": "登机时间",
-    "example": "What is the boarding time for our flight?",
-    "example_trans": "我们航班的登机时间是什么时候？",
-    "derivatives": [],
-    "tags": ["机场", "时间"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Departure lounge",
-    "phonetic": "/dɪˈpɑːrtʃər laʊndʒ/",
-    "definition": "候机室",
-    "example": "I'm waiting in the departure lounge.",
-    "example_trans": "我在候机室等候。",
-    "derivatives": [],
-    "tags": ["机场", "地点"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Arrivals board",
-    "phonetic": "/əˈraɪvəlz bɔːrd/",
-    "definition": "到达航班显示屏",
-    "example": "Check the arrivals board for flight information.",
-    "example_trans": "查看到达航班显示屏以获取航班信息。",
-    "derivatives": [],
-    "tags": ["机场", "信息"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Departures board",
-    "phonetic": "/dɪˈpɑːrtʃərz bɔːrd/",
-    "definition": "出发航班显示屏",
-    "example": "Check the departures board for gate information.",
-    "example_trans": "查看出发航班显示屏以获取登机口信息。",
-    "derivatives": [],
-    "tags": ["机场", "信息"],
-    "categories": ["机场"],
-    "level": 1
-  },
-  {
-    "word": "Excess baggage fee",
-    "phonetic": "/ɪkˈses ˈbæɡɪdʒ fiː/",
-    "definition": "超重行李费",
-    "example": "I had to pay an excess baggage fee.",
-    "example_trans": "我不得不支付超重行李费。",
-    "derivatives": [],
-    "tags": ["机场", "费用"],
-    "categories": ["机场"],
-    "level": 2
-  },
-  {
-    "word": "Declare",
-    "phonetic": "/dɪˈkler/",
-    "definition": "申报",
-    "example": "You must declare any items over $100.",
-    "example_trans": "你必须申报任何超过100美元的物品。",
-    "derivatives": ["declaration (n.)"],
-    "tags": ["海关", "流程"],
-    "categories": ["海关"],
-    "level": 1
-  },
-  {
-    "word": "Customs officer",
-    "phonetic": "/ˈkʌstəmz ˈɔːfɪsər/",
-    "definition": "海关官员",
-    "example": "The customs officer asked me some questions.",
-    "example_trans": "海关官员问了我一些问题。",
-    "derivatives": [],
-    "tags": ["海关", "人员"],
-    "categories": ["海关"],
-    "level": 1
-  },
-  {
-    "word": "Tax refund",
-    "phonetic": "/tæks ˈriːfʌnd/",
-    "definition": "退税",
-    "example": "I applied for a tax refund at the airport.",
-    "example_trans": "我在机场申请了退税。",
-    "derivatives": [],
-    "tags": ["购物", "优惠"],
-    "categories": ["海关"],
-    "level": 2
-  },
-  {
-    "word": "Visa on arrival",
-    "phonetic": "/ˈviːzə ɒn əˈraɪvl/",
-    "definition": "落地签",
-    "example": "Can I get a visa on arrival?",
-    "example_trans": "我可以办理落地签吗？",
-    "derivatives": [],
-    "tags": ["证件", "便捷"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Travel vaccinations",
-    "phonetic": "/ˈtrævl ˌvæksɪˈneɪʃənz/",
-    "definition": "旅行疫苗",
-    "example": "Do I need any travel vaccinations?",
-    "example_trans": "我需要接种任何旅行疫苗吗？",
-    "derivatives": [],
-    "tags": ["健康", "预防"],
-    "categories": ["旅行"],
-    "level": 3
-  },
-  {
-    "word": "Travel adapter",
-    "phonetic": "/ˈtrævl əˈdæptər/",
-    "definition": "旅行转换插头",
-    "example": "Don't forget to pack a travel adapter.",
-    "example_trans": "别忘了带上旅行转换插头。",
-    "derivatives": [],
-    "tags": ["实用", "电器"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Travel pillow",
-    "phonetic": "/ˈtrævl ˈpɪloʊ/",
-    "definition": "旅行枕",
-    "example": "A travel pillow can make long flights more comfortable.",
-    "example_trans": "旅行枕可以使长途飞行更舒适。",
-    "derivatives": [],
-    "tags": ["舒适", "物品"],
-    "categories": ["旅行"],
-    "level": 2
-  },
-  {
-    "word": "Travel sickness tablets",
-    "phonetic": "/ˈtrævl ˈsɪknəs ˈtæbləts/",
-    "definition": "晕车药",
-    "example": "Take travel sickness tablets before the journey.",
-    "example_trans": "在旅途前服用晕车药。",
-    "derivatives": [],
-    "tags": ["健康", "预防"],
-    "categories": ["旅行"],
-    "level": 3
-  }
-]
+{
+  "words": [
+    {
+      "word": "Passport",
+      "phonetic": "",
+      "definition": "n. 护照",
+      "example": "You need your passport to travel internationally.",
+      "example_trans": "你需要护照才能出国旅行。",
+      "derivatives": [],
+      "tags": [
+        "旅行证件",
+        "身份证明"
+      ],
+      "categories": [
+        "机场",
+        "移民",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "My passport expired last year, so I can't travel until I renew it."
+          },
+          {
+            "text": "You need a passport photo to apply at the post office."
+          },
+          {
+            "text": "I renewed my passport at the government office last month."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 1
+    },
+    {
+      "word": "Visa",
+      "phonetic": "",
+      "definition": "n. 签证",
+      "example": "Some countries require a visa before entry.",
+      "example_trans": "有些国家入境前需要签证。",
+      "derivatives": [],
+      "tags": [
+        "旅行证件",
+        "入境许可"
+      ],
+      "categories": [
+        "机场",
+        "移民",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "He applied for a work visa to take a job in Canada."
+          },
+          {
+            "text": "I only need a tourist visa for my vacation to Thailand."
+          },
+          {
+            "text": "She received an immigrant visa to join her children abroad."
+          },
+          {
+            "text": "You must complete a visa application online or at the embassy."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 2
+    },
+    {
+      "word": "Boarding pass",
+      "phonetic": "",
+      "definition": "n. 登机牌",
+      "example": "You must show your boarding pass to get on the plane.",
+      "example_trans": "你必须出示登机牌才能登机。",
+      "derivatives": [],
+      "tags": [
+        "旅行文件",
+        "登机凭证"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I showed my mobile boarding pass on my phone at the gate."
+          },
+          {
+            "text": "He printed his boarding pass at the airport kiosk."
+          },
+          {
+            "text": "The boarding time is printed clearly on the boarding pass."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 3
+    },
+    {
+      "word": "Flight number",
+      "phonetic": "",
+      "definition": "n. 航班号",
+      "example": "The flight number helps you find the correct gate.",
+      "example_trans": "航班号可以帮助你找到正确的登机口。",
+      "derivatives": [],
+      "tags": [
+        "航班信息",
+        "机场"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The flight info board shows all flight numbers and their status."
+          },
+          {
+            "text": "I’m on Flight AC123 to Toronto, departing in two hours."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 4
+    },
+    {
+      "word": "Departure",
+      "phonetic": "",
+      "definition": "n. 出发",
+      "example": "Departure time is when the plane leaves.",
+      "example_trans": "出发时间是飞机离开的时间。",
+      "derivatives": [
+        "depart (v.)"
+      ],
+      "tags": [
+        "航班信息",
+        "时间"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Our departure was delayed because of heavy snow."
+          },
+          {
+            "text": "We waited at the departure gate for boarding to start."
+          },
+          {
+            "text": "The departure board says our flight is on time."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 5
+    },
+    {
+      "word": "Arrival",
+      "phonetic": "",
+      "definition": "n. 到达",
+      "example": "Check the arrival time to meet someone at the airport.",
+      "example_trans": "查看到达时间，以便在机场接人。",
+      "derivatives": [
+        "arrive (v.)"
+      ],
+      "tags": [
+        "航班信息",
+        "时间"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "We waited at the arrival terminal with flowers."
+          },
+          {
+            "text": "The international arrival from Beijing just landed."
+          },
+          {
+            "text": "My brother’s flight had a late arrival due to bad weather."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 6
+    },
+    {
+      "word": "Security check",
+      "phonetic": "",
+      "definition": "n. 安检",
+      "example": "You must go through security before boarding.",
+      "example_trans": "登机前您必须通过安检。",
+      "derivatives": [],
+      "tags": [
+        "机场流程",
+        "安全"
+      ],
+      "categories": [
+        "机场",
+        "安全",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "There was a long line at the security check."
+          },
+          {
+            "text": "You must remove liquids from your bag before screening."
+          },
+          {
+            "text": "I walked through the metal detector without setting it off."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 7
+    },
+    {
+      "word": "Gate",
+      "phonetic": "",
+      "definition": "n. 登机口",
+      "example": "Your boarding gate may change, so check often.",
+      "example_trans": "您的登机口可能会更改，请经常查看。",
+      "derivatives": [],
+      "tags": [
+        "机场设施",
+        "登机"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "We waited at the boarding gate for final instructions."
+          },
+          {
+            "text": "Our gate number was printed on the boarding pass."
+          },
+          {
+            "text": "We missed the flight because the gate was already closed."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 8
+    },
+    {
+      "word": "Luggage",
+      "phonetic": "",
+      "definition": "n. 行李",
+      "example": "Luggage refers to your suitcases and bags.",
+      "example_trans": "Luggage 指的是你的手提箱和包。",
+      "derivatives": [],
+      "tags": [
+        "旅行物品",
+        "行李"
+      ],
+      "categories": [
+        "机场",
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The airline lost my luggage during the transfer."
+          },
+          {
+            "text": "I only bring one small carry-on luggage for short trips."
+          },
+          {
+            "text": "The luggage tag helped the staff find my missing suitcase."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 9
+    },
+    {
+      "word": "Baggage claim",
+      "phonetic": "",
+      "definition": "n. 行李领取处",
+      "example": "Pick up your suitcase at baggage claim after landing.",
+      "example_trans": "着陆后在行李领取处领取您的手提箱。",
+      "derivatives": [],
+      "tags": [
+        "机场设施",
+        "行李"
+      ],
+      "categories": [
+        "机场",
+        "到达",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The baggage carousel started moving after ten minutes."
+          },
+          {
+            "text": "My luggage was delayed, so I had to wait an hour."
+          },
+          {
+            "text": "I matched the claim tag to make sure it was mine."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 10
+    },
+    {
+      "word": "Customs",
+      "phonetic": "",
+      "definition": "n. 海关",
+      "example": "Customs checks goods you bring across borders.",
+      "example_trans": "海关检查你携带过境的物品。",
+      "derivatives": [],
+      "tags": [
+        "边境管理",
+        "申报"
+      ],
+      "categories": [
+        "机场",
+        "移民",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "You must declare goods like food or alcohol at customs."
+          },
+          {
+            "text": "The flight attendant gave us the customs form on board."
+          },
+          {
+            "text": "I walked through the green lane since I had nothing to declare."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 11
+    },
+    {
+      "word": "Immigration officer",
+      "phonetic": "",
+      "definition": "n. 移民官",
+      "example": "The officer checks your documents when entering a country.",
+      "example_trans": "入境时，官员会检查您的证件。",
+      "derivatives": [],
+      "tags": [
+        "边境管理",
+        "官员"
+      ],
+      "categories": [
+        "机场",
+        "移民",
+        "旅游"
+      ],
+      "level": 3,
+      "dialogues": [
+        [
+          {
+            "text": "The immigration officer asked to see my passport and visa."
+          },
+          {
+            "text": "They wanted to confirm that I had a return ticket."
+          },
+          {
+            "text": "I told them my purpose of visit was to see my son."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 12
+    },
+    {
+      "word": "Declare",
+      "phonetic": "",
+      "definition": "v. 申报",
+      "example": "You must declare food or valuable items at the customs.",
+      "example_trans": "您必须在海关申报食物或贵重物品。",
+      "derivatives": [
+        "declaration (n.)"
+      ],
+      "tags": [
+        "海关",
+        "申报"
+      ],
+      "categories": [
+        "机场",
+        "移民",
+        "旅游"
+      ],
+      "level": 3,
+      "dialogues": [
+        [
+          {
+            "text": "I filled out the customs declaration form truthfully."
+          },
+          {
+            "text": "You must declare money if it’s over $10,000."
+          },
+          {
+            "text": "He was fined for failing to declare imported goods."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 13
+    },
+    {
+      "word": "Carry-on",
+      "phonetic": "",
+      "definition": "n. 随身行李",
+      "example": "A small bag you bring onto the plane.",
+      "example_trans": "你带上飞机的小包。",
+      "derivatives": [],
+      "tags": [
+        "行李",
+        "飞行"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "My carry-on fit perfectly in the overhead bin."
+          },
+          {
+            "text": "All liquids in my carry-on were under 100ml."
+          },
+          {
+            "text": "I kept my purse as a personal item."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 14
+    },
+    {
+      "word": "Check-in",
+      "phonetic": "",
+      "definition": "n. 办理登机手续",
+      "example": "You check in at the airport to get your boarding pass.",
+      "example_trans": "您在机场办理登机手续以获取登机牌。",
+      "derivatives": [],
+      "tags": [
+        "机场流程",
+        "登机"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I did my check-in online 24 hours before the flight."
+          },
+          {
+            "text": "We arrived early for check-in to avoid long lines."
+          },
+          {
+            "text": "I went to the check-in counter to drop off my luggage."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 15
+    },
+    {
+      "word": "ID card",
+      "phonetic": "",
+      "definition": "n. 身份证",
+      "example": "Domestic travel may only require an ID.",
+      "example_trans": "国内旅行可能只需要身份证。",
+      "derivatives": [],
+      "tags": [
+        "身份证明",
+        "旅行证件"
+      ],
+      "categories": [
+        "机场",
+        "安全",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "He showed his driver’s license at the gate."
+          },
+          {
+            "text": "I used my PR card for domestic identification."
+          },
+          {
+            "text": "She used her senior ID to get a discount on the train."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 16
+    },
+    {
+      "word": "Itinerary",
+      "phonetic": "",
+      "definition": "n. 行程",
+      "example": "An itinerary lists your travel plans.",
+      "example_trans": "行程表列出了您的旅行计划。",
+      "derivatives": [],
+      "tags": [
+        "旅行计划",
+        "时间表"
+      ],
+      "categories": [
+        "机场",
+        "旅行",
+        "旅游"
+      ],
+      "level": 3,
+      "dialogues": [
+        [
+          {
+            "text": "I printed my full itinerary with flights and hotel bookings."
+          },
+          {
+            "text": "The airline sent me an email confirmation right after booking."
+          },
+          {
+            "text": "My itinerary included sightseeing and family visits."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 17
+    },
+    {
+      "word": "Terminal",
+      "phonetic": "",
+      "definition": "n. 航站楼",
+      "example": "Airports have multiple terminals.",
+      "example_trans": "机场有多个航站楼。",
+      "derivatives": [],
+      "tags": [
+        "机场设施",
+        "登机"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "We arrived at Terminal 1 for international flights."
+          },
+          {
+            "text": "We took the shuttle bus from Terminal A to the hotel."
+          },
+          {
+            "text": "The domestic terminal was quieter than the international one."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 18
+    },
+    {
+      "word": "Delay",
+      "phonetic": "",
+      "definition": "n. 延误",
+      "example": "Flights can be delayed by weather or technical issues.",
+      "example_trans": "航班可能因天气或技术问题而延误。",
+      "derivatives": [
+        "delayed (adj.)",
+        "delay (v.)"
+      ],
+      "tags": [
+        "航班信息",
+        "时间"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "A weather delay caused us to miss our connection."
+          },
+          {
+            "text": "Our flight had a mechanical delay and needed repairs."
+          },
+          {
+            "text": "The airline gave us food vouchers during the delay."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 19
+    },
+    {
+      "word": "On time",
+      "phonetic": "",
+      "definition": "adj. 准时",
+      "example": "Check if your flight is on time.",
+      "example_trans": "检查您的航班是否准时。",
+      "derivatives": [],
+      "tags": [
+        "航班信息",
+        "时间"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The flight status showed it was arriving on time."
+          },
+          {
+            "text": "We boarded early since the departure was on time."
+          },
+          {
+            "text": "Everything went smoothly because we arrived on time."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 20
+    },
+    {
+      "word": "Transfer",
+      "phonetic": "",
+      "definition": "v. 转机",
+      "example": "You might need to transfer planes during travel.",
+      "example_trans": "您可能需要在旅行期间转机。",
+      "derivatives": [],
+      "tags": [
+        "航班信息",
+        "中转"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I had a transfer flight through Vancouver."
+          },
+          {
+            "text": "We needed a domestic transfer to get to the final city."
+          },
+          {
+            "text": "Signs at the airport helped us find our next gate."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 21
+    },
+    {
+      "word": "Connection",
+      "phonetic": "",
+      "definition": "n. 中转航班",
+      "example": "A connecting flight is part of a longer journey.",
+      "example_trans": "中转航班是较长旅程的一部分。",
+      "derivatives": [
+        "connect (v.)"
+      ],
+      "tags": [
+        "航班信息",
+        "中转"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "We had a short connection and had to run."
+          },
+          {
+            "text": "I missed my connection and had to rebook."
+          },
+          {
+            "text": "Using the same airline made my connection easier."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 22
+    },
+    {
+      "word": "Layover",
+      "phonetic": "",
+      "definition": "n. 停留时间",
+      "example": "A layover is time spent between two flights.",
+      "example_trans": "中途停留是两次航班之间的时间。",
+      "derivatives": [],
+      "tags": [
+        "航班信息",
+        "中转"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "We had a long layover and visited a nearby museum."
+          },
+          {
+            "text": "An overnight layover meant we had to book a hotel."
+          },
+          {
+            "text": "We stayed in the airport lounge during the layover."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 23
+    },
+    {
+      "word": "Flight attendant",
+      "phonetic": "",
+      "definition": "n. 乘务员",
+      "example": "They help passengers on the plane.",
+      "example_trans": "他们帮助飞机上的乘客。",
+      "derivatives": [],
+      "tags": [
+        "机组人员",
+        "服务"
+      ],
+      "categories": [
+        "机场",
+        "飞行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The flight attendant helped me with my seatbelt."
+          },
+          {
+            "text": "They showed us safety instructions before takeoff."
+          },
+          {
+            "text": "I asked the flight attendant for hot water."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 24
+    },
+    {
+      "word": "Travel insurance",
+      "phonetic": "",
+      "definition": "n. 旅行保险",
+      "example": "Protects you during travel in case of emergency.",
+      "example_trans": "在发生紧急情况时在旅行期间保护您。",
+      "derivatives": [],
+      "tags": [
+        "保险",
+        "旅行"
+      ],
+      "categories": [
+        "机场",
+        "旅行",
+        "旅游"
+      ],
+      "level": 3,
+      "dialogues": [
+        [
+          {
+            "text": "My travel insurance covered the cost of lost luggage."
+          },
+          {
+            "text": "The policy paid for my hospital visit abroad."
+          },
+          {
+            "text": "Travel insurance reimbursed us after the flight delay."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 25
+    },
+    {
+      "word": "Cart",
+      "phonetic": "",
+      "definition": "n. 购物车",
+      "example": "A cart is used to carry items while shopping.",
+      "example_trans": "购物车用于在购物时携带物品。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "容器"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I pushed the shopping cart around the store while picking out groceries."
+          },
+          {
+            "text": "After unloading, I returned the cart to the parking lot station."
+          },
+          {
+            "text": "Some stores require a coin to unlock a shopping cart."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 26
+    },
+    {
+      "word": "Basket",
+      "phonetic": "",
+      "definition": "n. 购物篮",
+      "example": "A basket is a small container for carrying items by hand.",
+      "example_trans": "篮子是一个用于用手携带物品的小容器。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "容器"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I used a hand basket for quick shopping at the corner store."
+          },
+          {
+            "text": "There were plastic baskets stacked at the store entrance."
+          },
+          {
+            "text": "My basket was full, so I went straight to checkout."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 27
+    },
+    {
+      "word": "Cashier",
+      "phonetic": "",
+      "definition": "n. 收银员",
+      "example": "A cashier helps customers pay for their purchases.",
+      "example_trans": "收银员帮助顾客支付购买的商品。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "职业"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The friendly cashier greeted me and scanned all my items."
+          },
+          {
+            "text": "There was a long line waiting for the cashier during rush hour."
+          },
+          {
+            "text": "I smiled and said thank you to the cashier."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 28
+    },
+    {
+      "word": "Receipt",
+      "phonetic": "",
+      "definition": "n. 收据",
+      "example": "A receipt is proof of your purchase.",
+      "example_trans": "收据是您购买的凭证。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "凭证"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I kept the receipt in case I needed to return the item."
+          },
+          {
+            "text": "The printed receipt showed every item I bought and the total."
+          },
+          {
+            "text": "I asked for the email receipt to save paper."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 29
+    },
+    {
+      "word": "Credit card",
+      "phonetic": "",
+      "definition": "n. 信用卡",
+      "example": "A credit card is a plastic card used for payment.",
+      "example_trans": "信用卡是一种用于支付的塑料卡。",
+      "derivatives": [],
+      "tags": [
+        "支付",
+        "金融"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I swiped my credit card at the machine to pay."
+          },
+          {
+            "text": "She tapped her contactless card to complete the transaction."
+          },
+          {
+            "text": "I checked my credit limit before making a large purchase."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 30
+    },
+    {
+      "word": "Debit card",
+      "phonetic": "",
+      "definition": "n. 借记卡",
+      "example": "A debit card lets you pay directly from your bank account.",
+      "example_trans": "借记卡可让您直接从您的银行帐户付款。",
+      "derivatives": [],
+      "tags": [
+        "支付",
+        "金融"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I used my debit card at the grocery store today."
+          },
+          {
+            "text": "I entered my PIN at the terminal for extra security."
+          },
+          {
+            "text": "After payment, I checked the balance in my bank account."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 31
+    },
+    {
+      "word": "Sale",
+      "phonetic": "",
+      "definition": "n. 打折",
+      "example": "A sale offers items at reduced prices.",
+      "example_trans": "促销活动以降低的价格提供商品。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "促销"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I bought oranges on sale for half the regular price."
+          },
+          {
+            "text": "The store had a holiday sale with big discounts."
+          },
+          {
+            "text": "I found a red sale sticker on the shampoo bottle."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 32
+    },
+    {
+      "word": "Discount",
+      "phonetic": "",
+      "definition": "n. 折扣",
+      "example": "A discount reduces the regular price of an item.",
+      "example_trans": "折扣会降低商品的正价。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "促销"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I asked if there was a senior discount on Wednesdays."
+          },
+          {
+            "text": "I used a discount code when ordering online groceries."
+          },
+          {
+            "text": "The yogurt was on a buy-one-get-one discount deal."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 33
+    },
+    {
+      "word": "Price",
+      "phonetic": "",
+      "definition": "n. 价格",
+      "example": "The price tells you how much something costs.",
+      "example_trans": "价格告诉你某物的成本。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "费用"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I compared prices between two brands of rice."
+          },
+          {
+            "text": "The price tag showed a special offer."
+          },
+          {
+            "text": "I asked the cashier about the price since it wasn’t labeled."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 34
+    },
+    {
+      "word": "Aisle",
+      "phonetic": "",
+      "definition": "n. 货架通道",
+      "example": "An aisle is a walkway between shelves in a store.",
+      "example_trans": "过道是商店中货架之间的通道。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "位置"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I found the cooking oil in aisle five."
+          },
+          {
+            "text": "The aisle number was written on the sign above."
+          },
+          {
+            "text": "I walked down the snack aisle to find crackers."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 35
+    },
+    {
+      "word": "Frozen food",
+      "phonetic": "",
+      "definition": "n. 冷冻食品",
+      "example": "Frozen food is kept in the freezer to stay fresh.",
+      "example_trans": "冷冻食品保存在冰箱中以保持新鲜。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "冷藏"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I bought frozen dumplings for a quick lunch."
+          },
+          {
+            "text": "Frozen vegetables are good for stir-fry and easy to store."
+          },
+          {
+            "text": "At home, I kept everything frozen until cooking time."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 36
+    },
+    {
+      "word": "Dairy",
+      "phonetic": "",
+      "definition": "n. 奶制品",
+      "example": "Dairy includes milk, cheese, yogurt, and other milk products.",
+      "example_trans": "乳制品包括牛奶、奶酪、酸奶和其他牛奶产品。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "牛奶"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I bought milk and cheese from the dairy section."
+          },
+          {
+            "text": "The dairy aisle was the coldest part of the store."
+          },
+          {
+            "text": "I chose lactose-free milk to avoid stomach discomfort."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 37
+    },
+    {
+      "word": "Vegetables",
+      "phonetic": "",
+      "definition": "n. 蔬菜",
+      "example": "Vegetables are plants eaten as food.",
+      "example_trans": "蔬菜是作为食物食用的植物。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "健康"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I bought fresh vegetables for tonight’s dinner."
+          },
+          {
+            "text": "I picked organic vegetables with no pesticides."
+          },
+          {
+            "text": "I always wash vegetables before cooking."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 38
+    },
+    {
+      "word": "Fruit",
+      "phonetic": "",
+      "definition": "n. 水果",
+      "example": "Fruit is the sweet part of a plant that we eat.",
+      "example_trans": "水果是我们吃的植物的甜味部分。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "健康"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Seasonal fruit like peaches and cherries taste best in summer."
+          },
+          {
+            "text": "I checked that the mangoes were ripe before buying."
+          },
+          {
+            "text": "Cut fruit was sold in clear plastic boxes for convenience."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 39
+    },
+    {
+      "word": "Meat",
+      "phonetic": "",
+      "definition": "n. 肉",
+      "example": "Meat is animal flesh eaten as food.",
+      "example_trans": "肉是作为食物食用的动物肉。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "蛋白质"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I used ground meat to make dumpling filling."
+          },
+          {
+            "text": "I bought sliced meat for hotpot night."
+          },
+          {
+            "text": "I stored the frozen meat in the freezer."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 40
+    },
+    {
+      "word": "Fish",
+      "phonetic": "",
+      "definition": "n. 鱼",
+      "example": "Fish is a type of seafood.",
+      "example_trans": "鱼是一种海鲜。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "海鲜"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I bought fresh fish displayed on ice at the seafood counter."
+          },
+          {
+            "text": "Frozen fish was cheaper and easier to store."
+          },
+          {
+            "text": "I bought fish fillets because they had no bones."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 41
+    },
+    {
+      "word": "Bakery",
+      "phonetic": "",
+      "definition": "n. 面包店",
+      "example": "A bakery sells bread, cakes, and baked goods.",
+      "example_trans": "面包店出售面包、蛋糕和烘焙食品。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "店铺"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I stopped at the bakery to buy fresh bread."
+          },
+          {
+            "text": "The bakery section smelled wonderful near the store entrance."
+          },
+          {
+            "text": "I picked up sweet buns for breakfast tomorrow."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 42
+    },
+    {
+      "word": "Canned food",
+      "phonetic": "",
+      "definition": "n. 罐头食品",
+      "example": "Canned food is preserved in a metal container.",
+      "example_trans": "罐头食品保存在金属容器中。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "储存"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I bought canned soup for a quick and easy meal."
+          },
+          {
+            "text": "Canned fruit lasts longer than fresh fruit."
+          },
+          {
+            "text": "Canned tuna is great for sandwiches or salads."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 43
+    },
+    {
+      "word": "Package",
+      "phonetic": "",
+      "definition": "n. 包装",
+      "example": "A package is how a product is wrapped or boxed.",
+      "example_trans": "包装是产品包装或装箱的方式。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "物品"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I chose a small package of rice just for myself."
+          },
+          {
+            "text": "The family pack of tissues was more economical."
+          },
+          {
+            "text": "I opened the package carefully to check for damage."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 44
+    },
+    {
+      "word": "Bottle",
+      "phonetic": "",
+      "definition": "n. 瓶子",
+      "example": "A bottle holds liquids like drinks or sauces.",
+      "example_trans": "瓶子装有饮料或酱汁等液体。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "容器"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I carried a water bottle to stay hydrated."
+          },
+          {
+            "text": "The juice bottle was in the refrigerated section."
+          },
+          {
+            "text": "I handled the glass bottle with care."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 45
+    },
+    {
+      "word": "Bag",
+      "phonetic": "",
+      "definition": "n. 袋子",
+      "example": "A bag holds your items and helps carry them.",
+      "example_trans": "袋子装有您的物品并有助于携带它们。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "容器"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I paid 10 cents for a plastic bag at checkout."
+          },
+          {
+            "text": "I always bring a reusable bag when I shop."
+          },
+          {
+            "text": "They offered paper bags as a more eco-friendly choice."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 46
+    },
+    {
+      "word": "Organic",
+      "phonetic": "",
+      "definition": "adj. 有机的",
+      "example": "Organic means grown without synthetic chemicals.",
+      "example_trans": "有机意味着不使用合成化学物质种植。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "健康"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I chose organic apples to avoid pesticides."
+          },
+          {
+            "text": "I looked for the organic label on every product."
+          },
+          {
+            "text": "The organic milk was in a special section of the dairy aisle."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 47
+    },
+    {
+      "word": "Fresh",
+      "phonetic": "",
+      "definition": "adj. 新鲜的",
+      "example": "Fresh means recently made, picked, or cooked.",
+      "example_trans": "新鲜意味着最近制作、采摘或烹饪。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "质量"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The fresh produce looked colorful and healthy."
+          },
+          {
+            "text": "I bought freshly baked bread from the bakery."
+          },
+          {
+            "text": "I go early to get the freshest fish."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 48
+    },
+    {
+      "word": "Expired",
+      "phonetic": "",
+      "definition": "adj. 过期的",
+      "example": "Expired means the product is past its safe date.",
+      "example_trans": "过期意味着产品已超过其安全日期。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "质量"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I checked the expiry date on the yogurt."
+          },
+          {
+            "text": "The milk was expired and smelled bad."
+          },
+          {
+            "text": "I threw away the expired noodles from the pantry."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 49
+    },
+    {
+      "word": "Refund",
+      "phonetic": "",
+      "definition": "n. 退款",
+      "example": "A refund is money returned after a return or complaint.",
+      "example_trans": "退款是在退货或投诉后退还的钱。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "售后"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I requested a refund because the fruit was rotten."
+          },
+          {
+            "text": "I brought the receipt to the customer service desk."
+          },
+          {
+            "text": "They offered a cash refund or store credit."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 50
+    },
+    {
+      "word": "Bus stop",
+      "phonetic": "",
+      "definition": "n. 公交车站",
+      "example": "A bus stop is where people wait to catch the bus.",
+      "example_trans": "公交车站是人们等待乘坐公共汽车的地方。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "地点"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I waited at the bus stop near the pharmacy."
+          },
+          {
+            "text": "The sign showed when the next bus would arrive."
+          },
+          {
+            "text": "There was a bench at the bus stop for seniors."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 51
+    },
+    {
+      "word": "Subway",
+      "phonetic": "",
+      "definition": "n. 地铁",
+      "example": "A subway is an underground train used in big cities.",
+      "example_trans": "地铁是大型城市使用的地下火车。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "工具"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I took the subway downtown to visit my daughter."
+          },
+          {
+            "text": "The subway was crowded during rush hour."
+          },
+          {
+            "text": "I held the handrail while the subway was moving."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 52
+    },
+    {
+      "word": "Train",
+      "phonetic": "",
+      "definition": "n. 火车",
+      "example": "A train is a long vehicle that moves on tracks.",
+      "example_trans": "火车是一种在轨道上行驶的长车。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "工具"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I boarded the train at Central Station."
+          },
+          {
+            "text": "The train ride was fast and comfortable."
+          },
+          {
+            "text": "The ticket agent helped me find my train platform."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 53
+    },
+    {
+      "word": "Ticket",
+      "phonetic": "",
+      "definition": "n. 票",
+      "example": "A ticket is proof you paid for your ride.",
+      "example_trans": "票是您支付车费的证明。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "凭证"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I bought a train ticket online before leaving home."
+          },
+          {
+            "text": "You must show your bus ticket when you board."
+          },
+          {
+            "text": "I lost my subway ticket and had to buy a new one."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 54
+    },
+    {
+      "word": "Transfer",
+      "phonetic": "",
+      "definition": "n. 换乘",
+      "example": "A transfer lets you switch from one route to another.",
+      "example_trans": "换乘可让您从一条路线切换到另一条路线。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "换乘"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I transferred from the bus to the subway."
+          },
+          {
+            "text": "The driver gave me a paper transfer slip."
+          },
+          {
+            "text": "You must transfer within 90 minutes to avoid paying again."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 55
+    },
+    {
+      "word": "Station",
+      "phonetic": "",
+      "definition": "n. 车站",
+      "example": "A station is where passengers board or leave trains or buses.",
+      "example_trans": "车站是乘客上下火车或公共汽车的地方。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "地点"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "We waited for the train at the main station."
+          },
+          {
+            "text": "The bus station had a waiting room and a café."
+          },
+          {
+            "text": "The metro station had signs in French and English."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 56
+    },
+    {
+      "word": "Schedule",
+      "phonetic": "",
+      "definition": "n. 时间表",
+      "example": "A schedule tells you when buses or trains arrive.",
+      "example_trans": "时间表告诉您公共汽车或火车何时到达。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "时间"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I checked the bus schedule before leaving the house."
+          },
+          {
+            "text": "The printed schedule was posted at the stop."
+          },
+          {
+            "text": "Their weekend schedule is different from weekdays."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 57
+    },
+    {
+      "word": "Route",
+      "phonetic": "",
+      "definition": "n. 路线",
+      "example": "A route is the path a bus or train takes.",
+      "example_trans": "路线是公共汽车或火车采取的路径。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "方向"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I took the same bus route every day to the market."
+          },
+          {
+            "text": "Route 24 goes directly to Chinatown."
+          },
+          {
+            "text": "I asked the driver if the route stops near my building."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 58
+    },
+    {
+      "word": "Map",
+      "phonetic": "",
+      "definition": "n. 地图",
+      "example": "A map shows directions and where places are.",
+      "example_trans": "地图显示方向和地点位置。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "方向"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I used the transit map to find the right subway line."
+          },
+          {
+            "text": "The map at the station was easy to read."
+          },
+          {
+            "text": "She showed me a map of all the city’s bus routes."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 59
+    },
+    {
+      "word": "Direction",
+      "phonetic": "",
+      "definition": "n. 方向",
+      "example": "A direction is the way you are going.",
+      "example_trans": "方向是您前进的方向。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "位置"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The train was going in the opposite direction."
+          },
+          {
+            "text": "I asked for directions to the nearest supermarket."
+          },
+          {
+            "text": "We headed in the wrong direction and got off early."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 60
+    },
+    {
+      "word": "North",
+      "phonetic": "",
+      "definition": "n. 北",
+      "example": "North is one of the four main directions.",
+      "example_trans": "北是四个主要方向之一。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "位置"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The bus headed north toward the mountains."
+          },
+          {
+            "text": "The northbound train leaves every 15 minutes."
+          },
+          {
+            "text": "I checked the map and walked north on Main Street."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 61
+    },
+    {
+      "word": "South",
+      "phonetic": "",
+      "definition": "n. 南",
+      "example": "South is one of the four main directions.",
+      "example_trans": "南是四个主要方向之一。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "位置"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "We took the southbound bus to the airport."
+          },
+          {
+            "text": "My cousin lives in the south part of the city."
+          },
+          {
+            "text": "The sun is strongest in the south-facing garden."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 62
+    },
+    {
+      "word": "East",
+      "phonetic": "",
+      "definition": "n. 东",
+      "example": "East is one of the four main directions.",
+      "example_trans": "东是四个主要方向之一。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "位置"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I took the eastbound line to the museum."
+          },
+          {
+            "text": "The east side of the city is quieter."
+          },
+          {
+            "text": "The train heading east was delayed by 10 minutes."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 63
+    },
+    {
+      "word": "West",
+      "phonetic": "",
+      "definition": "n. 西",
+      "example": "West is one of the four main directions.",
+      "example_trans": "西是四个主要方向之一。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "位置"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I got lost going west and had to turn around."
+          },
+          {
+            "text": "The westbound tram stops right in front of my apartment."
+          },
+          {
+            "text": "We live on the west side of downtown."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 64
+    },
+    {
+      "word": "Driver",
+      "phonetic": "",
+      "definition": "n. 司机",
+      "example": "A driver drives the car.",
+      "example_trans": "司机驾驶汽车。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "职业"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The bus driver greeted every passenger with a smile."
+          },
+          {
+            "text": "The driver waited for an elderly man to sit down."
+          },
+          {
+            "text": "I thanked the driver before getting off the bus."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 65
+    },
+    {
+      "word": "Passenger",
+      "phonetic": "",
+      "definition": "n. 乘客",
+      "example": "A passenger is someone riding in a vehicle.",
+      "example_trans": "乘客是乘坐车辆的人。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "人群"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "There were many passengers on the subway during rush hour."
+          },
+          {
+            "text": "The passenger next to me offered me a seat."
+          },
+          {
+            "text": "All passengers must wear a mask on public transit."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 66
+    },
+    {
+      "word": "Fare",
+      "phonetic": "",
+      "definition": "n. 车费",
+      "example": "A fare is the money you pay for a ride.",
+      "example_trans": "车费是您为乘车支付的钱。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "费用"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I paid the bus fare with exact change."
+          },
+          {
+            "text": "Seniors get a reduced fare with their ID."
+          },
+          {
+            "text": "You must show your fare when requested by an inspector."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 67
+    },
+    {
+      "word": "Metro card",
+      "phonetic": "",
+      "definition": "n. 地铁卡",
+      "example": "A metro card is a reusable transit pass.",
+      "example_trans": "地铁卡是一种可重复使用的交通卡。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "支付"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I topped up my metro card before leaving."
+          },
+          {
+            "text": "The metro card works on buses and the subway."
+          },
+          {
+            "text": "She keeps her metro card in a separate wallet slot."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 68
+    },
+    {
+      "word": "Pay",
+      "phonetic": "",
+      "definition": "v. 支付",
+      "example": "To pay is to give money for something.",
+      "example_trans": "支付是为了给某物付钱。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "费用"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I pay cash on the bus when I don’t have my card."
+          },
+          {
+            "text": "You can also pay with your phone at the station."
+          },
+          {
+            "text": "We paid for two tickets at the counter."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 69
+    },
+    {
+      "word": "Get on",
+      "phonetic": "",
+      "definition": "v. 上车",
+      "example": "To get on is to enter a bus, train, or subway.",
+      "example_trans": "上车是进入公共汽车、火车或地铁。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "动作"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I got on the bus at the main square."
+          },
+          {
+            "text": "He got on the train just before the doors closed."
+          },
+          {
+            "text": "They got on the wrong subway and had to switch."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 70
+    },
+    {
+      "word": "Get off",
+      "phonetic": "",
+      "definition": "v. 下车",
+      "example": "To get off is to leave a vehicle.",
+      "example_trans": "下车是离开车辆。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "动作"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "We got off the bus near the hospital."
+          },
+          {
+            "text": "I reminded my mom to get off at the third stop."
+          },
+          {
+            "text": "Everyone got off at the final station."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 71
+    },
+    {
+      "word": "Next stop",
+      "phonetic": "",
+      "definition": "n. 下一站",
+      "example": "The next stop is the following place where the bus or train stops.",
+      "example_trans": "下一站是公共汽车或火车停靠的下一个地方。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "信息"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The screen showed “next stop: Saint-Laurent.”"
+          },
+          {
+            "text": "I pressed the button when my next stop was coming."
+          },
+          {
+            "text": "He asked the driver where the next stop would be."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 72
+    },
+    {
+      "word": "Final stop",
+      "phonetic": "",
+      "definition": "n. 终点站",
+      "example": "The final stop is the station at the end of the line.",
+      "example_trans": "终点站是线路末端的车站。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "信息"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The final stop is the station at the end of the line."
+          },
+          {
+            "text": "We had to get off at the final stop and wait."
+          },
+          {
+            "text": "The bus driver checked the bus after the final stop."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 73
+    },
+    {
+      "word": "Delay",
+      "phonetic": "",
+      "definition": "n. 延误",
+      "example": "A delay means the vehicle is late.",
+      "example_trans": "延误意味着车辆晚点。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "时间"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "There was a delay due to road construction."
+          },
+          {
+            "text": "We waited ten extra minutes because of the delay."
+          },
+          {
+            "text": "The train was delayed by a signal issue."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 74
+    },
+    {
+      "word": "Accessible",
+      "phonetic": "",
+      "definition": "adj. 无障碍的",
+      "example": "Accessible means easy to use for people with disabilities or mobility issues.",
+      "example_trans": "无障碍意味着残疾人或行动不便的人可以轻松使用。",
+      "derivatives": [],
+      "tags": [
+        "交通",
+        "设施"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "The accessible bus had a ramp for wheelchairs."
+          },
+          {
+            "text": "The station had elevators and accessible signs."
+          },
+          {
+            "text": "Accessible seating was marked at the front of the subway."
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 75
+    }
+  ],
+  "categories": [
+    "旅游",
+    "高频词"
+  ],
+  "exportDate": "2025-04-15T03:04:15.531Z",
+  "version": "1.0"
+}
