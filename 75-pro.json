@@ -1,0 +1,1262 @@
+[
+  {
+    "word": "Bag",
+    "phonetic": "/bæɡ/",
+    "definition": "n. 袋子",
+    "example": "A bag holds your items and helps carry them.",
+    "example_trans": "袋子装有您的物品并有助于携带它们。",
+    "derivatives": ["bags", "baggage", "bagging"],
+    "tags": ["购物", "容器"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I paid 10 cents for a plastic bag at checkout." },
+        { "text": "I always bring a reusable bag when I shop." }
+      ],
+      [
+        { "text": "They offered paper bags as a more eco-friendly choice." },
+        { "text": "I keep forgetting my reusable bags! Maybe Gomoon's reminder can help." }
+      ]
+    ]
+  },
+  {
+    "word": "Organic",
+    "phonetic": "/ɔːrˈɡænɪk/",
+    "definition": "adj. 有机的",
+    "example": "Organic means grown without synthetic chemicals.",
+    "example_trans": "有机意味着不使用合成化学物质种植。",
+    "derivatives": ["organically", "organism", "organics"],
+    "tags": ["食品", "健康"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I chose organic apples to avoid pesticides." },
+        { "text": "I looked for the organic label on every product." }
+      ],
+      [
+        { "text": "The organic milk was in a special section of the dairy aisle." },
+        { "text": "Are organic foods really worth the extra price?" }
+      ]
+    ]
+  },
+  {
+    "word": "Fresh",
+    "phonetic": "/freʃ/",
+    "definition": "adj. 新鲜的",
+    "example": "Fresh means recently made, picked, or cooked.",
+    "example_trans": "新鲜意味着最近制作、采摘或烹饪。",
+    "derivatives": ["freshly", "freshness", "freshen"],
+    "tags": ["食品", "质量"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The fresh produce looked colorful and healthy." },
+        { "text": "I bought freshly baked bread from the bakery." }
+      ],
+      [
+        { "text": "I go early to get the freshest fish." },
+        { "text": "I wish I could always get fresh ingredients." }
+      ]
+    ]
+  },
+  {
+    "word": "Expired",
+    "phonetic": "/ɪkˈspaɪərd/",
+    "definition": "adj. 过期的",
+    "example": "Expired means the product is past its safe date.",
+    "example_trans": "过期意味着产品已超过其安全日期。",
+    "derivatives": ["expire", "expiration", "expiring"],
+    "tags": ["食品", "质量"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I checked the expiry date on the yogurt." },
+        { "text": "The milk was expired and smelled bad." }
+      ],
+      [
+        { "text": "I threw away the expired noodles from the pantry." },
+        { "text": "Gomoon could remind me to check expiry dates regularly!" }
+      ]
+    ]
+  },
+  {
+    "word": "Refund",
+    "phonetic": "/ˈriːfʌnd/",
+    "definition": "n. 退款",
+    "example": "A refund is money returned after a return or complaint.",
+    "example_trans": "退款是在退货或投诉后退还的钱。",
+    "derivatives": ["refunded", "refunding", "refundable"],
+    "tags": ["购物", "售后"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I requested a refund because the fruit was rotten." },
+        { "text": "I brought the receipt to the customer service desk." }
+      ],
+      [
+        { "text": "They offered a cash refund or store credit." },
+        { "text": "I'll use Gomoon to track my refunds and store credits." }
+      ]
+    ]
+  },
+  {
+    "word": "Bus stop",
+    "phonetic": "/ˈbʌs stɑːp/",
+    "definition": "n. 公交车站",
+    "example": "A bus stop is where people wait to catch the bus.",
+    "example_trans": "公交车站是人们等待乘坐公共汽车的地方。",
+    "derivatives": ["bus stops"],
+    "tags": ["交通", "地点"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I waited at the bus stop near the pharmacy." },
+        { "text": "The sign showed when the next bus would arrive." }
+      ],
+      [
+        { "text": "There was a bench at the bus stop for seniors." },
+        { "text": "I wish I knew the bus schedule, maybe Gomoon can tell me." }
+      ]
+    ]
+  },
+  {
+    "word": "Subway",
+    "phonetic": "/ˈsʌbweɪ/",
+    "definition": "n. 地铁",
+    "example": "A subway is an underground train used in big cities.",
+    "example_trans": "地铁是大型城市使用的地下火车。",
+    "derivatives": ["subways"],
+    "tags": ["交通", "工具"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I took the subway downtown to visit my daughter." },
+        { "text": "The subway was crowded during rush hour." }
+      ],
+      [
+        { "text": "I held the handrail while the subway was moving." },
+        { "text": "I'll check the subway map on Gomoon to plan my route." }
+      ]
+    ]
+  },
+  {
+    "word": "Train",
+    "phonetic": "/treɪn/",
+    "definition": "n. 火车",
+    "example": "A train is a long vehicle that moves on tracks.",
+    "example_trans": "火车是一种在轨道上行驶的长车。",
+    "derivatives": ["trains", "training"],
+    "tags": ["交通", "工具"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I boarded the train at Central Station." },
+        { "text": "The train ride was fast and comfortable." }
+      ],
+      [
+        { "text": "The ticket agent helped me find my train platform." },
+        { "text": "I'll use Gomoon to find the train schedule." }
+      ]
+    ]
+  },
+  {
+    "word": "Ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "definition": "n. 票",
+    "example": "A ticket is proof you paid for your ride.",
+    "example_trans": "票是您支付车费的证明。",
+    "derivatives": ["tickets", "ticketed"],
+    "tags": ["交通", "凭证"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I bought a train ticket online before leaving home." },
+        { "text": "You must show your bus ticket when you board." }
+      ],
+      [
+        { "text": "I lost my subway ticket and had to buy a new one." },
+        { "text": "I'll store my ticket info in Gomoon's memory capsule." }
+      ]
+    ]
+  },
+  {
+    "word": "Transfer",
+    "phonetic": "/ˈtrænsfɜːr/",
+    "definition": "n. 换乘",
+    "example": "A transfer lets you switch from one route to another.",
+    "example_trans": "换乘可让您从一条路线切换到另一条路线。",
+    "derivatives": ["transferred", "transferring"],
+    "tags": ["交通", "换乘"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I transferred from the bus to the subway." },
+        { "text": "The driver gave me a paper transfer slip." }
+      ],
+      [
+        { "text": "You must transfer within 90 minutes to avoid paying again." },
+        { "text": "Gomoon can remind me when my transfer is about to expire." }
+      ]
+    ]
+  },
+  {
+    "word": "Station",
+    "phonetic": "/ˈsteɪʃn/",
+    "definition": "n. 车站",
+    "example": "A station is where passengers board or leave trains or buses.",
+    "example_trans": "车站是乘客上下火车或公共汽车的地方。",
+    "derivatives": ["stations", "stationary"],
+    "tags": ["交通", "地点"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "We waited for the train at the main station." },
+        { "text": "The bus station had a waiting room and a café." }
+      ],
+      [
+        { "text": "The metro station had signs in French and English." },
+        { "text": "I'll use Gomoon to translate the station signs." }
+      ]
+    ]
+  },
+  {
+    "word": "Schedule",
+    "phonetic": "/ˈskedʒuːl/",
+    "definition": "n. 时间表",
+    "example": "A schedule tells you when buses or trains arrive.",
+    "example_trans": "时间表告诉您公共汽车或火车何时到达。",
+    "derivatives": ["schedules", "scheduled"],
+    "tags": ["交通", "时间"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I checked the bus schedule before leaving the house." },
+        { "text": "The printed schedule was posted at the stop." }
+      ],
+      [
+        { "text": "Their weekend schedule is different from weekdays." },
+        { "text": "Gomoon can remind me of the bus schedule." }
+      ]
+    ]
+  },
+  {
+    "word": "Route",
+    "phonetic": "/ruːt/",
+    "definition": "n. 路线",
+    "example": "A route is the path a bus or train takes.",
+    "example_trans": "路线是公共汽车或火车采取的路径。",
+    "derivatives": ["routes", "router"],
+    "tags": ["交通", "方向"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I took the same bus route every day to the market." },
+        { "text": "Route 24 goes directly to Chinatown." }
+      ],
+      [
+        { "text": "I asked the driver if the route stops near my building." },
+        { "text": "I'll ask Gomoon for the best route to my destination." }
+      ]
+    ]
+  },
+  {
+    "word": "Map",
+    "phonetic": "/mæp/",
+    "definition": "n. 地图",
+    "example": "A map shows directions and where places are.",
+    "example_trans": "地图显示方向和地点位置。",
+    "derivatives": ["maps", "mapping"],
+    "tags": ["交通", "方向"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I used the transit map to find the right subway line." },
+        { "text": "The map at the station was easy to read." }
+      ],
+      [
+        { "text": "She showed me a map of all the city’s bus routes." },
+        { "text": "I'll download a transit map on Gomoon for offline use." }
+      ]
+    ]
+  },
+  {
+    "word": "Direction",
+    "phonetic": "/dəˈrekʃn/",
+    "definition": "n. 方向",
+    "example": "A direction is the way you are going.",
+    "example_trans": "方向是您前进的方向。",
+    "derivatives": ["directions", "directional"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The train was going in the opposite direction." },
+        { "text": "I asked for directions to the nearest supermarket." }
+      ],
+      [
+        { "text": "We headed in the wrong direction and got off early." },
+        { "text": "I'll ask Gomoon for clear directions." }
+      ]
+    ]
+  },
+  {
+    "word": "North",
+    "phonetic": "/nɔːrθ/",
+    "definition": "n. 北",
+    "example": "North is one of the four main directions.",
+    "example_trans": "北是四个主要方向之一。",
+    "derivatives": ["northward", "northern"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The bus headed north toward the mountains." },
+        { "text": "The northbound train leaves every 15 minutes." }
+      ],
+      [
+        { "text": "I checked the map and walked north on Main Street." },
+        { "text": "Gomoon can show me what's north of here." }
+      ]
+    ]
+  },
+  {
+    "word": "South",
+    "phonetic": "/saʊθ/",
+    "definition": "n. 南",
+    "example": "South is one of the four main directions.",
+    "example_trans": "南是四个主要方向之一。",
+    "derivatives": ["southward", "southern"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "We took the southbound bus to the airport." },
+        { "text": "My cousin lives in the south part of the city." }
+      ],
+      [
+        { "text": "The sun is strongest in the south-facing garden." },
+        { "text": "Gomoon can tell me the best time to visit the south-facing garden." }
+      ]
+    ]
+  },
+  {
+    "word": "East",
+    "phonetic": "/iːst/",
+    "definition": "n. 东",
+    "example": "East is one of the four main directions.",
+    "example_trans": "东是四个主要方向之一。",
+    "derivatives": ["eastward", "eastern"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I took the eastbound line to the museum." },
+        { "text": "The east side of the city is quieter." }
+      ],
+      [
+        { "text": "The train heading east was delayed by 10 minutes." },
+        { "text": "I'll check Gomoon for the best route heading east." }
+      ]
+    ]
+  },
+  {
+    "word": "West",
+    "phonetic": "/west/",
+    "definition": "n. 西",
+    "example": "West is one of the four main directions.",
+    "example_trans": "西是四个主要方向之一。",
+    "derivatives": ["westward", "western"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I got lost going west and had to turn around." },
+        { "text": "The westbound tram stops right in front of my apartment." }
+      ],
+      [
+        { "text": "We live on the west side of downtown." },
+        { "text": "I'll use Gomoon to find the best restaurants on the west side." }
+      ]
+    ]
+  },
+  {
+    "word": "Driver",
+    "phonetic": "/ˈdraɪvər/",
+    "definition": "n. 司机",
+    "example": "A driver drives the car.",
+    "example_trans": "司机驾驶汽车。",
+    "derivatives": ["drivers", "driving"],
+    "tags": ["交通", "职业"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The bus driver greeted every passenger with a smile." },
+        { "text": "The driver waited for an elderly man to sit down." }
+      ],
+      [
+        { "text": "I thanked the driver before getting off the bus." },
+        { "text": "I'll use Gomoon to translate a thank you message for the driver." }
+      ]
+    ]
+  },
+  {
+    "word": "Passenger",
+    "phonetic": "/ˈpæsɪndʒər/",
+    "definition": "n. 乘客",
+    "example": "A passenger is someone riding in a vehicle.",
+    "example_trans": "乘客是乘坐车辆的人。",
+    "derivatives": ["passengers", "passengers"],
+    "tags": ["交通", "人群"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "There were many passengers on the subway during rush hour." },
+        { "text": "The passenger next to me offered me a seat." }
+      ],
+      [
+        { "text": "All passengers must wear a mask on public transit." },
+        { "text": "I'll use Gomoon to find out the rules for passengers on this train." }
+      ]
+    ]
+  },
+  {
+    "word": "Fare",
+    "phonetic": "/fer/",
+    "definition": "n. 车费",
+    "example": "A fare is the money you pay for a ride.",
+    "example_trans": "车费是您为乘车支付的钱。",
+    "derivatives": ["fares", "fair"],
+    "tags": ["交通", "费用"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I paid the bus fare with exact change." },
+        { "text": "Seniors get a reduced fare with their ID." }
+      ],
+      [
+        { "text": "You must show your fare when requested by an inspector." },
+        { "text": "I'll use Gomoon to calculate the correct fare for my trip." }
+      ]
+    ]
+  },
+  {
+    "word": "Metro card",
+    "phonetic": "/ˈmetroʊ kɑːrd/",
+    "definition": "n. 地铁卡",
+    "example": "A metro card is a reusable transit pass.",
+    "example_trans": "地铁卡是一种可重复使用的交通卡。",
+    "derivatives": [],
+    "tags": ["交通", "支付"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I topped up my metro card before leaving." },
+        { "text": "The metro card works on buses and the subway." }
+      ],
+      [
+        { "text": "She keeps her metro card in a separate wallet slot." },
+        { "text": "I'll use Gomoon to remind me to recharge my metro card." }
+      ]
+    ]
+  },
+  {
+    "word": "Pay",
+    "phonetic": "/peɪ/",
+    "definition": "v. 支付",
+    "example": "To pay is to give money for something.",
+    "example_trans": "支付是为了给某物付钱。",
+    "derivatives": ["pays", "paid", "paying"],
+    "tags": ["交通", "费用"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I pay cash on the bus when I don’t have my card." },
+        { "text": "You can also pay with your phone at the station." }
+      ],
+      [
+        { "text": "We paid for two tickets at the counter." },
+        { "text": "I'll use Gomoon to convert the price to my local currency." }
+      ]
+    ]
+  },
+  {
+    "word": "Get on",
+    "phonetic": "/ɡet ɑːn/",
+    "definition": "v. 上车",
+    "example": "To get on is to enter a bus, train, or subway.",
+    "example_trans": "上车是进入公共汽车、火车或地铁。",
+    "derivatives": [],
+    "tags": ["交通", "动作"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I got on the bus at the main square." },
+        { "text": "He got on the train just before the doors closed." }
+      ],
+      [
+        { "text": "They got on the wrong subway and had to switch." },
+        { "text": "I'll use Gomoon to confirm I'm getting on the right bus." }
+      ]
+    ]
+  },
+  {
+    "word": "Get off",
+    "phonetic": "/ɡet ɔːf/",
+    "definition": "v. 下车",
+    "example": "To get off is to leave a vehicle.",
+    "example_trans": "下车是离开车辆。",
+    "derivatives": [],
+    "tags": ["交通", "动作"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "We got off the bus near the hospital." },
+        { "text": "I reminded my mom to get off at the third stop." }
+      ],
+      [
+        { "text": "Everyone got off at the final station." },
+        { "text": "I'll set a Gomoon alarm to wake me up before my stop." }
+      ]
+    ]
+  },
+  {
+    "word": "Next stop",
+    "phonetic": "/nekst stɑːp/",
+    "definition": "n. 下一站",
+    "example": "The next stop is the following place where the bus or train stops.",
+    "example_trans": "下一站是公共汽车或火车停靠的下一个地方。",
+    "derivatives": [],
+    "tags": ["交通", "信息"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The screen showed “next stop: Saint-Laurent.”" },
+        { "text": "I pressed the button when my next stop was coming." }
+      ],
+      [
+        { "text": "He asked the driver where the next stop would be." },
+        { "text": "I'll use Gomoon to find out more about the next stop." }
+      ]
+    ]
+  },
+  {
+    "word": "Final stop",
+    "phonetic": "/ˈfaɪnl stɑːp/",
+    "definition": "n. 终点站",
+    "example": "The final stop is the station at the end of the line.",
+    "example_trans": "终点站是线路末端的车站。",
+    "derivatives": [],
+    "tags": ["交通", "信息"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The final stop is the station at the end of the line." },
+        { "text": "We had to get off at the final stop and wait." }
+      ],
+      [
+        { "text": "The bus driver checked the bus after the final stop." },
+        { "text": "I'll set a Gomoon alarm to wake me up before the final stop." }
+      ]
+    ]
+  },
+  {
+    "word": "Delay",
+    "phonetic": "/dɪˈleɪ/",
+    "definition": "n. 延误",
+    "example": "There was a delay due to road construction.",
+    "example_trans": "由于道路施工，交通延误。",
+    "derivatives": ["delays", "delayed", "delaying"],
+    "tags": ["交通", "时间"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "There was a delay due to road construction." },
+        { "text": "We waited ten extra minutes because of the delay." }
+      ],
+      [
+        { "text": "The train was delayed by a signal issue." },
+        { "text": "I'll use Gomoon to find an alternative route due to the delay." }
+      ]
+    ]
+  },
+  {
+    "word": "Accessible",
+    "phonetic": "/əkˈsesəbl/",
+    "definition": "adj. 无障碍的",
+    "example": "Accessible means easy to use for people with disabilities or mobility issues.",
+    "example_trans": "无障碍意味着残疾人或行动不便的人可以轻松使用。",
+    "derivatives": ["accessibility", "accessibly"],
+    "tags": ["交通", "设施"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The accessible bus had a ramp for wheelchairs." },
+        { "text": "The station had elevators and accessible signs." }
+      ],
+      [
+        { "text": "Accessible seating was marked at the front of the subway." },
+        { "text": "I'll use Gomoon to find accessible routes and stations." }
+      ]
+    ]
+  },
+  {
+    "word": "Bag",
+    "phonetic": "/bæɡ/",
+    "definition": "n. 袋子",
+    "example": "A bag holds your items and helps carry them.",
+    "example_trans": "袋子装有您的物品并有助于携带它们。",
+    "derivatives": ["bags", "baggage", "bagging"],
+    "tags": ["购物", "容器"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I paid 10 cents for a plastic bag at checkout." },
+        { "text": "I always bring a reusable bag when I shop." }
+      ],
+      [
+        { "text": "They offered paper bags as a more eco-friendly choice." },
+        { "text": "I keep forgetting my reusable bags! Maybe Gomoon's reminder can help." }
+      ]
+    ]
+  },
+  {
+    "word": "Organic",
+    "phonetic": "/ɔːrˈɡænɪk/",
+    "definition": "adj. 有机的",
+    "example": "Organic means grown without synthetic chemicals.",
+    "example_trans": "有机意味着不使用合成化学物质种植。",
+    "derivatives": ["organically", "organism", "organics"],
+    "tags": ["食品", "健康"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I chose organic apples to avoid pesticides." },
+        { "text": "I looked for the organic label on every product." }
+      ],
+      [
+        { "text": "The organic milk was in a special section of the dairy aisle." },
+        { "text": "Are organic foods really worth the extra price?" }
+      ]
+    ]
+  },
+  {
+    "word": "Fresh",
+    "phonetic": "/freʃ/",
+    "definition": "adj. 新鲜的",
+    "example": "Fresh means recently made, picked, or cooked.",
+    "example_trans": "新鲜意味着最近制作、采摘或烹饪。",
+    "derivatives": ["freshly", "freshness", "freshen"],
+    "tags": ["食品", "质量"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The fresh produce looked colorful and healthy." },
+        { "text": "I bought freshly baked bread from the bakery." }
+      ],
+      [
+        { "text": "I go early to get the freshest fish." },
+        { "text": "I wish I could always get fresh ingredients." }
+      ]
+    ]
+  },
+  {
+    "word": "Expired",
+    "phonetic": "/ɪkˈspaɪərd/",
+    "definition": "adj. 过期的",
+    "example": "Expired means the product is past its safe date.",
+    "example_trans": "过期意味着产品已超过其安全日期。",
+    "derivatives": ["expire", "expiration", "expiring"],
+    "tags": ["食品", "质量"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I checked the expiry date on the yogurt." },
+        { "text": "The milk was expired and smelled bad." }
+      ],
+      [
+        { "text": "I threw away the expired noodles from the pantry." },
+        { "text": "Gomoon could remind me to check expiry dates regularly!" }
+      ]
+    ]
+  },
+  {
+    "word": "Refund",
+    "phonetic": "/ˈriːfʌnd/",
+    "definition": "n. 退款",
+    "example": "A refund is money returned after a return or complaint.",
+    "example_trans": "退款是在退货或投诉后退还的钱。",
+    "derivatives": ["refunded", "refunding", "refundable"],
+    "tags": ["购物", "售后"],
+    "categories": ["购物"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I requested a refund because the fruit was rotten." },
+        { "text": "I brought the receipt to the customer service desk." }
+      ],
+      [
+        { "text": "They offered a cash refund or store credit." },
+        { "text": "I'll use Gomoon to track my refunds and store credits." }
+      ]
+    ]
+  },
+  {
+    "word": "Bus stop",
+    "phonetic": "/ˈbʌs stɑːp/",
+    "definition": "n. 公交车站",
+    "example": "A bus stop is where people wait to catch the bus.",
+    "example_trans": "公交车站是人们等待乘坐公共汽车的地方。",
+    "derivatives": ["bus stops"],
+    "tags": ["交通", "地点"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I waited at the bus stop near the pharmacy." },
+        { "text": "The sign showed when the next bus would arrive." }
+      ],
+      [
+        { "text": "There was a bench at the bus stop for seniors." },
+        { "text": "I wish I knew the bus schedule, maybe Gomoon can tell me." }
+      ]
+    ]
+  },
+  {
+    "word": "Subway",
+    "phonetic": "/ˈsʌbweɪ/",
+    "definition": "n. 地铁",
+    "example": "A subway is an underground train used in big cities.",
+    "example_trans": "地铁是大型城市使用的地下火车。",
+    "derivatives": ["subways"],
+    "tags": ["交通", "工具"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I took the subway downtown to visit my daughter." },
+        { "text": "The subway was crowded during rush hour." }
+      ],
+      [
+        { "text": "I held the handrail while the subway was moving." },
+        { "text": "I'll check the subway map on Gomoon to plan my route." }
+      ]
+    ]
+  },
+  {
+    "word": "Train",
+    "phonetic": "/treɪn/",
+    "definition": "n. 火车",
+    "example": "A train is a long vehicle that moves on tracks.",
+    "example_trans": "火车是一种在轨道上行驶的长车。",
+    "derivatives": ["trains", "training"],
+    "tags": ["交通", "工具"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I boarded the train at Central Station." },
+        { "text": "The train ride was fast and comfortable." }
+      ],
+      [
+        { "text": "The ticket agent helped me find my train platform." },
+        { "text": "I'll use Gomoon to find the train schedule." }
+      ]
+    ]
+  },
+  {
+    "word": "Ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "definition": "n. 票",
+    "example": "A ticket is proof you paid for your ride.",
+    "example_trans": "票是您支付车费的证明。",
+    "derivatives": ["tickets", "ticketed"],
+    "tags": ["交通", "凭证"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I bought a train ticket online before leaving home." },
+        { "text": "You must show your bus ticket when you board." }
+      ],
+      [
+        { "text": "I lost my subway ticket and had to buy a new one." },
+        { "text": "I'll store my ticket info in Gomoon's memory capsule." }
+      ]
+    ]
+  },
+  {
+    "word": "Transfer",
+    "phonetic": "/ˈtrænsfɜːr/",
+    "definition": "n. 换乘",
+    "example": "A transfer lets you switch from one route to another.",
+    "example_trans": "换乘可让您从一条路线切换到另一条路线。",
+    "derivatives": ["transferred", "transferring"],
+    "tags": ["交通", "换乘"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I transferred from the bus to the subway." },
+        { "text": "The driver gave me a paper transfer slip." }
+      ],
+      [
+        { "text": "You must transfer within 90 minutes to avoid paying again." },
+        { "text": "Gomoon can remind me when my transfer is about to expire." }
+      ]
+    ]
+  },
+  {
+    "word": "Station",
+    "phonetic": "/ˈsteɪʃn/",
+    "definition": "n. 车站",
+    "example": "A station is where passengers board or leave trains or buses.",
+    "example_trans": "车站是乘客上下火车或公共汽车的地方。",
+    "derivatives": ["stations", "stationary"],
+    "tags": ["交通", "地点"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "We waited for the train at the main station." },
+        { "text": "The bus station had a waiting room and a café." }
+      ],
+      [
+        { "text": "The metro station had signs in French and English." },
+        { "text": "I'll use Gomoon to translate the station signs." }
+      ]
+    ]
+  },
+  {
+    "word": "Schedule",
+    "phonetic": "/ˈskedʒuːl/",
+    "definition": "n. 时间表",
+    "example": "A schedule tells you when buses or trains arrive.",
+    "example_trans": "时间表告诉您公共汽车或火车何时到达。",
+    "derivatives": ["schedules", "scheduled"],
+    "tags": ["交通", "时间"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I checked the bus schedule before leaving the house." },
+        { "text": "The printed schedule was posted at the stop." }
+      ],
+      [
+        { "text": "Their weekend schedule is different from weekdays." },
+        { "text": "Gomoon can remind me of the bus schedule." }
+      ]
+    ]
+  },
+  {
+    "word": "Route",
+    "phonetic": "/ruːt/",
+    "definition": "n. 路线",
+    "example": "A route is the path a bus or train takes.",
+    "example_trans": "路线是公共汽车或火车采取的路径。",
+    "derivatives": ["routes", "router"],
+    "tags": ["交通", "方向"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I took the same bus route every day to the market." },
+        { "text": "Route 24 goes directly to Chinatown." }
+      ],
+      [
+        { "text": "I asked the driver if the route stops near my building." },
+        { "text": "I'll ask Gomoon for the best route to my destination." }
+      ]
+    ]
+  },
+  {
+    "word": "Map",
+    "phonetic": "/mæp/",
+    "definition": "n. 地图",
+    "example": "A map shows directions and where places are.",
+    "example_trans": "地图显示方向和地点位置。",
+    "derivatives": ["maps", "mapping"],
+    "tags": ["交通", "方向"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I used the transit map to find the right subway line." },
+        { "text": "The map at the station was easy to read." }
+      ],
+      [
+        { "text": "She showed me a map of all the city’s bus routes." },
+        { "text": "I'll download a transit map on Gomoon for offline use." }
+      ]
+    ]
+  },
+  {
+    "word": "Direction",
+    "phonetic": "/dəˈrekʃn/",
+    "definition": "n. 方向",
+    "example": "A direction is the way you are going.",
+    "example_trans": "方向是您前进的方向。",
+    "derivatives": ["directions", "directional"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The train was going in the opposite direction." },
+        { "text": "I asked for directions to the nearest supermarket." }
+      ],
+      [
+        { "text": "We headed in the wrong direction and got off early." },
+        { "text": "I'll ask Gomoon for clear directions." }
+      ]
+    ]
+  },
+  {
+    "word": "North",
+    "phonetic": "/nɔːrθ/",
+    "definition": "n. 北",
+    "example": "North is one of the four main directions.",
+    "example_trans": "北是四个主要方向之一。",
+    "derivatives": ["northward", "northern"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The bus headed north toward the mountains." },
+        { "text": "The northbound train leaves every 15 minutes." }
+      ],
+      [
+        { "text": "I checked the map and walked north on Main Street." },
+        { "text": "Gomoon can show me what's north of here." }
+      ]
+    ]
+  },
+  {
+    "word": "South",
+    "phonetic": "/saʊθ/",
+    "definition": "n. 南",
+    "example": "South is one of the four main directions.",
+    "example_trans": "南是四个主要方向之一。",
+    "derivatives": ["southward", "southern"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "We took the southbound bus to the airport." },
+        { "text": "My cousin lives in the south part of the city." }
+      ],
+      [
+        { "text": "The sun is strongest in the south-facing garden." },
+        { "text": "Gomoon can tell me the best time to visit the south-facing garden." }
+      ]
+    ]
+  },
+  {
+    "word": "East",
+    "phonetic": "/iːst/",
+    "definition": "n. 东",
+    "example": "East is one of the four main directions.",
+    "example_trans": "东是四个主要方向之一。",
+    "derivatives": ["eastward", "eastern"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I took the eastbound line to the museum." },
+        { "text": "The east side of the city is quieter." }
+      ],
+      [
+        { "text": "The train heading east was delayed by 10 minutes." },
+        { "text": "I'll check Gomoon for the best route heading east." }
+      ]
+    ]
+  },
+  {
+    "word": "West",
+    "phonetic": "/west/",
+    "definition": "n. 西",
+    "example": "West is one of the four main directions.",
+    "example_trans": "西是四个主要方向之一。",
+    "derivatives": ["westward", "western"],
+    "tags": ["交通", "位置"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I got lost going west and had to turn around." },
+        { "text": "The westbound tram stops right in front of my apartment." }
+      ],
+      [
+        { "text": "We live on the west side of downtown." },
+        { "text": "I'll use Gomoon to find the best restaurants on the west side." }
+      ]
+    ]
+  },
+  {
+    "word": "Driver",
+    "phonetic": "/ˈdraɪvər/",
+    "definition": "n. 司机",
+    "example": "A driver drives the car.",
+    "example_trans": "司机驾驶汽车。",
+    "derivatives": ["drivers", "driving"],
+    "tags": ["交通", "职业"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The bus driver greeted every passenger with a smile." },
+        { "text": "The driver waited for an elderly man to sit down." }
+      ],
+      [
+        { "text": "I thanked the driver before getting off the bus." },
+        { "text": "I'll use Gomoon to translate a thank you message for the driver." }
+      ]
+    ]
+  },
+  {
+    "word": "Passenger",
+    "phonetic": "/ˈpæsɪndʒər/",
+    "definition": "n. 乘客",
+    "example": "A passenger is someone riding in a vehicle.",
+    "example_trans": "乘客是乘坐车辆的人。",
+    "derivatives": ["passengers", "passengers"],
+    "tags": ["交通", "人群"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "There were many passengers on the subway during rush hour." },
+        { "text": "The passenger next to me offered me a seat." }
+      ],
+      [
+        { "text": "All passengers must wear a mask on public transit." },
+        { "text": "I'll use Gomoon to find out the rules for passengers on this train." }
+      ]
+    ]
+  },
+  {
+    "word": "Fare",
+    "phonetic": "/fer/",
+    "definition": "n. 车费",
+    "example": "A fare is the money you pay for a ride.",
+    "example_trans": "车费是您为乘车支付的钱。",
+    "derivatives": ["fares", "fair"],
+    "tags": ["交通", "费用"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I paid the bus fare with exact change." },
+        { "text": "Seniors get a reduced fare with their ID." }
+      ],
+      [
+        { "text": "You must show your fare when requested by an inspector." },
+        { "text": "I'll use Gomoon to calculate the correct fare for my trip." }
+      ]
+    ]
+  },
+  {
+    "word": "Metro card",
+    "phonetic": "/ˈmetroʊ kɑːrd/",
+    "definition": "n. 地铁卡",
+    "example": "A metro card is a reusable transit pass.",
+    "example_trans": "地铁卡是一种可重复使用的交通卡。",
+    "derivatives": [],
+    "tags": ["交通", "支付"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I topped up my metro card before leaving." },
+        { "text": "The metro card works on buses and the subway." }
+      ],
+      [
+        { "text": "She keeps her metro card in a separate wallet slot." },
+        { "text": "I'll use Gomoon to remind me to recharge my metro card." }
+      ]
+    ]
+  },
+  {
+    "word": "Pay",
+    "phonetic": "/peɪ/",
+    "definition": "v. 支付",
+    "example": "To pay is to give money for something.",
+    "example_trans": "支付是为了给某物付钱。",
+    "derivatives": ["pays", "paid", "paying"],
+    "tags": ["交通", "费用"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I pay cash on the bus when I don’t have my card." },
+        { "text": "You can also pay with your phone at the station." }
+      ],
+      [
+        { "text": "We paid for two tickets at the counter." },
+        { "text": "I'll use Gomoon to convert the price to my local currency." }
+      ]
+    ]
+  },
+  {
+    "word": "Get on",
+    "phonetic": "/ɡet ɑːn/",
+    "definition": "v. 上车",
+    "example": "To get on is to enter a bus, train, or subway.",
+    "example_trans": "上车是进入公共汽车、火车或地铁。",
+    "derivatives": [],
+    "tags": ["交通", "动作"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "I got on the bus at the main square." },
+        { "text": "He got on the train just before the doors closed." }
+      ],
+      [
+        { "text": "They got on the wrong subway and had to switch." },
+        { "text": "I'll use Gomoon to confirm I'm getting on the right bus." }
+      ]
+    ]
+  },
+  {
+    "word": "Get off",
+    "phonetic": "/ɡet ɔːf/",
+    "definition": "v. 下车",
+    "example": "To get off is to leave a vehicle.",
+    "example_trans": "下车是离开车辆。",
+    "derivatives": [],
+    "tags": ["交通", "动作"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "We got off the bus near the hospital." },
+        { "text": "I reminded my mom to get off at the third stop." }
+      ],
+      [
+        { "text": "Everyone got off at the final station." },
+        { "text": "I'll set a Gomoon reminder to get off at my stop." }
+      ]
+    ]
+  },
+  {
+    "word": "Next stop",
+    "phonetic": "/nekst stɑːp/",
+    "definition": "n. 下一站",
+    "example": "The next stop is the following place where the bus or train stops.",
+    "example_trans": "下一站是公共汽车或火车停靠的下一个地方。",
+    "derivatives": [],
+    "tags": ["交通", "信息"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The screen showed “next stop: Saint-Laurent.”" },
+        { "text": "I pressed the button when my next stop was coming." }
+      ],
+      [
+        { "text": "He asked the driver where the next stop would be." },
+        { "text": "I'll use Gomoon to find out more about the next stop." }
+      ]
+    ]
+  },
+  {
+    "word": "Final stop",
+    "phonetic": "/ˈfaɪnl stɑːp/",
+    "definition": "n. 终点站",
+    "example": "The final stop is the station at the end of the line.",
+    "example_trans": "终点站是线路末端的车站。",
+    "derivatives": [],
+    "tags": ["交通", "信息"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The final stop is the station at the end of the line." },
+        { "text": "We had to get off at the final stop and wait." }
+      ],
+      [
+        { "text": "The bus driver checked the bus after the final stop." },
+        { "text": "I'll set a Gomoon alarm to wake me up before the final stop." }
+      ]
+    ]
+  },
+  {
+    "word": "Delay",
+    "phonetic": "/dɪˈleɪ/",
+    "definition": "n. 延误",
+    "example": "There was a delay due to road construction.",
+    "example_trans": "由于道路施工，交通延误。",
+    "derivatives": ["delays", "delayed", "delaying"],
+    "tags": ["交通", "时间"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "There was a delay due to road construction." },
+        { "text": "We waited ten extra minutes because of the delay." }
+      ],
+      [
+        { "text": "The train was delayed by a signal issue." },
+        { "text": "I'll use Gomoon to find an alternative route due to the delay." }
+      ]
+    ]
+  },
+  {
+    "word": "Accessible",
+    "phonetic": "/əkˈsesəbl/",
+    "definition": "adj. 无障碍的",
+    "example": "Accessible means easy to use for people with disabilities or mobility issues.",
+    "example_trans": "无障碍意味着残疾人或行动不便的人可以轻松使用。",
+    "derivatives": ["accessibility", "accessibly"],
+    "tags": ["交通", "设施"],
+    "categories": ["交通"],
+    "level": 2,
+    "dialogues": [
+      [
+        { "text": "The accessible bus had a ramp for wheelchairs." },
+        { "text": "The station had elevators and accessible signs." }
+      ],
+      [
+        { "text": "Accessible seating was marked at the front of the subway." },
+        { "text": "I'll use Gomoon to find accessible routes and stations." }
+      ]
+    ]
+  }
+]
