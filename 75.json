@@ -1,0 +1,3194 @@
+{
+  "words": [
+    {
+      "word": "Cart",
+      "phonetic": "/kɑːrt/",
+      "definition": "n. 购物车",
+      "example": "I need a cart to carry all these groceries.",
+      "example_trans": "我需要一个购物车来装这些杂货。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "超市"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Excuse me, where can I find a shopping cart?",
+            "translation": "请问，哪里可以找到购物车？"
+          },
+          {
+            "text": "They are usually near the entrance of the store.",
+            "translation": "它们通常在商店的入口附近。"
+          }
+        ],
+        [
+          {
+            "text": "This cart's wheel is stuck.",
+            "translation": "这个购物车的轮子卡住了。"
+          },
+          {
+            "text": "I'll get you another one.",
+            "translation": "我给你换一个。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 1
+    },
+    {
+      "word": "Basket",
+      "phonetic": "/ˈbæskɪt/",
+      "definition": "n. 购物篮",
+      "example": "I only need a few items, so I'll just take a basket.",
+      "example_trans": "我只需要几样东西，所以我拿个购物篮就行了。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "超市"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Do you need a cart or just a basket?",
+            "translation": "您需要购物车还是购物篮？"
+          },
+          {
+            "text": "A basket will be fine, thank you.",
+            "translation": "一个购物篮就够了，谢谢。"
+          }
+        ],
+        [
+          {
+            "text": "This basket is a bit heavy.",
+            "translation": "这个购物篮有点重。"
+          },
+          {
+            "text": "Let me help you carry it.",
+            "translation": "我来帮你提吧。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 2
+    },
+    {
+      "word": "Cashier",
+      "phonetic": "/kæˈʃɪr/",
+      "definition": "n. 收银员",
+      "example": "The cashier scanned my items quickly and efficiently.",
+      "example_trans": "收银员快速有效地扫描了我的商品。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "支付"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Next in line, please. The cashier is ready for you.",
+            "translation": "下一位，请。收银员为您准备好了。"
+          },
+          {
+            "text": "Thank you.",
+            "translation": "谢谢。"
+          }
+        ],
+        [
+          {
+            "text": "Excuse me, cashier, I think there's a mistake on my bill.",
+            "translation": "打扰一下，收银员，我觉得我的账单上有个错误。"
+          },
+          {
+            "text": "I'm sorry about that. Let me check it for you.",
+            "translation": "很抱歉。让我为您检查一下。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 3
+    },
+    {
+      "word": "Receipt",
+      "phonetic": "/rɪˈsiːt/",
+      "definition": "n. 收据",
+      "example": "Don't forget to keep your receipt in case you need to return something.",
+      "example_trans": "别忘了保留你的收据，以防你需要退货。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "支付"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Here's your receipt. Have a nice day!",
+            "translation": "这是您的收据。祝您愉快！"
+          },
+          {
+            "text": "Thank you, you too.",
+            "translation": "谢谢，你也一样。"
+          }
+        ],
+        [
+          {
+            "text": "I need to return this item, but I lost my receipt.",
+            "translation": "我需要退掉这个商品，但是我把收据弄丢了。"
+          },
+          {
+            "text": "Do you have any other proof of purchase, like a bank statement?",
+            "translation": "您有其他购买凭证吗，比如银行账单？"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 4
+    },
+    {
+      "word": "Credit card",
+      "phonetic": "/ˈkredɪt kɑːrd/",
+      "definition": "n. 信用卡",
+      "example": "Can I pay with a credit card?",
+      "example_trans": "我可以用信用卡支付吗？",
+      "derivatives": [],
+      "tags": [
+        "支付",
+        "金融"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Do you accept credit cards?",
+            "translation": "你们接受信用卡支付吗？"
+          },
+          {
+            "text": "Yes, we accept all major credit cards.",
+            "translation": "是的，我们接受所有主要的信用卡。"
+          }
+        ],
+        [
+          {
+            "text": "I'd like to pay with my credit card.",
+            "translation": "我想用信用卡支付。"
+          },
+          {
+            "text": "Please insert your card into the reader.",
+            "translation": "请将您的卡插入读卡器。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 5
+    },
+    {
+      "word": "Debit card",
+      "phonetic": "/ˈdebɪt kɑːrd/",
+      "definition": "n. 借记卡",
+      "example": "I prefer to use my debit card for everyday purchases.",
+      "example_trans": "我更喜欢用借记卡进行日常购物。",
+      "derivatives": [],
+      "tags": [
+        "支付",
+        "金融"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Can I use my debit card here?",
+            "translation": "我可以在这里使用我的借记卡吗？"
+          },
+          {
+            "text": "Yes, we accept debit cards.",
+            "translation": "是的，我们接受借记卡。"
+          }
+        ],
+        [
+          {
+            "text": "I'll pay with my debit card.",
+            "translation": "我用借记卡支付。"
+          },
+          {
+            "text": "Please enter your PIN.",
+            "translation": "请输入您的密码。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 6
+    },
+    {
+      "word": "Sale",
+      "phonetic": "/seɪl/",
+      "definition": "n. 打折",
+      "example": "There's a big sale at the department store this weekend.",
+      "example_trans": "这个周末百货商店有大促销。",
+      "derivatives": [
+        "sales (n.)",
+        "on sale (adj.)"
+      ],
+      "tags": [
+        "购物",
+        "促销"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Are these shoes on sale?",
+            "translation": "这双鞋打折吗？"
+          },
+          {
+            "text": "Yes, they are 20% off.",
+            "translation": "是的，它们打八折。"
+          }
+        ],
+        [
+          {
+            "text": "I got this dress on sale for half price!",
+            "translation": "我买的这条裙子打折半价！"
+          },
+          {
+            "text": "Wow, that's a great deal!",
+            "translation": "哇，这太划算了！"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 7
+    },
+    {
+      "word": "Discount",
+      "phonetic": "/ˈdɪskaʊnt/",
+      "definition": "n. 折扣",
+      "example": "Do you offer a student discount?",
+      "example_trans": "你们提供学生折扣吗？",
+      "derivatives": [
+        "discounted (adj.)"
+      ],
+      "tags": [
+        "购物",
+        "促销"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Is there a discount for seniors?",
+            "translation": "老年人有折扣吗？"
+          },
+          {
+            "text": "Yes, we offer a 10% discount for seniors on Tuesdays.",
+            "translation": "是的，我们周二为老年人提供10%的折扣。"
+          }
+        ],
+        [
+          {
+            "text": "Can I get a discount if I buy two?",
+            "translation": "如果我买两个可以打折吗？"
+          },
+          {
+            "text": "Let me check with my manager.",
+            "translation": "我问一下我的经理。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 8
+    },
+    {
+      "word": "Price",
+      "phonetic": "/praɪs/",
+      "definition": "n. 价格",
+      "example": "The price of gas is very high these days.",
+      "example_trans": "现在的汽油价格非常高。",
+      "derivatives": [
+        "pricey (adj.)",
+        "priced (adj.)"
+      ],
+      "tags": [
+        "购物",
+        "经济"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "What's the price of this item?",
+            "translation": "这个商品的价格是多少？"
+          },
+          {
+            "text": "It's $10.",
+            "translation": "10美元。"
+          }
+        ],
+        [
+          {
+            "text": "The price is too high for me.",
+            "translation": "这个价格对我来说太高了。"
+          },
+          {
+            "text": "I understand. We sometimes have sales.",
+            "translation": "我理解。我们有时会有促销活动。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 9
+    },
+    {
+      "word": "Aisle",
+      "phonetic": "/aɪl/",
+      "definition": "n. 货架通道",
+      "example": "The cereal is in aisle 5.",
+      "example_trans": "麦片在5号货架通道。",
+      "derivatives": [],
+      "tags": [
+        "购物",
+        "超市"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Excuse me, where can I find the pasta?",
+            "translation": "请问，在哪里可以找到意大利面？"
+          },
+          {
+            "text": "It's in aisle 3, on the left side.",
+            "translation": "在3号货架通道，左边。"
+          }
+        ],
+        [
+          {
+            "text": "This aisle is very crowded.",
+            "translation": "这个货架通道非常拥挤。"
+          },
+          {
+            "text": "I agree. Let's try another one.",
+            "translation": "我同意。我们试试另一个吧。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 10
+    },
+    {
+      "word": "Frozen food",
+      "phonetic": "/ˈfroʊzn fuːd/",
+      "definition": "n. 冷冻食品",
+      "example": "I usually buy frozen food for quick dinners.",
+      "example_trans": "我通常买冷冻食品来做快餐。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "超市"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Where is the frozen food section?",
+            "translation": "冷冻食品区在哪里？"
+          },
+          {
+            "text": "It's at the back of the store, near the ice cream.",
+            "translation": "在商店的后面，靠近冰淇淋。"
+          }
+        ],
+        [
+          {
+            "text": "I need to buy some frozen vegetables.",
+            "translation": "我需要买一些冷冻蔬菜。"
+          },
+          {
+            "text": "They are in the frozen food aisle.",
+            "translation": "它们在冷冻食品通道。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 11
+    },
+    {
+      "word": "Dairy",
+      "phonetic": "/ˈderi/",
+      "definition": "n. 奶制品",
+      "example": "I need to buy some milk and cheese from the dairy section.",
+      "example_trans": "我需要从奶制品区买些牛奶和奶酪。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "超市"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Where can I find the dairy products?",
+            "translation": "在哪里可以找到奶制品？"
+          },
+          {
+            "text": "They are in the refrigerated section, near the milk.",
+            "translation": "它们在冷藏区，靠近牛奶。"
+          }
+        ],
+        [
+          {
+            "text": "I'm looking for lactose-free dairy products.",
+            "translation": "我在找不含乳糖的奶制品。"
+          },
+          {
+            "text": "We have a selection of lactose-free milk and yogurt.",
+            "translation": "我们有一些不含乳糖的牛奶和酸奶。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 12
+    },
+    {
+      "word": "Vegetables",
+      "phonetic": "/ˈvedʒtəblz/",
+      "definition": "n. 蔬菜",
+      "example": "I try to eat plenty of fresh vegetables every day.",
+      "example_trans": "我尽量每天吃大量的新鲜蔬菜。",
+      "derivatives": [
+        "vegetarian (n.)",
+        "vegetable (adj.)"
+      ],
+      "tags": [
+        "食品",
+        "健康"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Are these vegetables organic?",
+            "translation": "这些蔬菜是有机的吗？"
+          },
+          {
+            "text": "Yes, they are certified organic.",
+            "translation": "是的，它们经过有机认证。"
+          }
+        ],
+        [
+          {
+            "text": "I need to buy some vegetables for a salad.",
+            "translation": "我需要买一些蔬菜做沙拉。"
+          },
+          {
+            "text": "We have a wide variety of fresh vegetables.",
+            "translation": "我们有各种各样的新鲜蔬菜。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 13
+    },
+    {
+      "word": "Fruit",
+      "phonetic": "/fruːt/",
+      "definition": "n. 水果",
+      "example": "Eating fruit is a healthy way to satisfy your sweet tooth.",
+      "example_trans": "吃水果是满足你对甜食的健康方式。",
+      "derivatives": [
+        "fruity (adj.)"
+      ],
+      "tags": [
+        "食品",
+        "健康"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "What kind of fruit do you have in season?",
+            "translation": "你们现在有什么当季水果？"
+          },
+          {
+            "text": "We have strawberries, blueberries, and peaches.",
+            "translation": "我们有草莓、蓝莓和桃子。"
+          }
+        ],
+        [
+          {
+            "text": "I'm looking for some fresh fruit for a smoothie.",
+            "translation": "我在找一些新鲜水果做冰沙。"
+          },
+          {
+            "text": "These bananas and mangoes are perfect for smoothies.",
+            "translation": "这些香蕉和芒果非常适合做冰沙。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 14
+    },
+    {
+      "word": "Meat",
+      "phonetic": "/miːt/",
+      "definition": "n. 肉",
+      "example": "I'm going to grill some meat for dinner tonight.",
+      "example_trans": "我今晚要烤一些肉做晚餐。",
+      "derivatives": [
+        "meaty (adj.)"
+      ],
+      "tags": [
+        "食品",
+        "超市"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Where is the meat department?",
+            "translation": "肉类部门在哪里？"
+          },
+          {
+            "text": "It's at the back of the store, next to the seafood.",
+            "translation": "它在商店的后面，在海鲜旁边。"
+          }
+        ],
+        [
+          {
+            "text": "I'd like to buy a pound of ground beef.",
+            "translation": "我想买一磅碎牛肉。"
+          },
+          {
+            "text": "Sure, how lean would you like it?",
+            "translation": "好的，您想要多瘦的？"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 15
+    },
+    {
+      "word": "Fish",
+      "phonetic": "/fɪʃ/",
+      "definition": "n. 鱼",
+      "example": "Eating fish is a good source of omega-3 fatty acids.",
+      "example_trans": "吃鱼是摄取omega-3脂肪酸的好方法。",
+      "derivatives": [
+        "fishy (adj.)"
+      ],
+      "tags": [
+        "食品",
+        "超市"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Is the fish fresh today?",
+            "translation": "今天的鱼新鲜吗？"
+          },
+          {
+            "text": "Yes, it was delivered this morning.",
+            "translation": "是的，是今天早上送来的。"
+          }
+        ],
+        [
+          {
+            "text": "I'm looking for some salmon.",
+            "translation": "我在找三文鱼。"
+          },
+          {
+            "text": "We have wild-caught and farmed salmon.",
+            "translation": "我们有野生和养殖的三文鱼。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 16
+    },
+    {
+      "word": "Bakery",
+      "phonetic": "/ˈbeɪkəri/",
+      "definition": "n. 面包店",
+      "example": "The smell of fresh bread from the bakery is so inviting.",
+      "example_trans": "面包店里新鲜面包的味道非常诱人。",
+      "derivatives": [
+        "bake (v.)",
+        "baker (n.)"
+      ],
+      "tags": [
+        "食品",
+        "超市"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Do you have any fresh bread in the bakery?",
+            "translation": "面包店里有新鲜面包吗？"
+          },
+          {
+            "text": "Yes, we just baked a batch of sourdough.",
+            "translation": "是的，我们刚烤了一批酸面包。"
+          }
+        ],
+        [
+          {
+            "text": "I'd like to order a cake from the bakery.",
+            "translation": "我想从面包店订一个蛋糕。"
+          },
+          {
+            "text": "What kind of cake would you like?",
+            "translation": "您想要什么样的蛋糕？"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 17
+    },
+    {
+      "word": "Canned food",
+      "phonetic": "/kænd fuːd/",
+      "definition": "n. 罐头食品",
+      "example": "Canned food is convenient for stocking up the pantry.",
+      "example_trans": "罐头食品方便储备食品柜。",
+      "derivatives": [],
+      "tags": [
+        "食品",
+        "超市"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Where can I find the canned food?",
+            "translation": "在哪里可以找到罐头食品？"
+          },
+          {
+            "text": "It's in aisle 4, next to the pasta.",
+            "translation": "在4号货架通道，在意大利面旁边。"
+          }
+        ],
+        [
+          {
+            "text": "I need to buy some canned tomatoes.",
+            "translation": "我需要买一些罐头番茄。"
+          },
+          {
+            "text": "We have a variety of canned tomato products.",
+            "translation": "我们有各种各样的罐头番茄制品。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 18
+    },
+    {
+      "word": "Package",
+      "phonetic": "/ˈpækɪdʒ/",
+      "definition": "n. 包装",
+      "example": "The package arrived damaged.",
+      "example_trans": "包裹送来时损坏了。",
+      "derivatives": [
+        "packaging (n.)",
+        "package (v.)"
+      ],
+      "tags": [
+        "购物",
+        "物流"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Is this package recyclable?",
+            "translation": "这个包装可回收吗？"
+          },
+          {
+            "text": "Yes, it's made from recycled materials.",
+            "translation": "是的，它由回收材料制成。"
+          }
+        ],
+        [
+          {
+            "text": "I'd like to return this package.",
+            "translation": "我想退回这个包裹。"
+          },
+          {
+            "text": "Do you have the receipt?",
+            "translation": "您有收据吗？"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 19
+    },
+    {
+      "word": "Bottle",
+      "phonetic": "/ˈbɑːtl/",
+      "definition": "n. 瓶子",
+      "example": "I need a bottle of water.",
+      "example_trans": "我需要一瓶水。",
+      "derivatives": [
+        "bottled (adj.)",
+        "bottle (v.)"
+      ],
+      "tags": [
+        "购物",
+        "饮料"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "How much is this bottle of wine?",
+            "translation": "这瓶葡萄酒多少钱？"
+          },
+          {
+            "text": "It's $15.",
+            "translation": "15美元。"
+          }
+        ],
+        [
+          {
+            "text": "Can I recycle this bottle?",
+            "translation": "我可以回收这个瓶子吗？"
+          },
+          {
+            "text": "Yes, please put it in the recycling bin.",
+            "translation": "是的，请把它放在回收箱里。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 20
+    },
+    {
+      "word": "Bag",
+      "phonetic": "/bæɡ/",
+      "definition": "n. 袋子",
+      "example": "Do you need a bag for your groceries?",
+      "example_trans": "您需要一个袋子来装您的杂货吗？",
+      "derivatives": [
+        "baggage (n.)"
+      ],
+      "tags": [
+        "购物",
+        "环保"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Do you have reusable bags?",
+            "translation": "你们有可重复使用的袋子吗？"
+          },
+          {
+            "text": "Yes, they are available for purchase at the checkout.",
+            "translation": "是的，可以在收银台购买。"
+          }
+        ],
+        [
+          {
+            "text": "I forgot to bring my bag.",
+            "translation": "我忘了带我的袋子了。"
+          },
+          {
+            "text": "We can provide you with a plastic bag for a small fee.",
+            "translation": "我们可以为您提供一个塑料袋，但需要支付少量费用。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 21
+    },
+    {
+      "word": "Organic",
+      "phonetic": "/ɔːrˈɡænɪk/",
+      "definition": "adj. 有机的",
+      "example": "I prefer to buy organic fruits and vegetables.",
+      "example_trans": "我更喜欢购买有机的蔬菜和水果。",
+      "derivatives": [
+        "organically (adv.)",
+        "organism (n.)"
+      ],
+      "tags": [
+        "食品",
+        "健康"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Are these apples organic?",
+            "translation": "这些苹果是有机的吗？"
+          },
+          {
+            "text": "Yes, they are certified organic.",
+            "translation": "是的，它们经过有机认证。"
+          }
+        ],
+        [
+          {
+            "text": "I'm looking for organic milk.",
+            "translation": "我在找有机牛奶。"
+          },
+          {
+            "text": "It's in the dairy section, labeled 'organic'.",
+            "translation": "它在奶制品区，标有“有机”字样。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 22
+    },
+    {
+      "word": "Fresh",
+      "phonetic": "/freʃ/",
+      "definition": "adj. 新鲜的",
+      "example": "These vegetables look very fresh.",
+      "example_trans": "这些蔬菜看起来很新鲜。",
+      "derivatives": [
+        "freshly (adv.)",
+        "freshness (n.)"
+      ],
+      "tags": [
+        "食品",
+        "质量"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Is the bread fresh?",
+            "translation": "面包新鲜吗？"
+          },
+          {
+            "text": "Yes, it was baked this morning.",
+            "translation": "是的，是今天早上烤的。"
+          }
+        ],
+        [
+          {
+            "text": "I want to buy some fresh fish.",
+            "translation": "我想买一些新鲜的鱼。"
+          },
+          {
+            "text": "We have a new shipment of salmon today.",
+            "translation": "我们今天到了一批新的三文鱼。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 23
+    },
+    {
+      "word": "Expired",
+      "phonetic": "/ɪkˈspaɪərd/",
+      "definition": "adj. 过期的",
+      "example": "Check the expiration date before buying food.",
+      "example_trans": "购买食物前请检查保质期。",
+      "derivatives": [
+        "expire (v.)",
+        "expiration (n.)"
+      ],
+      "tags": [
+        "食品",
+        "质量"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "This milk is expired.",
+            "translation": "这牛奶过期了。"
+          },
+          {
+            "text": "I'm so sorry. Please bring it to the customer service desk for a refund.",
+            "translation": "非常抱歉。请把它拿到客户服务台办理退款。"
+          }
+        ],
+        [
+          {
+            "text": "Can I still use this even though it's slightly expired?",
+            "translation": "即使它稍微过期了，我还能用这个吗？"
+          },
+          {
+            "text": "It's best not to consume expired products for safety reasons.",
+            "translation": "出于安全原因，最好不要食用过期产品。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 24
+    },
+    {
+      "word": "Refund",
+      "phonetic": "/ˈriːfʌnd/",
+      "definition": "n. 退款",
+      "example": "I received a refund for the damaged item.",
+      "example_trans": "我收到了损坏物品的退款。",
+      "derivatives": [
+        "refund (v.)",
+        "refundable (adj.)"
+      ],
+      "tags": [
+        "购物",
+        "售后"
+      ],
+      "categories": [
+        "购物",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I'd like to request a refund for this product.",
+            "translation": "我想申请这个产品的退款。"
+          },
+          {
+            "text": "Do you have the receipt?",
+            "translation": "您有收据吗？"
+          }
+        ],
+        [
+          {
+            "text": "How long does it take to process a refund?",
+            "translation": "处理退款需要多长时间？"
+          },
+          {
+            "text": "It usually takes 3-5 business days.",
+            "translation": "通常需要3-5个工作日。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 25
+    },
+    {
+      "word": "Bus stop",
+      "phonetic": "/ˈbʌs stɑːp/",
+      "definition": "n. 公交车站",
+      "example": "The bus stop is just around the corner.",
+      "example_trans": "公交车站就在拐角处。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "公交"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Excuse me, is this the bus stop for the number 10 bus?",
+            "translation": "请问，这是10路公交车的车站吗？"
+          },
+          {
+            "text": "Yes, it is. The number 10 should be here in about 5 minutes.",
+            "translation": "是的。10路大约5分钟后到。"
+          }
+        ],
+        [
+          {
+            "text": "I always miss the bus because the bus stop is not clearly marked.",
+            "translation": "我总是错过公交车，因为公交车站没有明确的标记。"
+          },
+          {
+            "text": "I agree. They should put up a bigger sign.",
+            "translation": "我同意。他们应该竖立一个更大的标志。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 26
+    },
+    {
+      "word": "Subway",
+      "phonetic": "/ˈsʌbweɪ/",
+      "definition": "n. 地铁",
+      "example": "The subway is the fastest way to get downtown.",
+      "example_trans": "地铁是到达市中心最快的方式。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "地铁"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Where is the nearest subway station?",
+            "translation": "最近的地铁站在哪里？"
+          },
+          {
+            "text": "It's two blocks down this street.",
+            "translation": "沿着这条街走两个街区。"
+          }
+        ],
+        [
+          {
+            "text": "The subway is so crowded during rush hour.",
+            "translation": "高峰时段地铁太拥挤了。"
+          },
+          {
+            "text": "I know, it's like being packed in a can of sardines.",
+            "translation": "我知道，就像被塞进沙丁鱼罐头里一样。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 27
+    },
+    {
+      "word": "Train",
+      "phonetic": "/treɪn/",
+      "definition": "n. 火车",
+      "example": "I'm taking the train to Chicago.",
+      "example_trans": "我坐火车去芝加哥。",
+      "derivatives": [
+        "trainer (n.)",
+        "training (n.)"
+      ],
+      "tags": [
+        "交通",
+        "火车"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "What time does the train to New York leave?",
+            "translation": "去纽约的火车几点出发？"
+          },
+          {
+            "text": "It leaves at 3 PM from platform 5.",
+            "translation": "下午3点从5号站台出发。"
+          }
+        ],
+        [
+          {
+            "text": "I love traveling by train. It's so relaxing.",
+            "translation": "我喜欢坐火车旅行。它很放松。"
+          },
+          {
+            "text": "Me too. You can see so much scenery.",
+            "translation": "我也是。你可以看到很多风景。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 28
+    },
+    {
+      "word": "Ticket",
+      "phonetic": "/ˈtɪkɪt/",
+      "definition": "n. 票",
+      "example": "I need to buy a ticket for the train.",
+      "example_trans": "我需要买一张火车票。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "票务"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Can I see your ticket, please?",
+            "translation": "请出示您的票。"
+          },
+          {
+            "text": "Here you are.",
+            "translation": "给你。"
+          }
+        ],
+        [
+          {
+            "text": "I lost my ticket. What should I do?",
+            "translation": "我丢了我的票。我该怎么办？"
+          },
+          {
+            "text": "You'll have to buy a new one.",
+            "translation": "你必须买一张新的。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 29
+    },
+    {
+      "word": "Transfer",
+      "phonetic": "/ˈtrænsfɜːr/",
+      "definition": "v. 换乘",
+      "example": "You need to transfer at the next station.",
+      "example_trans": "你需要在下一站换乘。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "换乘"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Where do I transfer for the blue line?",
+            "translation": "我在哪里换乘蓝线？"
+          },
+          {
+            "text": "Transfer at Central Station.",
+            "translation": "在中央车站换乘。"
+          }
+        ],
+        [
+          {
+            "text": "This transfer is so confusing.",
+            "translation": "这次换乘太令人困惑了。"
+          },
+          {
+            "text": "I know, the signs are not very clear.",
+            "translation": "我知道，标志不是很清楚。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 30
+    },
+    {
+      "word": "Station",
+      "phonetic": "/ˈsteɪʃn/",
+      "definition": "n. 车站",
+      "example": "The train station is very busy.",
+      "example_trans": "火车站很繁忙。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "站点"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Which station do I get off at for the museum?",
+            "translation": "我在哪个车站下车去博物馆？"
+          },
+          {
+            "text": "Get off at Museum Station.",
+            "translation": "在博物馆站下车。"
+          }
+        ],
+        [
+          {
+            "text": "This station is very clean.",
+            "translation": "这个车站很干净。"
+          },
+          {
+            "text": "Yes, they do a good job of maintaining it.",
+            "translation": "是的，他们维护得很好。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 31
+    },
+    {
+      "word": "Schedule",
+      "phonetic": "/ˈskedʒuːl/",
+      "definition": "n. 时间表",
+      "example": "Check the schedule for the bus times.",
+      "example_trans": "查看时间表以了解公交车的时间。",
+      "derivatives": [
+        "scheduled (adj.)"
+      ],
+      "tags": [
+        "交通",
+        "时间"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Where can I find the bus schedule?",
+            "translation": "我在哪里可以找到公交车时间表？"
+          },
+          {
+            "text": "It's posted at the bus stop.",
+            "translation": "它张贴在公交车站。"
+          }
+        ],
+        [
+          {
+            "text": "The train is running on schedule.",
+            "translation": "火车按时间表运行。"
+          },
+          {
+            "text": "That's good to hear.",
+            "translation": "很高兴听到这个消息。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 32
+    },
+    {
+      "word": "Route",
+      "phonetic": "/ruːt/",
+      "definition": "n. 路线",
+      "example": "What is the best route to take to the airport?",
+      "example_trans": "去机场的最佳路线是什么？",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "方向"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Which bus route goes to the zoo?",
+            "translation": "哪条公交线路去动物园？"
+          },
+          {
+            "text": "The number 20 bus route goes to the zoo.",
+            "translation": "20路公交线路去动物园。"
+          }
+        ],
+        [
+          {
+            "text": "This route is very scenic.",
+            "translation": "这条路线风景优美。"
+          },
+          {
+            "text": "Yes, it's a great way to see the city.",
+            "translation": "是的，这是欣赏城市风光的好方法。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 33
+    },
+    {
+      "word": "Map",
+      "phonetic": "/mæp/",
+      "definition": "n. 地图",
+      "example": "I need a map to find my way around the city.",
+      "example_trans": "我需要一张地图才能找到在城市里的路。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "方向"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Can you show me where we are on the map?",
+            "translation": "你能在地图上指给我们现在的位置吗？"
+          },
+          {
+            "text": "Sure, we are right here.",
+            "translation": "当然，我们就在这里。"
+          }
+        ],
+        [
+          {
+            "text": "This map is very detailed.",
+            "translation": "这张地图非常详细。"
+          },
+          {
+            "text": "Yes, it's very helpful.",
+            "translation": "是的，它很有帮助。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 34
+    },
+    {
+      "word": "Direction",
+      "phonetic": "/dəˈrekʃn/",
+      "definition": "n. 方向",
+      "example": "Can you give me directions to the museum?",
+      "example_trans": "你能告诉我到博物馆的方向吗？",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "方向"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Which direction should I go to get to the park?",
+            "translation": "我应该朝哪个方向走才能到达公园？"
+          },
+          {
+            "text": "Go north for two blocks.",
+            "translation": "向北走两个街区。"
+          }
+        ],
+        [
+          {
+            "text": "I'm lost. Can you give me directions?",
+            "translation": "我迷路了。你能告诉我方向吗？"
+          },
+          {
+            "text": "Sure, where are you trying to go?",
+            "translation": "当然，你想去哪里？"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 35
+    },
+    {
+      "word": "North",
+      "phonetic": "/nɔːrθ/",
+      "definition": "n. 北",
+      "example": "The park is north of the city.",
+      "example_trans": "公园在城市的北部。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "方向"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Which way is north?",
+            "translation": "哪个方向是北？"
+          },
+          {
+            "text": "North is that way, towards the mountains.",
+            "translation": "北是那个方向，朝向山脉。"
+          }
+        ],
+        [
+          {
+            "text": "We are heading north on this road.",
+            "translation": "我们在这条路上向北行驶。"
+          },
+          {
+            "text": "Okay, good to know.",
+            "translation": "好的，知道了。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 36
+    },
+    {
+      "word": "South",
+      "phonetic": "/saʊθ/",
+      "definition": "n. 南",
+      "example": "The beach is south of the city.",
+      "example_trans": "海滩在城市的南部。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "方向"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Is the airport to the south of here?",
+            "translation": "机场在这里的南部吗？"
+          },
+          {
+            "text": "Yes, it's about 20 miles south.",
+            "translation": "是的，大约在南部20英里处。"
+          }
+        ],
+        [
+          {
+            "text": "We need to drive south to get to the next town.",
+            "translation": "我们需要向南行驶才能到达下一个城镇。"
+          },
+          {
+            "text": "Okay, let's go.",
+            "translation": "好的，我们走吧。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 37
+    },
+    {
+      "word": "East",
+      "phonetic": "/iːst/",
+      "definition": "n. 东",
+      "example": "The sun rises in the east.",
+      "example_trans": "太阳从东方升起。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "方向"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Which direction is east?",
+            "translation": "哪个方向是东？"
+          },
+          {
+            "text": "East is to your right.",
+            "translation": "东在你右边。"
+          }
+        ],
+        [
+          {
+            "text": "We are traveling east on this highway.",
+            "translation": "我们在这条高速公路上向东行驶。"
+          },
+          {
+            "text": "Good, that's the right direction.",
+            "translation": "很好，那是正确的方向。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 38
+    },
+    {
+      "word": "West",
+      "phonetic": "/west/",
+      "definition": "n. 西",
+      "example": "The mountains are to the west of the city.",
+      "example_trans": "山脉在城市的西部。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "方向"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Is the sun setting in the west?",
+            "translation": "太阳在西方落下吗？"
+          },
+          {
+            "text": "Yes, it is.",
+            "translation": "是的。"
+          }
+        ],
+        [
+          {
+            "text": "We need to head west to get to California.",
+            "translation": "我们需要向西行驶才能到达加利福尼亚。"
+          },
+          {
+            "text": "Okay, let's start driving.",
+            "translation": "好的，我们开始开车吧。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 39
+    },
+    {
+      "word": "Driver",
+      "phonetic": "/ˈdraɪvər/",
+      "definition": "n. 司机",
+      "example": "The bus driver was very helpful.",
+      "example_trans": "公交车司机非常乐于助人。",
+      "derivatives": [
+        "drive (v.)"
+      ],
+      "tags": [
+        "交通",
+        "人员"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Can you ask the driver to stop at the next stop?",
+            "translation": "你能让司机在下一站停车吗？"
+          },
+          {
+            "text": "Sure, I'll ask him.",
+            "translation": "当然，我会问他。"
+          }
+        ],
+        [
+          {
+            "text": "The driver is very skilled.",
+            "translation": "司机技术娴熟。"
+          },
+          {
+            "text": "Yes, he's navigating the traffic very well.",
+            "translation": "是的，他很好地应对了交通状况。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 40
+    },
+    {
+      "word": "Passenger",
+      "phonetic": "/ˈpæsɪndʒər/",
+      "definition": "n. 乘客",
+      "example": "The bus was full of passengers.",
+      "example_trans": "公交车上满是乘客。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "人员"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Please let the passengers off the bus first.",
+            "translation": "请先让乘客下车。"
+          },
+          {
+            "text": "Okay, I will.",
+            "translation": "好的，我会的。"
+          }
+        ],
+        [
+          {
+            "text": "The passenger next to me is talking loudly on their phone.",
+            "translation": "我旁边的乘客正在大声地打电话。"
+          },
+          {
+            "text": "That's so annoying.",
+            "translation": "真烦人。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 41
+    },
+    {
+      "word": "Fare",
+      "phonetic": "/fer/",
+      "definition": "n. 车费",
+      "example": "What is the fare for the bus?",
+      "example_trans": "公交车的车费是多少？",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "费用"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "How much is the fare to downtown?",
+            "translation": "到市中心的车费是多少？"
+          },
+          {
+            "text": "It's $2.50.",
+            "translation": "2.5美元。"
+          }
+        ],
+        [
+          {
+            "text": "The fare has increased again.",
+            "translation": "车费又涨了。"
+          },
+          {
+            "text": "I know, it's getting expensive to use public transportation.",
+            "translation": "我知道，使用公共交通工具越来越贵了。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 42
+    },
+    {
+      "word": "Metro card",
+      "phonetic": "/ˈmetroʊ kɑːrd/",
+      "definition": "n. 地铁卡",
+      "example": "I need to reload my metro card.",
+      "example_trans": "我需要给我的地铁卡充值。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "支付"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Where can I buy a metro card?",
+            "translation": "我在哪里可以买到地铁卡？"
+          },
+          {
+            "text": "You can buy one at the vending machine.",
+            "translation": "你可以在自动售货机上购买。"
+          }
+        ],
+        [
+          {
+            "text": "My metro card is not working.",
+            "translation": "我的地铁卡不能用了。"
+          },
+          {
+            "text": "You should go to the customer service booth.",
+            "translation": "你应该去客户服务亭。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 43
+    },
+    {
+      "word": "Pay",
+      "phonetic": "/peɪ/",
+      "definition": "v. 支付",
+      "example": "You can pay with cash or a card.",
+      "example_trans": "你可以用现金或卡支付。",
+      "derivatives": [
+        "payment (n.)"
+      ],
+      "tags": [
+        "交通",
+        "支付"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "How would you like to pay?",
+            "translation": "您想如何支付？"
+          },
+          {
+            "text": "I'll pay with cash.",
+            "translation": "我用现金支付。"
+          }
+        ],
+        [
+          {
+            "text": "I forgot to pay the fare.",
+            "translation": "我忘记支付车费了。"
+          },
+          {
+            "text": "You need to pay now or you'll get a fine.",
+            "translation": "你现在需要支付，否则你会被罚款。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 44
+    },
+    {
+      "word": "Get on",
+      "phonetic": "/ɡet ɒn/",
+      "definition": "v. 上车",
+      "example": "I need to get on the bus.",
+      "example_trans": "我需要上车。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "上下车"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Are you getting on this bus?",
+            "translation": "你要上这辆公交车吗？"
+          },
+          {
+            "text": "Yes, I am.",
+            "translation": "是的，我要上。"
+          }
+        ],
+        [
+          {
+            "text": "Let's get on the train before it gets too crowded.",
+            "translation": "让我们在火车变得太拥挤之前上车。"
+          },
+          {
+            "text": "Okay, let's hurry.",
+            "translation": "好的，我们快点。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 45
+    },
+    {
+      "word": "Get off",
+      "phonetic": "/ɡet ɔːf/",
+      "definition": "v. 下车",
+      "example": "I need to get off at the next stop.",
+      "example_trans": "我需要在下一站下车。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "上下车"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Are you getting off at this stop?",
+            "translation": "你在这站下车吗？"
+          },
+          {
+            "text": "No, I'm getting off at the next stop.",
+            "translation": "不，我在下一站下车。"
+          }
+        ],
+        [
+          {
+            "text": "Don't forget to get off at your stop.",
+            "translation": "别忘了在你的站下车。"
+          },
+          {
+            "text": "Thanks for reminding me.",
+            "translation": "谢谢你提醒我。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 46
+    },
+    {
+      "word": "Next stop",
+      "phonetic": "/nekst stɑːp/",
+      "definition": "n. 下一站",
+      "example": "The next stop is Central Station.",
+      "example_trans": "下一站是中央车站。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "站点"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "What's the next stop?",
+            "translation": "下一站是什么？"
+          },
+          {
+            "text": "The next stop is Times Square.",
+            "translation": "下一站是时代广场。"
+          }
+        ],
+        [
+          {
+            "text": "I need to get ready to get off at the next stop.",
+            "translation": "我需要准备好在下一站下车。"
+          },
+          {
+            "text": "Okay, I'll let you know when we get there.",
+            "translation": "好的，我们到了我会告诉你。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 47
+    },
+    {
+      "word": "Final stop",
+      "phonetic": "/ˈfaɪnl stɑːp/",
+      "definition": "n. 终点站",
+      "example": "This is the final stop for this bus.",
+      "example_trans": "这是这辆公交车的终点站。",
+      "derivatives": [
+        ""
+      ],
+      "tags": [
+        "交通",
+        "站点"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Is this the final stop?",
+            "translation": "这是终点站吗？"
+          },
+          {
+            "text": "Yes, everyone needs to get off the bus.",
+            "translation": "是的，每个人都需要下车。"
+          }
+        ],
+        [
+          {
+            "text": "I almost missed the final stop!",
+            "translation": "我差点错过了终点站！"
+          },
+          {
+            "text": "That would have been a disaster.",
+            "translation": "那将是一场灾难。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 48
+    },
+    {
+      "word": "Delay",
+      "phonetic": "/dɪˈleɪ/",
+      "definition": "n. 延误",
+      "example": "There is a delay on the train line.",
+      "example_trans": "火车线路有延误。",
+      "derivatives": [
+        "delayed (adj.)"
+      ],
+      "tags": [
+        "交通",
+        "时间"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Why is there a delay?",
+            "translation": "为什么会有延误？"
+          },
+          {
+            "text": "There is a problem with the tracks.",
+            "translation": "轨道有问题。"
+          }
+        ],
+        [
+          {
+            "text": "The delay is making me late for work.",
+            "translation": "延误让我上班迟到了。"
+          },
+          {
+            "text": "I'm sorry to hear that.",
+            "translation": "我很遗憾听到这个消息。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 49
+    },
+    {
+      "word": "Accessible",
+      "phonetic": "/əkˈsesəbl/",
+      "definition": "adj. 无障碍的",
+      "example": "This bus is accessible for people with disabilities.",
+      "example_trans": "这辆公交车对残疾人来说是无障碍的。",
+      "derivatives": [
+        "access (n.)"
+      ],
+      "tags": [
+        "交通",
+        "设施"
+      ],
+      "categories": [
+        "交通",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Is this station accessible?",
+            "translation": "这个车站是无障碍的吗？"
+          },
+          {
+            "text": "Yes, it has elevators and ramps.",
+            "translation": "是的，它有电梯和坡道。"
+          }
+        ],
+        [
+          {
+            "text": "It's important that public transportation is accessible to everyone.",
+            "translation": "公共交通对每个人来说都是无障碍的，这一点很重要。"
+          },
+          {
+            "text": "I agree completely.",
+            "translation": "我完全同意。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 50
+    },
+    {
+      "word": "Passport",
+      "phonetic": "/ˈpæspɔːrt/",
+      "definition": "n. 护照",
+      "example": "Please show your passport at the immigration counter.",
+      "example_trans": "请在移民柜台出示您的护照。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "证件"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "May I see your passport, please?",
+            "translation": "请出示您的护照。"
+          },
+          {
+            "text": "Here you are. Is everything alright?",
+            "translation": "给你。一切都正常吗？"
+          }
+        ],
+        [
+          {
+            "text": "I need to renew my passport before my trip.",
+            "translation": "我需要在旅行前更新我的护照。"
+          },
+          {
+            "text": "You should apply for a renewal at least six months before it expires.",
+            "translation": "您应该在护照到期前至少六个月申请更新。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 51
+    },
+    {
+      "word": "Visa",
+      "phonetic": "/ˈviːzə/",
+      "definition": "n. 签证",
+      "example": "You need a visa to travel to some countries.",
+      "example_trans": "去一些国家旅行需要签证。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "证件"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Do I need a visa to visit Canada?",
+            "translation": "我需要签证才能去加拿大吗？"
+          },
+          {
+            "text": "It depends on your nationality. Check the Canadian embassy website.",
+            "translation": "这取决于你的国籍。查看加拿大使馆网站。"
+          }
+        ],
+        [
+          {
+            "text": "My visa application was rejected.",
+            "translation": "我的签证申请被拒绝了。"
+          },
+          {
+            "text": "I'm sorry to hear that. Did they give you a reason?",
+            "translation": "我很遗憾听到这个消息。他们给你理由了吗？"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 52
+    },
+    {
+      "word": "Boarding pass",
+      "phonetic": "/ˈbɔːrdɪŋ pæs/",
+      "definition": "n. 登机牌",
+      "example": "Don't forget to keep your boarding pass handy.",
+      "example_trans": "别忘了把你的登机牌放在手边。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Can I see your boarding pass and ID, please?",
+            "translation": "请出示您的登机牌和身份证。"
+          },
+          {
+            "text": "Here you go.",
+            "translation": "给你。"
+          }
+        ],
+        [
+          {
+            "text": "I can't find my boarding pass!",
+            "translation": "我找不到我的登机牌了！"
+          },
+          {
+            "text": "Don't worry, we can reprint it for you at the gate.",
+            "translation": "别担心，我们可以在登机口为你重新打印。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 53
+    },
+    {
+      "word": "Flight number",
+      "phonetic": "/ˈflaɪt ˌnʌmbər/",
+      "definition": "n. 航班号",
+      "example": "What is your flight number?",
+      "example_trans": "您的航班号是多少？",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Excuse me, what's the flight number for the flight to London?",
+            "translation": "请问，飞往伦敦的航班号是多少？"
+          },
+          {
+            "text": "It's BA246.",
+            "translation": "是BA246。"
+          }
+        ],
+        [
+          {
+            "text": "Please check the flight number on the screen to confirm your gate.",
+            "translation": "请查看屏幕上的航班号以确认您的登机口。"
+          },
+          {
+            "text": "Okay, I'll do that.",
+            "translation": "好的，我会的。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 54
+    },
+    {
+      "word": "Departure",
+      "phonetic": "/dɪˈpɑːrtʃər/",
+      "definition": "n. 出发",
+      "example": "The departure time is scheduled for 3 PM.",
+      "example_trans": "预定出发时间是下午3点。",
+      "derivatives": [
+        "depart (v.)"
+      ],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Where is the departure gate for flight AF123?",
+            "translation": "AF123航班的出发登机口在哪里？"
+          },
+          {
+            "text": "It's at gate 42.",
+            "translation": "在42号登机口。"
+          }
+        ],
+        [
+          {
+            "text": "The departure was delayed due to bad weather.",
+            "translation": "由于恶劣天气，出发延误了。"
+          },
+          {
+            "text": "Oh no, how long will the delay be?",
+            "translation": "哦，不，会延误多久？"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 55
+    },
+    {
+      "word": "Arrival",
+      "phonetic": "/əˈraɪvl/",
+      "definition": "n. 到达",
+      "example": "The arrival time is estimated to be 10 PM.",
+      "example_trans": "预计到达时间是晚上10点。",
+      "derivatives": [
+        "arrive (v.)"
+      ],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Where is the arrival hall?",
+            "translation": "到达大厅在哪里？"
+          },
+          {
+            "text": "Follow the signs, it's on the ground floor.",
+            "translation": "跟着指示牌走，它在一楼。"
+          }
+        ],
+        [
+          {
+            "text": "Welcome to New York! What's the purpose of your arrival?",
+            "translation": "欢迎来到纽约！你到达的目的是什么？"
+          },
+          {
+            "text": "I'm here for a business conference.",
+            "translation": "我来参加一个商务会议。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 56
+    },
+    {
+      "word": "Security check",
+      "phonetic": "/sɪˈkjʊrəti tʃek/",
+      "definition": "n. 安检",
+      "example": "Please proceed to the security check.",
+      "example_trans": "请前往安检。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Please remove your shoes and belt for the security check.",
+            "translation": "请脱掉你的鞋子和皮带进行安检。"
+          },
+          {
+            "text": "Okay, no problem.",
+            "translation": "好的，没问题。"
+          }
+        ],
+        [
+          {
+            "text": "I hate the long lines at the security check.",
+            "translation": "我讨厌安检的长队。"
+          },
+          {
+            "text": "Me too. It's always so crowded.",
+            "translation": "我也是。总是那么拥挤。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 57
+    },
+    {
+      "word": "Gate",
+      "phonetic": "/ɡeɪt/",
+      "definition": "n. 登机口",
+      "example": "Your flight departs from gate 25.",
+      "example_trans": "您的航班从25号登机口出发。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Excuse me, where is gate C12?",
+            "translation": "请问，C12登机口在哪里？"
+          },
+          {
+            "text": "It's on the other side of the terminal, near the food court.",
+            "translation": "它在航站楼的另一边，靠近美食广场。"
+          }
+        ],
+        [
+          {
+            "text": "The gate is now open for boarding.",
+            "translation": "登机口现在开放登机。"
+          },
+          {
+            "text": "Great, let's go!",
+            "translation": "太好了，我们走吧！"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 58
+    },
+    {
+      "word": "Luggage",
+      "phonetic": "/ˈlʌɡɪdʒ/",
+      "definition": "n. 行李",
+      "example": "How much luggage are you taking?",
+      "example_trans": "你要带多少行李？",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "行李"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Can you help me with my luggage?",
+            "translation": "你能帮我拿一下行李吗？"
+          },
+          {
+            "text": "Sure, no problem.",
+            "translation": "当然，没问题。"
+          }
+        ],
+        [
+          {
+            "text": "My luggage is overweight. I need to remove some items.",
+            "translation": "我的行李超重了。我需要取出一些物品。"
+          },
+          {
+            "text": "You can try wearing some of the heavier items.",
+            "translation": "你可以试着穿上一些较重的物品。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 59
+    },
+    {
+      "word": "Baggage claim",
+      "phonetic": "/ˈbæɡɪdʒ kleɪm/",
+      "definition": "n. 行李领取处",
+      "example": "Go to baggage claim to pick up your luggage.",
+      "example_trans": "去行李领取处领取你的行李。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Where is the baggage claim for international flights?",
+            "translation": "国际航班的行李领取处在哪里？"
+          },
+          {
+            "text": "It's in area B, near the exit.",
+            "translation": "在B区，靠近出口。"
+          }
+        ],
+        [
+          {
+            "text": "My luggage didn't arrive. What should I do?",
+            "translation": "我的行李没有到达。我该怎么办？"
+          },
+          {
+            "text": "Please report it to the baggage claim office.",
+            "translation": "请向行李领取处办公室报告。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 60
+    },
+    {
+      "word": "Customs",
+      "phonetic": "/ˈkʌstəmz/",
+      "definition": "n. 海关",
+      "example": "You need to go through customs after baggage claim.",
+      "example_trans": "在领取行李后，你需要通过海关。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Do you have anything to declare to customs?",
+            "translation": "您有什么需要向海关申报的吗？"
+          },
+          {
+            "text": "No, I don't.",
+            "translation": "没有，我没有。"
+          }
+        ],
+        [
+          {
+            "text": "The customs officer asked me a lot of questions.",
+            "translation": "海关官员问了我很多问题。"
+          },
+          {
+            "text": "That's normal. They're just doing their job.",
+            "translation": "这很正常。他们只是在做他们的工作。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 61
+    },
+    {
+      "word": "Immigration officer",
+      "phonetic": "/ˌɪmɪˈɡreɪʃn ˈɔːfɪsər/",
+      "definition": "n. 移民官",
+      "example": "The immigration officer checked my passport and visa.",
+      "example_trans": "移民官检查了我的护照和签证。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 3,
+      "dialogues": [
+        [
+          {
+            "text": "Good morning, I'm an immigration officer. May I see your passport?",
+            "translation": "早上好，我是移民官。我可以看看你的护照吗？"
+          },
+          {
+            "text": "Good morning, here it is.",
+            "translation": "早上好，给你。"
+          }
+        ],
+        [
+          {
+            "text": "The immigration officer was very friendly.",
+            "translation": "移民官非常友好。"
+          },
+          {
+            "text": "That's good to hear. Sometimes they can be quite strict.",
+            "translation": "很高兴听到这个消息。有时他们可能会非常严格。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 62
+    },
+    {
+      "word": "Declare",
+      "phonetic": "/dɪˈkleər/",
+      "definition": "v. 申报",
+      "example": "You must declare any items exceeding the duty-free allowance.",
+      "example_trans": "你必须申报任何超过免税额度的物品。",
+      "derivatives": [
+        "declaration (n.)"
+      ],
+      "tags": [
+        "旅行",
+        "海关"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 3,
+      "dialogues": [
+        [
+          {
+            "text": "Do I need to declare this camera?",
+            "translation": "我需要申报这台相机吗？"
+          },
+          {
+            "text": "If it's for personal use, you probably don't need to.",
+            "translation": "如果是个人使用，你可能不需要。"
+          }
+        ],
+        [
+          {
+            "text": "I forgot to declare some items. What should I do?",
+            "translation": "我忘记申报一些物品了。我该怎么办？"
+          },
+          {
+            "text": "Go back to the customs officer and explain the situation.",
+            "translation": "回到海关官员那里解释情况。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 63
+    },
+    {
+      "word": "Carry-on",
+      "phonetic": "/ˈkæri ɒn/",
+      "definition": "n. 随身行李",
+      "example": "You can bring one carry-on bag and one personal item.",
+      "example_trans": "你可以携带一个随身行李和一个个人物品。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "行李"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Is this bag small enough to be a carry-on?",
+            "translation": "这个包够小，可以作为随身行李吗？"
+          },
+          {
+            "text": "Let's check the dimensions against the airline's requirements.",
+            "translation": "让我们对照航空公司的要求检查一下尺寸。"
+          }
+        ],
+        [
+          {
+            "text": "I packed all my essentials in my carry-on.",
+            "translation": "我把所有必需品都放在了随身行李里。"
+          },
+          {
+            "text": "That's a good idea, in case your checked luggage gets lost.",
+            "translation": "这是个好主意，以防你的托运行李丢失。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 64
+    },
+    {
+      "word": "Check-in",
+      "phonetic": "/ˈtʃek ɪn/",
+      "definition": "v. 办理登机手续",
+      "example": "You can check-in online 24 hours before your flight.",
+      "example_trans": "你可以在航班起飞前24小时在网上办理登机手续。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Where is the check-in counter for United Airlines?",
+            "translation": "联合航空公司的办理登机手续柜台在哪里？"
+          },
+          {
+            "text": "It's in terminal 3, counters 10 to 15.",
+            "translation": "在3号航站楼，10到15号柜台。"
+          }
+        ],
+        [
+          {
+            "text": "I'd like to check-in for my flight to Paris.",
+            "translation": "我想办理飞往巴黎的航班的登机手续。"
+          },
+          {
+            "text": "Do you have any luggage to check?",
+            "translation": "您有行李要托运吗？"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 65
+    },
+    {
+      "word": "ID card",
+      "phonetic": "/ˌaɪˈdiː kɑːrd/",
+      "definition": "n. 身份证",
+      "example": "Please show your ID card at the security checkpoint.",
+      "example_trans": "请在安检处出示您的身份证。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "证件"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Can I see your ID card, please?",
+            "translation": "请出示您的身份证。"
+          },
+          {
+            "text": "Here you are.",
+            "translation": "给你。"
+          }
+        ],
+        [
+          {
+            "text": "I lost my ID card. What should I do?",
+            "translation": "我丢了我的身份证。我该怎么办？"
+          },
+          {
+            "text": "You need to report it to the police and apply for a new one.",
+            "translation": "你需要向警方报案并申请新的身份证。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 66
+    },
+    {
+      "word": "Itinerary",
+      "phonetic": "/aɪˈtɪnərəri/",
+      "definition": "n. 行程",
+      "example": "Please provide your itinerary for your trip.",
+      "example_trans": "请提供您的旅行行程。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "计划"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 3,
+      "dialogues": [
+        [
+          {
+            "text": "Can you show me your itinerary?",
+            "translation": "你能给我看看你的行程吗？"
+          },
+          {
+            "text": "Sure, here's a copy.",
+            "translation": "当然，这是复印件。"
+          }
+        ],
+        [
+          {
+            "text": "I'm finalizing my itinerary for my vacation.",
+            "translation": "我正在最终确定我的假期行程。"
+          },
+          {
+            "text": "That's exciting! Where are you planning to go?",
+            "translation": "太令人兴奋了！你打算去哪里？"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 67
+    },
+    {
+      "word": "Terminal",
+      "phonetic": "/ˈtɜːrmɪnl/",
+      "definition": "n. 航站楼",
+      "example": "Your flight departs from terminal 2.",
+      "example_trans": "您的航班从2号航站楼出发。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Which terminal does British Airways use?",
+            "translation": "英国航空公司使用哪个航站楼？"
+          },
+          {
+            "text": "They usually use terminal 5.",
+            "translation": "他们通常使用5号航站楼。"
+          }
+        ],
+        [
+          {
+            "text": "The terminal is very crowded today.",
+            "translation": "今天的航站楼非常拥挤。"
+          },
+          {
+            "text": "Yes, it's peak travel season.",
+            "translation": "是的，现在是旅游旺季。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 68
+    },
+    {
+      "word": "Delay",
+      "phonetic": "/dɪˈleɪ/",
+      "definition": "v. 延误",
+      "example": "The flight was delayed due to bad weather.",
+      "example_trans": "由于恶劣天气，航班延误了。",
+      "derivatives": [
+        "delayed (adj.)"
+      ],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "I'm sorry to announce that flight BA246 is delayed.",
+            "translation": "我很抱歉地宣布，BA246航班延误了。"
+          },
+          {
+            "text": "How long will the delay be?",
+            "translation": "会延误多久？"
+          }
+        ],
+        [
+          {
+            "text": "The delay is causing me to miss my connection.",
+            "translation": "延误导致我错过了转机。"
+          },
+          {
+            "text": "Please speak to the airline staff, they can help you rebook.",
+            "translation": "请与航空公司工作人员联系，他们可以帮助您重新预订。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 69
+    },
+    {
+      "word": "On time",
+      "phonetic": "/ˌɒn ˈtaɪm/",
+      "definition": "adj. 准时",
+      "example": "The flight is scheduled to depart on time.",
+      "example_trans": "航班计划准时起飞。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 1,
+      "dialogues": [
+        [
+          {
+            "text": "Is the flight on time?",
+            "translation": "航班准时吗？"
+          },
+          {
+            "text": "Yes, it's scheduled to depart on time.",
+            "translation": "是的，计划准时起飞。"
+          }
+        ],
+        [
+          {
+            "text": "I'm glad the flight is on time. I have a tight schedule.",
+            "translation": "我很高兴航班准时。我的行程很紧。"
+          },
+          {
+            "text": "Me too. Delays can be very stressful.",
+            "translation": "我也是。延误会让人感到压力很大。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 70
+    },
+    {
+      "word": "Transfer",
+      "phonetic": "/ˈtrænsfɜːr/",
+      "definition": "v. 转机",
+      "example": "You need to transfer in Amsterdam for your connecting flight.",
+      "example_trans": "你需要在阿姆斯特丹转机才能搭乘你的中转航班。",
+      "derivatives": [
+        "transferable (adj.)"
+      ],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Where do I go to transfer to my next flight?",
+            "translation": "我应该去哪里转机到我的下一个航班？"
+          },
+          {
+            "text": "Follow the signs for connecting flights.",
+            "translation": "按照中转航班的指示牌走。"
+          }
+        ],
+        [
+          {
+            "text": "I have a very short transfer time. I'm worried I'll miss my flight.",
+            "translation": "我的转机时间很短。我担心我会错过我的航班。"
+          },
+          {
+            "text": "Inform the flight attendant, they can help you.",
+            "translation": "通知乘务员，他们可以帮助你。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 71
+    },
+    {
+      "word": "Connection",
+      "phonetic": "/kəˈnekʃn/",
+      "definition": "n. 中转航班",
+      "example": "I missed my connection due to the delay.",
+      "example_trans": "由于延误，我错过了我的中转航班。",
+      "derivatives": [
+        "connect (v.)"
+      ],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "How much time do I have between connections?",
+            "translation": "我的中转航班之间有多少时间？"
+          },
+          {
+            "text": "You have two hours.",
+            "translation": "你有两个小时。"
+          }
+        ],
+        [
+          {
+            "text": "I need to find my connection gate.",
+            "translation": "我需要找到我的中转航班登机口。"
+          },
+          {
+            "text": "Check the monitors for the gate information.",
+            "translation": "查看显示器上的登机口信息。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 72
+    },
+    {
+      "word": "Layover",
+      "phonetic": "/ˈleɪoʊvər/",
+      "definition": "n. 停留时间",
+      "example": "I have a long layover in Dubai.",
+      "example_trans": "我在迪拜有很长的停留时间。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "机场"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 3,
+      "dialogues": [
+        [
+          {
+            "text": "What are you going to do during your layover?",
+            "translation": "你打算在停留期间做什么？"
+          },
+          {
+            "text": "I'm thinking of exploring the city.",
+            "translation": "我正在考虑探索这座城市。"
+          }
+        ],
+        [
+          {
+            "text": "A long layover can be tiring.",
+            "translation": "长时间的停留会让人感到疲倦。"
+          },
+          {
+            "text": "Yes, but it's also a chance to see a new place.",
+            "translation": "是的，但这也是一个看到新地方的机会。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 73
+    },
+    {
+      "word": "Flight attendant",
+      "phonetic": "/ˈflaɪt əˌtendənt/",
+      "definition": "n. 乘务员",
+      "example": "The flight attendant is very helpful.",
+      "example_trans": "乘务员非常乐于助人。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "飞机"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Excuse me, flight attendant, can I have some water?",
+            "translation": "打扰一下，乘务员，我可以要些水吗？"
+          },
+          {
+            "text": "Of course, I'll bring it to you right away.",
+            "translation": "当然，我马上给你拿来。"
+          }
+        ],
+        [
+          {
+            "text": "The flight attendant helped me find my seat.",
+            "translation": "乘务员帮助我找到了我的座位。"
+          },
+          {
+            "text": "That's nice of them.",
+            "translation": "他们真好。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 74
+    },
+    {
+      "word": "Travel insurance",
+      "phonetic": "/ˈtrævl ɪnˈʃʊərəns/",
+      "definition": "n. 旅行保险",
+      "example": "It's important to have travel insurance in case of emergencies.",
+      "example_trans": "购买旅行保险以防万一非常重要。",
+      "derivatives": [],
+      "tags": [
+        "旅行",
+        "保险"
+      ],
+      "categories": [
+        "旅行",
+        "旅游"
+      ],
+      "level": 2,
+      "dialogues": [
+        [
+          {
+            "text": "Do you have travel insurance?",
+            "translation": "你有旅行保险吗？"
+          },
+          {
+            "text": "Yes, I always buy it before my trips.",
+            "translation": "是的，我总是在旅行前购买。"
+          }
+        ],
+        [
+          {
+            "text": "I had to use my travel insurance when I got sick on vacation.",
+            "translation": "我在度假时生病了，不得不使用我的旅行保险。"
+          },
+          {
+            "text": "That's why it's so important to have it.",
+            "translation": "这就是为什么拥有它如此重要。"
+          }
+        ]
+      ],
+      "learned": false,
+      "id": 75
+    }
+  ],
+  "categories": [
+    "四级词汇",
+    "六级词汇",
+    "雅思词汇",
+    "托福词汇",
+    "商业",
+    "旅游",
+    "学术",
+    "高频词"
+  ],
+  "exportDate": "2025-04-17T13:32:25.573Z",
+  "version": "1.0"
+}
