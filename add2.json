@@ -1,0 +1,926 @@
+[
+  {
+    "word": "extra",
+    "phonetic": "/ˈekstrə/",
+    "definition": "额外的",
+    "example": "I'd like an extra shot of espresso in my latte.",
+    "example_trans": "我想要在我的拿铁里加一份浓缩咖啡。",
+    "derivatives": [],
+    "tags": ["数量", "咖啡"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like anything extra with your order?",
+          "translation": "您的订单需要加点什么吗？"
+        },
+        {
+          "text": "Yes, can I get an extra napkin?",
+          "translation": "是的，可以给我多一张餐巾纸吗？"
+        }
+      ],
+      [
+        {
+          "text": "This cake is good, but it needs an extra layer of frosting.",
+          "translation": "这个蛋糕很好吃，但是需要多一层糖霜。"
+        },
+        {
+          "text": "I agree! More frosting is always better.",
+          "translation": "我同意！多点糖霜总是更好。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "shot",
+    "phonetic": "/ʃɒt/",
+    "definition": "一份 (浓缩咖啡)",
+    "example": "A double shot latte is stronger than a regular latte.",
+    "example_trans": "双份浓缩拿铁比普通拿铁更浓。",
+    "derivatives": [],
+    "tags": ["咖啡", "计量"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How many shots of espresso do you want in your coffee?",
+          "translation": "你的咖啡想要几份浓缩咖啡？"
+        },
+        {
+          "text": "Just one shot, please.",
+          "translation": "只要一份，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "I need a shot of caffeine to wake me up.",
+          "translation": "我需要一份咖啡因来唤醒我。"
+        },
+        {
+          "text": "Me too! I'll have a double shot espresso.",
+          "translation": "我也是！我要一份双份浓缩咖啡。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "slice",
+    "phonetic": "/slaɪs/",
+    "definition": "一片",
+    "example": "I'd like a slice of pizza, please.",
+    "example_trans": "我想要一片披萨，谢谢。",
+    "derivatives": [],
+    "tags": ["食物", "计量"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like a slice of cake?",
+          "translation": "你想要一片蛋糕吗？"
+        },
+        {
+          "text": "Yes, please! Chocolate, if you have it.",
+          "translation": "是的，谢谢！如果是巧克力口味的就更好了。"
+        }
+      ],
+      [
+        {
+          "text": "I'm going to have a slice of watermelon.",
+          "translation": "我要吃一片西瓜。"
+        },
+        {
+          "text": "Sounds refreshing!",
+          "translation": "听起来很清爽！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cake",
+    "phonetic": "/keɪk/",
+    "definition": "蛋糕",
+    "example": "She baked a delicious chocolate cake for his birthday.",
+    "example_trans": "她为他的生日烤了一个美味的巧克力蛋糕。",
+    "derivatives": [],
+    "tags": ["食物", "甜点"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of cake do you want for your birthday?",
+          "translation": "你生日想要什么口味的蛋糕？"
+        },
+        {
+          "text": "I'd love a chocolate cake with vanilla frosting.",
+          "translation": "我想要一个香草糖霜的巧克力蛋糕。"
+        }
+      ],
+      [
+        {
+          "text": "This cake is so moist and delicious!",
+          "translation": "这个蛋糕真湿润又好吃！"
+        },
+        {
+          "text": "I know! It's the best cake I've ever had.",
+          "translation": "我知道！这是我吃过的最好吃的蛋糕。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "right up",
+    "phonetic": "/ˌraɪt ˈʌp/",
+    "definition": "马上就好",
+    "example": "\"Your order will be right up,\" the waiter said.",
+    "example_trans": "“您的订单马上就好，”服务员说。",
+    "derivatives": [],
+    "tags": ["服务", "餐饮"],
+    "categories": ["常用语"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How long will my order take?",
+          "translation": "我的订单需要多久？"
+        },
+        {
+          "text": "It'll be right up! Just a few more minutes.",
+          "translation": "马上就好！再等几分钟。"
+        }
+      ],
+      [
+        {
+          "text": "Can I get a refill on my coffee?",
+          "translation": "我可以续杯咖啡吗？"
+        },
+        {
+          "text": "Sure, I'll bring it right up.",
+          "translation": "当然，我马上给你拿来。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "lowercase",
+    "phonetic": "/ˈloʊərˌkeɪs/",
+    "definition": "小写",
+    "example": "Please enter your password in lowercase letters.",
+    "example_trans": "请用小写字母输入您的密码。",
+    "derivatives": [],
+    "tags": ["电脑", "文字"],
+    "categories": ["科技"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Why isn't my password working?",
+          "translation": "为什么我的密码不起作用？"
+        },
+        {
+          "text": "Make sure your caps lock is off and you're using lowercase letters.",
+          "translation": "确保您的大写锁定已关闭，并且您使用的是小写字母。"
+        }
+      ],
+      [
+        {
+          "text": "The instructions say to type the code in lowercase.",
+          "translation": "说明书上说要用小写字母输入代码。"
+        },
+        {
+          "text": "Okay, I'll try that.",
+          "translation": "好的，我试试。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "refill",
+    "phonetic": "/ˈriːfɪl/",
+    "definition": "续杯",
+    "example": "Can I get a refill on my water, please?",
+    "example_trans": "我可以续杯水吗？",
+    "derivatives": [],
+    "tags": ["餐饮", "服务"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like a refill on your drink?",
+          "translation": "您需要续杯饮料吗？"
+        },
+        {
+          "text": "Yes, please. I'll have another iced tea.",
+          "translation": "是的，谢谢。我再要一杯冰茶。"
+        }
+      ],
+      [
+        {
+          "text": "This coffee is so good, I need a refill!",
+          "translation": "这咖啡真好喝，我需要续杯！"
+        },
+        {
+          "text": "I agree! It's the perfect way to start the day.",
+          "translation": "我同意！这是开始美好一天的完美方式。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "seat",
+    "phonetic": "/siːt/",
+    "definition": "座位",
+    "example": "Is this seat taken?",
+    "example_trans": "这个座位有人吗？",
+    "derivatives": [],
+    "tags": ["位置", "交通"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I have a window seat, please?",
+          "translation": "我可以要一个靠窗的座位吗？"
+        },
+        {
+          "text": "Let me see what's available.",
+          "translation": "我看看有什么空位。"
+        }
+      ],
+      [
+        {
+          "text": "Please take a seat and the doctor will be with you shortly.",
+          "translation": "请坐下，医生很快就会来。"
+        },
+        {
+          "text": "Thank you.",
+          "translation": "谢谢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "ahead",
+    "phonetic": "/əˈhed/",
+    "definition": "向前",
+    "example": "Go ahead and start without me.",
+    "example_trans": "不用等我，你们先开始吧。",
+    "derivatives": [],
+    "tags": ["方向", "鼓励"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you ready to order?",
+          "translation": "你准备好点餐了吗？"
+        },
+        {
+          "text": "Go ahead, I need a few more minutes.",
+          "translation": "你先点吧，我还需要几分钟。"
+        }
+      ],
+      [
+        {
+          "text": "The road ahead is closed due to construction.",
+          "translation": "前面的路因为施工封闭了。",
+        },
+        {
+          "text": "Oh no! We'll have to find another route.",
+          "translation": "哦，不！我们得找另一条路了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "plug in",
+    "phonetic": "/ˌplʌɡ ˈɪn/",
+    "definition": "插入",
+    "example": "Please plug in your phone to charge it.",
+    "example_trans": "请插入你的手机来充电。",
+    "derivatives": [],
+    "tags": ["电器", "科技"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where can I plug in my laptop?",
+          "translation": "我可以在哪里插入我的笔记本电脑？"
+        },
+        {
+          "text": "There's an outlet near the window.",
+          "translation": "窗户附近有一个插座。"
+        }
+      ],
+      [
+        {
+          "text": "Did you plug in the coffee maker?",
+          "translation": "你插上咖啡机了吗？"
+        },
+        {
+          "text": "Oops, I forgot! Thanks for reminding me.",
+          "translation": "哎呀，我忘了！谢谢你提醒我。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Do you mind",
+    "phonetic": "/duː juː maɪnd/",
+    "definition": "你介意吗",
+    "example": "Do you mind if I open the window?",
+    "example_trans": "你介意我打开窗户吗？",
+    "derivatives": [],
+    "tags": ["礼貌", "请求"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you mind if I sit here?",
+          "translation": "你介意我坐在这里吗？"
+        },
+        {
+          "text": "No, not at all. Go ahead.",
+          "translation": "不，一点也不介意。请坐。"
+        }
+      ],
+      [
+        {
+          "text": "Do you mind helping me with this heavy box?",
+          "translation": "你介意帮我搬这个重箱子吗？"
+        },
+        {
+          "text": "Not at all. I'm happy to help.",
+          "translation": "一点也不介意。我很乐意帮忙。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Not at all",
+    "phonetic": "/ˌnɒt ət ˈɔːl/",
+    "definition": "一点也不",
+    "example": "\"Thank you for your help.\" \"Not at all!\"",
+    "example_trans": "“谢谢你的帮助。”“一点也不客气！”",
+    "derivatives": [],
+    "tags": ["礼貌", "回应"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you mind if I borrow your pen?",
+          "translation": "你介意我借你的笔吗？"
+        },
+        {
+          "text": "Not at all! Here you go.",
+          "translation": "一点也不介意！给你。"
+        }
+      ],
+      [
+        {
+          "text": "Thank you for driving me home.",
+          "translation": "谢谢你开车送我回家。"
+        },
+        {
+          "text": "Not at all! It was my pleasure.",
+          "translation": "一点也不客气！我很乐意。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Appreciate it",
+    "phonetic": "/əˈpriːʃieɪt ɪt/",
+    "definition": "感谢",
+    "example": "Thanks for your help, I appreciate it.",
+    "example_trans": "谢谢你的帮助，我很感谢。",
+    "derivatives": ["appreciate (v.)"],
+    "tags": ["感谢", "礼貌"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Here's your coffee.",
+          "translation": "这是你的咖啡。"
+        },
+        {
+          "text": "Thanks, I appreciate it.",
+          "translation": "谢谢，我很感谢。"
+        }
+      ],
+      [
+        {
+          "text": "I fixed your computer for you.",
+          "translation": "我帮你修好了电脑。"
+        },
+        {
+          "text": "Oh, thank you so much! I really appreciate it.",
+          "translation": "哦，非常感谢！我真的很感谢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "house special",
+    "phonetic": "/ˈhaʊs ˈspeʃəl/",
+    "definition": "特色菜",
+    "example": "I recommend trying the house special.",
+    "example_trans": "我推荐你尝尝特色菜。",
+    "derivatives": [],
+    "tags": ["餐饮", "推荐"],
+    "categories": ["饮食"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What's good here?",
+          "translation": "这里有什么好吃的？"
+        },
+        {
+          "text": "I highly recommend the house special. It's delicious!",
+          "translation": "我强烈推荐特色菜。它非常好吃！"
+        }
+      ],
+      [
+        {
+          "text": "I'll have the house special, please.",
+          "translation": "我要特色菜，谢谢。",
+        },
+        {
+          "text": "Excellent choice!",
+          "translation": "非常好的选择！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "burrito",
+    "phonetic": "/bəˈriːtoʊ/",
+    "definition": "墨西哥卷饼",
+    "example": "I'm craving a big burrito for lunch.",
+    "example_trans": "我午餐想吃一个大大的墨西哥卷饼。",
+    "derivatives": [],
+    "tags": ["食物", "墨西哥"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of burrito do you want?",
+          "translation": "你想要什么口味的墨西哥卷饼？"
+        },
+        {
+          "text": "A chicken burrito with all the toppings!",
+          "translation": "一个加所有配料的鸡肉卷饼！"
+        }
+      ],
+      [
+        {
+          "text": "This burrito is huge!",
+          "translation": "这个墨西哥卷饼真大！"
+        },
+        {
+          "text": "I know! I'm so hungry, I can probably eat the whole thing.",
+          "translation": "我知道！我太饿了，我可能可以吃掉整个。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "be out",
+    "phonetic": "/biː aʊt/",
+    "definition": "不在",
+    "example": "I'll be out of the office until next week.",
+    "example_trans": "我下周之前都不在办公室。",
+    "derivatives": [],
+    "tags": ["状态", "工作"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is John in the office today?",
+          "translation": "约翰今天在办公室吗？"
+        },
+        {
+          "text": "No, he's out on a business trip.",
+          "translation": "不，他出差了。"
+        }
+      ],
+      [
+        {
+          "text": "I'll be out running errands for a few hours.",
+          "translation": "我要出去办几个小时的差事。",
+        },
+        {
+          "text": "Okay, I'll hold down the fort.",
+          "translation": "好的，我会坚守阵地。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Absolutely",
+    "phonetic": "/ˌæbsəˈluːtli/",
+    "definition": "当然",
+    "example": "\"Can you help me with this?\" \"Absolutely!\"",
+    "example_trans": "“你能帮我一下吗？”“当然！”",
+    "derivatives": [],
+    "tags": ["肯定", "同意"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you coming to the party tonight?",
+          "translation": "你今晚要来参加聚会吗？"
+        },
+        {
+          "text": "Absolutely! I wouldn't miss it.",
+          "translation": "当然！我不会错过的。"
+        }
+      ],
+      [
+        {
+          "text": "Is it okay if I borrow your car?",
+          "translation": "我可以借你的车吗？"
+        },
+        {
+          "text": "Absolutely! Just be careful.",
+          "translation": "当然可以！小心驾驶。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "muffin",
+    "phonetic": "/ˈmʌfɪn/",
+    "definition": "松饼",
+    "example": "I had a blueberry muffin for breakfast.",
+    "example_trans": "我早餐吃了一个蓝莓松饼。",
+    "derivatives": [],
+    "tags": ["食物", "早餐"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of muffin do you want?",
+          "translation": "你想要什么口味的松饼？"
+        },
+        {
+          "text": "A chocolate chip muffin, please.",
+          "translation": "一个巧克力碎片松饼，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "This muffin is so fluffy and delicious!",
+          "translation": "这个松饼真蓬松又好吃！"
+        },
+        {
+          "text": "I know! It's the best muffin I've ever had.",
+          "translation": "我知道！这是我吃过的最好吃的松饼。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "split",
+    "phonetic": "/splɪt/",
+    "definition": "分开",
+    "example": "Let's split the bill.",
+    "example_trans": "我们来分摊账单吧。",
+    "derivatives": [],
+    "tags": ["费用", "分摊"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How should we pay for dinner?",
+          "translation": "我们该怎么付晚餐钱？"
+        },
+        {
+          "text": "Let's split the bill evenly.",
+          "translation": "我们平均分摊账单吧。"
+        }
+      ],
+      [
+        {
+          "text": "I'll pay for the drinks, and you can pay for the food.",
+          "translation": "我来付饮料钱，你来付食物钱。"
+        },
+        {
+          "text": "Okay, that sounds fair. Let's split it that way.",
+          "translation": "好的，听起来很公平。我们就这样分摊吧。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "caramel",
+    "phonetic": "/ˈkærəməl/",
+    "definition": "焦糖",
+    "example": "I love caramel ice cream.",
+    "example_trans": "我喜欢焦糖冰淇淋。",
+    "derivatives": [],
+    "tags": ["食物", "甜点"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like caramel or chocolate sauce on your sundae?",
+          "translation": "你的圣代想要焦糖酱还是巧克力酱？"
+        },
+        {
+          "text": "Caramel, please!",
+          "translation": "焦糖，谢谢！"
+        }
+      ],
+      [
+        {
+          "text": "I'm making caramel apples for Halloween.",
+          "translation": "我要做焦糖苹果来过万圣节。",
+        },
+        {
+          "text": "That sounds delicious! Can I have one?",
+          "translation": "听起来很好吃！我可以要一个吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "those",
+    "phonetic": "/ðoʊz/",
+    "definition": "那些",
+    "example": "I want to buy those shoes.",
+    "example_trans": "我想买那些鞋子。",
+    "derivatives": [],
+    "tags": ["指示", "代词"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Which cookies do you want?",
+          "translation": "你想要哪些饼干？"
+        },
+        {
+          "text": "I'll take those chocolate chip ones.",
+          "translation": "我要那些巧克力碎片的。"
+        }
+      ],
+      [
+        {
+          "text": "Are those your keys?",
+          "translation": "那些是你的钥匙吗？"
+        },
+        {
+          "text": "Yes, they are. Thanks for finding them!",
+          "translation": "是的，是我的。谢谢你找到它们！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "actually",
+    "phonetic": "/ˈæktʃuəli/",
+    "definition": "实际上",
+    "example": "I'm actually not from here.",
+    "example_trans": "我实际上不是这里人。",
+    "derivatives": [],
+    "tags": ["副词", "事实"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you from California?",
+          "translation": "你是加利福尼亚人吗？"
+        },
+        {
+          "text": "Actually, I'm from New York.",
+          "translation": "实际上，我是纽约人。"
+        }
+      ],
+      [
+        {
+          "text": "I thought you liked coffee.",
+          "translation": "我以为你喜欢咖啡。"
+        },
+        {
+          "text": "Actually, I prefer tea.",
+          "translation": "实际上，我更喜欢茶。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "scenery",
+    "phonetic": "/ˈsiːnəri/",
+    "definition": "风景",
+    "example": "The scenery on the drive was breathtaking.",
+    "example_trans": "开车途中的风景令人叹为观止。",
+    "derivatives": [],
+    "tags": ["旅游", "自然"],
+    "categories": ["地理"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What's the scenery like in the mountains?",
+          "translation": "山里的风景怎么样？"
+        },
+        {
+          "text": "It's absolutely stunning! You have to see it to believe it.",
+          "translation": "绝对令人惊叹！你必须亲眼看到才能相信。"
+        }
+      ],
+      [
+        {
+          "text": "I love traveling to places with beautiful scenery.",
+          "translation": "我喜欢去风景优美的地方旅行。"
+        },
+        {
+          "text": "Me too! It's so relaxing and inspiring.",
+          "translation": "我也是！它非常放松和鼓舞人心。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "unique",
+    "phonetic": "/juːˈniːk/",
+    "definition": "独特的",
+    "example": "Each snowflake is unique.",
+    "example_trans": "每片雪花都是独特的。",
+    "derivatives": [],
+    "tags": ["特点", "个性"],
+    "categories": ["常用语"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What makes this restaurant so special?",
+          "translation": "是什么让这家餐厅如此特别？"
+        },
+        {
+          "text": "It has a unique atmosphere and delicious food.",
+          "translation": "它有独特的氛围和美味的食物。"
+        }
+      ],
+      [
+        {
+          "text": "I love your style! It's so unique.",
+          "translation": "我喜欢你的风格！太独特了。"
+        },
+        {
+          "text": "Thank you! I like to express myself through my clothes.",
+          "translation": "谢谢！我喜欢通过我的衣服来表达自己。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "stall",
+    "phonetic": "/stɔːl/",
+    "definition": "摊位",
+    "example": "I bought some fresh fruit at the market stall.",
+    "example_trans": "我在市场摊位买了一些新鲜水果。",
+    "derivatives": [],
+    "tags": ["购物", "市场"],
+    "categories": ["商业"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What are you selling at your stall?",
+          "translation": "你在你的摊位上卖什么？"
+        },
+        {
+          "text": "I'm selling handmade jewelry.",
+          "translation": "我卖手工制作的珠宝。"
+        }
+      ],
+      [
+        {
+          "text": "Let's check out the food stalls at the festival.",
+          "translation": "我们去看看节日里的美食摊位吧。",
+        },
+        {
+          "text": "Sounds good! I'm hungry.",
+          "translation": "听起来不错！我饿了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Ever been to one",
+    "phonetic": "/ˈevər bɪn tuː wʌn/",
+    "definition": "去过一个吗",
+    "example": "\"Have you ever been to a farmer's market?\" \"Ever been to one?\"",
+    "example_trans": "“你去过农贸市场吗？”“去过一个吗？”",
+    "derivatives": [],
+    "tags": ["询问", "经历"],
+    "categories": ["常用语"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Have you ever been to a jazz concert?",
+          "translation": "你有没有去过爵士音乐会？"
+        },
+        {
+          "text": "Ever been to one? They're amazing!",
+          "translation": "去过一个吗？它们太棒了！"
+        }
+      ],
+      [
+        {
+          "text": "Have you ever been to a cooking class?",
+          "translation": "你有没有上过烹饪课？"
+        },
+        {
+          "text": "No, I haven't. Have you ever been to one?",
+          "translation": "没有，我没有。你有没有上过一个？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "fun",
+    "phonetic": "/fʌn/",
+    "definition": "有趣的",
+    "example": "The party was so much fun!",
+    "example_trans": "聚会太有趣了！",
+    "derivatives": [],
+    "tags": ["感受", "活动"],
+    "categories": ["常用语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What did you do this weekend?",
+          "translation": "你这个周末做了什么？"
+        },
+        {
+          "text": "I went to the beach. It was so much fun!",
+          "translation": "我去海滩了。太有趣了！"
+        }
+      ],
+      [
+        {
+          "text": "Let's do something fun tonight.",
+          "translation": "我们今晚做一些有趣的事情吧。"
+        },
+        {
+          "text": "Sounds good! What do you have in mind?",
+          "translation": "听起来不错！你有什么想法？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "smoothie",
+    "phonetic": "/ˈsmuːði/",
+    "definition": "冰沙",
+    "example": "I had a fruit smoothie for breakfast.",
+    "example_trans": "我早餐喝了一杯水果冰沙。",
+    "derivatives": [],
+    "tags": ["食物", "饮料"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of smoothie do you want?",
+          "translation": "你想要什么口味的冰沙？"
+        },
+        {
+          "text": "A strawberry banana smoothie, please.",
+          "translation": "一杯草莓香蕉冰沙，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "This smoothie is so refreshing!",
+          "translation": "这冰沙真清爽！"
+        },
+        {
+          "text": "I know! It's the perfect drink for a hot day.",
+          "translation": "我知道！这是炎热天气的完美饮品。"
+        }
+      ]
+    ]
+  }
+]
