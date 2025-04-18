@@ -287,7 +287,7 @@
       [
         {
           "text": "The road ahead is closed due to construction.",
-          "translation": "前面的路因为施工封闭了。",
+          "translation": "前面的路因为施工封闭了。"
         },
         {
           "text": "Oh no! We'll have to find another route.",
@@ -452,7 +452,7 @@
       [
         {
           "text": "I'll have the house special, please.",
-          "translation": "我要特色菜，谢谢。",
+          "translation": "我要特色菜，谢谢。"
         },
         {
           "text": "Excellent choice!",
@@ -518,7 +518,7 @@
       [
         {
           "text": "I'll be out running errands for a few hours.",
-          "translation": "我要出去办几个小时的差事。",
+          "translation": "我要出去办几个小时的差事。"
         },
         {
           "text": "Okay, I'll hold down the fort.",
@@ -650,7 +650,7 @@
       [
         {
           "text": "I'm making caramel apples for Halloween.",
-          "translation": "我要做焦糖苹果来过万圣节。",
+          "translation": "我要做焦糖苹果来过万圣节。"
         },
         {
           "text": "That sounds delicious! Can I have one?",
@@ -815,7 +815,7 @@
       [
         {
           "text": "Let's check out the food stalls at the festival.",
-          "translation": "我们去看看节日里的美食摊位吧。",
+          "translation": "我们去看看节日里的美食摊位吧。"
         },
         {
           "text": "Sounds good! I'm hungry.",
@@ -829,7 +829,7 @@
     "phonetic": "/ˈevər bɪn tuː wʌn/",
     "definition": "去过一个吗",
     "example": "\"Have you ever been to a farmer's market?\" \"Ever been to one?\"",
-    "example_trans": "“你去过农贸市场吗？”“去过一个吗？”",
+        "example_trans": "“你去过农贸市场吗？”“去过一个吗？”",
     "derivatives": [],
     "tags": ["询问", "经历"],
     "categories": ["常用语"],
