@@ -1,0 +1,630 @@
+[
+  {
+    "word": "peanut",
+    "phonetic": "/ˈpiːnʌt/",
+    "definition": "花生 (过敏源)",
+    "example": "She has a severe peanut allergy.",
+    "example_trans": "她对花生有严重的过敏反应。",
+    "derivatives": [],
+    "tags": ["过敏", "食物"],
+    "categories": ["健康"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Does this contain peanuts?",
+          "translation": "这含有花生吗？"
+        },
+        {
+          "text": "Yes, it does. It's made with peanut oil.",
+          "translation": "是的，它含有。它是用花生油做的。"
+        }
+      ],
+      [
+        {
+          "text": "I have a peanut allergy, so I have to be very careful.",
+          "translation": "我对花生过敏，所以我必须非常小心。"
+        },
+        {
+          "text": "I understand. We'll make sure your food is peanut-free.",
+          "translation": "我理解。我们会确保你的食物不含花生。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "shellfish",
+    "phonetic": "/ˈʃelˌfɪʃ/",
+    "definition": "甲壳贝类 (过敏源)",
+    "example": "He is allergic to shellfish, such as shrimp and crab.",
+    "example_trans": "他对甲壳贝类过敏，例如虾和螃蟹。",
+    "derivatives": [],
+    "tags": ["过敏", "食物"],
+    "categories": ["健康"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is there any shellfish in this dish?",
+          "translation": "这道菜里有甲壳贝类吗？"
+        },
+        {
+          "text": "No, it's shellfish-free.",
+          "translation": "没有，它不含甲壳贝类。"
+        }
+      ],
+      [
+        {
+          "text": "I can't eat shellfish because of my allergy.",
+          "translation": "因为我对甲壳贝类过敏，所以我不能吃。"
+        },
+        {
+          "text": "We have plenty of other options for you.",
+          "translation": "我们有很多其他的选择给你。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "soy",
+    "phonetic": "/sɔɪ/",
+    "definition": "大豆 (过敏源)",
+    "example": "Many processed foods contain soy.",
+    "example_trans": "许多加工食品都含有大豆。",
+    "derivatives": [],
+    "tags": ["过敏", "食物"],
+    "categories": ["健康"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Does this product contain soy?",
+          "translation": "这个产品含有大豆吗？"
+        },
+        {
+          "text": "Please check the ingredient list on the packaging.",
+          "translation": "请查看包装上的成分表。"
+        }
+      ],
+      [
+        {
+          "text": "I'm trying to avoid soy in my diet.",
+          "translation": "我正在努力避免在我的饮食中摄入大豆。"
+        },
+        {
+          "text": "It can be tricky, as soy is in many common foods.",
+          "translation": "这可能很棘手，因为大豆存在于许多常见的食物中。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "sesame",
+    "phonetic": "/ˈsɛsəmi/",
+    "definition": "芝麻 (过敏源)",
+    "example": "Sesame allergies are becoming more common.",
+    "example_trans": "芝麻过敏变得越来越普遍。",
+    "derivatives": [],
+    "tags": ["过敏", "食物"],
+    "categories": ["健康"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is sesame used in this recipe?",
+          "translation": "这个食谱里用了芝麻吗？"
+        },
+        {
+          "text": "Yes, it is. We use sesame oil for flavoring.",
+          "translation": "是的，用了。我们用芝麻油来调味。"
+        }
+      ],
+      [
+        {
+          "text": "I'm allergic to sesame, so I can't eat that.",
+          "translation": "我对芝麻过敏，所以我不能吃那个。"
+        },
+        {
+          "text": "We can prepare something else for you without sesame.",
+          "translation": "我们可以为你准备一些不含芝麻的东西。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "definition": "鱼 (过敏源)",
+    "example": "She can't eat fish due to an allergy.",
+    "example_trans": "由于过敏，她不能吃鱼。",
+    "derivatives": [],
+    "tags": ["过敏", "食物"],
+    "categories": ["健康"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Does this contain any fish?",
+          "translation": "这含有任何鱼吗？"
+        },
+        {
+          "text": "Yes, it contains salmon.",
+          "translation": "是的，它含有鲑鱼。"
+        }
+      ],
+      [
+        {
+          "text": "I'm allergic to fish, so I need to avoid it.",
+          "translation": "我对鱼过敏，所以我需要避免它。"
+        },
+        {
+          "text": "We have several fish-free options on the menu.",
+          "translation": "菜单上我们有几种不含鱼的选择。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "dairy / milk",
+    "phonetic": "/ˈdɛəri/ /mɪlk/",
+    "definition": "奶制品 (过敏源)",
+    "example": "He is lactose intolerant and avoids dairy products.",
+    "example_trans": "他有乳糖不耐症，避免食用奶制品。",
+    "derivatives": [],
+    "tags": ["过敏", "食物"],
+    "categories": ["健康"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is this dairy-free?",
+          "translation": "这是不含奶制品的吗？"
+        },
+        {
+          "text": "No, it contains milk and butter.",
+          "translation": "不，它含有牛奶和黄油。"
+        }
+      ],
+      [
+        {
+          "text": "I can't have dairy, so I need a dairy-free alternative.",
+          "translation": "我不能吃奶制品，所以我需要一个不含奶制品的替代品。"
+        },
+        {
+          "text": "We have soy milk and almond milk available.",
+          "translation": "我们有豆奶和杏仁奶可供选择。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "treenuts",
+    "phonetic": "/ˈtriːnʌts/",
+    "definition": "坚果 (过敏源)",
+    "example": "She is allergic to treenuts, such as almonds and walnuts.",
+    "example_trans": "她对坚果过敏，例如杏仁和核桃。",
+    "derivatives": [],
+    "tags": ["过敏", "食物"],
+    "categories": ["健康"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Does this contain any treenuts?",
+          "translation": "这含有任何坚果吗？"
+        },
+        {
+          "text": "Yes, it contains almonds.",
+          "translation": "是的，它含有杏仁。"
+        }
+      ],
+      [
+        {
+          "text": "I have a treenut allergy, so I have to be careful.",
+          "translation": "我对坚果过敏，所以我必须小心。"
+        },
+        {
+          "text": "We'll make sure your order is treenut-free.",
+          "translation": "我们会确保你的订单不含坚果。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "wheat / gluten",
+    "phonetic": "/wiːt/ /ˈɡluːtən/",
+    "definition": "小麦/麸质 (过敏源)",
+    "example": "He is gluten-free due to celiac disease.",
+    "example_trans": "由于乳糜泻，他食用无麸质食品。",
+    "derivatives": ["gluten-free (无麸质的)"],
+    "tags": ["过敏", "食物"],
+    "categories": ["健康"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is this gluten-free?",
+          "translation": "这是无麸质的吗？"
+        },
+        {
+          "text": "Yes, it's made with rice flour instead of wheat flour.",
+          "translation": "是的，它是用米粉而不是小麦粉做的。"
+        }
+      ],
+      [
+        {
+          "text": "I need to eat gluten-free because I have celiac disease.",
+          "translation": "我需要吃无麸质食物，因为我有乳糜泻。"
+        },
+        {
+          "text": "We have a separate gluten-free menu.",
+          "translation": "我们有一份单独的无麸质菜单。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "flexitarian",
+    "phonetic": "/ˌfleksɪˈtɛəriən/",
+    "definition": "灵活素食 (饮食类型)",
+    "example": "She is a flexitarian, mostly vegetarian but occasionally eats meat.",
+    "example_trans": "她是一个灵活素食者，大部分时间吃素，但偶尔也吃肉。",
+    "derivatives": [],
+    "tags": ["饮食", "素食"],
+    "categories": ["饮食"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Are you a vegetarian?",
+          "translation": "你是素食主义者吗？"
+        },
+        {
+          "text": "I'm a flexitarian, so I mostly eat vegetarian but sometimes I eat meat.",
+          "translation": "我是个弹性素食主义者，所以我大部分时间吃素，但有时也吃肉。"
+        }
+      ],
+      [
+        {
+          "text": "What's a flexitarian?",
+          "translation": "什么是弹性素食主义者？"
+        },
+        {
+          "text": "It's someone who primarily eats a vegetarian diet but occasionally includes meat or fish.",
+          "translation": "是指主要吃素食，但偶尔也包括肉或鱼的人。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "vegetarian",
+    "phonetic": "/ˌvɛdʒɪˈtɛəriən/",
+    "definition": "素食 (饮食类型)",
+    "example": "He is a vegetarian and doesn't eat meat or fish.",
+    "example_trans": "他是一个素食主义者，不吃肉或鱼。",
+    "derivatives": ["vegetarianism (素食主义)"],
+    "tags": ["饮食", "素食"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you have any vegetarian options?",
+          "translation": "你们有什么素食选择吗？"
+        },
+        {
+          "text": "Yes, we have several vegetarian dishes on the menu.",
+          "translation": "是的，我们的菜单上有几道素菜。"
+        }
+      ],
+      [
+        {
+          "text": "I'm a vegetarian, so I don't eat meat, poultry, or fish.",
+          "translation": "我是素食主义者，所以我不吃肉、家禽或鱼。"
+        },
+        {
+          "text": "We understand. We'll make sure your meal is vegetarian.",
+          "translation": "我们理解。我们会确保你的餐是素食。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "vegan",
+    "phonetic": "/ˈviːɡən/",
+    "definition": "纯素食 (饮食类型)",
+    "example": "She is a vegan and doesn't eat any animal products.",
+    "example_trans": "她是一个纯素食主义者，不吃任何动物产品。",
+    "derivatives": ["veganism (纯素食主义)"],
+    "tags": ["饮食", "素食"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you have any vegan options?",
+          "translation": "你们有什么纯素食选择吗？"
+        },
+        {
+          "text": "Yes, we have several vegan dishes that don't contain any animal products.",
+          "translation": "是的，我们有几道不含任何动物产品的纯素菜肴。"
+        }
+      ],
+      [
+        {
+          "text": "I'm vegan, so I don't eat meat, dairy, eggs, or honey.",
+          "translation": "我是纯素食主义者，所以我不吃肉、奶制品、鸡蛋或蜂蜜。"
+        },
+        {
+          "text": "We'll make sure your meal is completely vegan.",
+          "translation": "我们会确保你的餐是完全纯素的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "raw vegan",
+    "phonetic": "/rɔː ˈviːɡən/",
+    "definition": "生食纯素 (饮食类型)",
+    "example": "He is a raw vegan and only eats uncooked plant-based foods.",
+    "example_trans": "他是一个生食纯素主义者，只吃未煮熟的植物性食物。",
+    "derivatives": [],
+    "tags": ["饮食", "素食"],
+    "categories": ["饮食"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "What is raw vegan?",
+          "translation": "什么是生食纯素？"
+        },
+        {
+          "text": "It's a diet that consists of only raw, plant-based foods.",
+          "translation": "这是一种只包含生的、植物性食物的饮食。"
+        }
+      ],
+      [
+        {
+          "text": "I'm a raw vegan, so I only eat uncooked fruits, vegetables, nuts, and seeds.",
+          "translation": "我是生食纯素主义者，所以我只吃未煮熟的水果、蔬菜、坚果和种子。"
+        },
+        {
+          "text": "That's a very restrictive diet!",
+          "translation": "那是一种非常严格的饮食！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "pescatarian",
+    "phonetic": "/ˌpɛskəˈtɛəriən/",
+    "definition": "鱼食 (饮食类型)",
+    "example": "She is a pescatarian and eats fish but not other meats.",
+    "example_trans": "她是一个鱼食者，吃鱼但不吃其他肉类。",
+    "derivatives": [],
+    "tags": ["饮食", "海鲜"],
+    "categories": ["饮食"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "So, you eat fish but not meat?",
+          "translation": "所以，你吃鱼但不吃肉？"
+        },
+        {
+          "text": "That's right. I'm a pescatarian.",
+          "translation": "没错。我是一个鱼食者。"
+        }
+      ],
+      [
+        {
+          "text": "I'm a pescatarian, so I eat fish and seafood but no other meat.",
+          "translation": "我是鱼食者，所以我吃鱼和海鲜，但不吃其他肉类。"
+        },
+        {
+          "text": "That's a good way to get protein and omega-3s.",
+          "translation": "这是获取蛋白质和omega-3的好方法。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "gluten-free",
+    "phonetic": "/ˌɡluːtən ˈfriː/",
+    "definition": "无麸质 (特殊饮食需求)",
+    "example": "This bread is gluten-free.",
+    "example_trans": "这种面包是无麸质的。",
+    "derivatives": [],
+    "tags": ["饮食", "过敏"],
+    "categories": ["健康"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is this cake gluten-free?",
+          "translation": "这个蛋糕是无麸质的吗？"
+        },
+        {
+          "text": "Yes, it's made with almond flour.",
+          "translation": "是的，它是用杏仁粉做的。"
+        }
+      ],
+      [
+        {
+          "text": "I need to eat gluten-free because I have a gluten intolerance.",
+          "translation": "我需要吃无麸质食物，因为我对麸质不耐受。"
+        },
+        {
+          "text": "We have a variety of gluten-free options available.",
+          "translation": "我们有各种无麸质选择。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "lactose intolerant",
+    "phonetic": "/ˌlæktos ɪnˈtɒlərənt/",
+    "definition": "乳糖不耐 (特殊饮食需求)",
+    "example": "She is lactose intolerant and can't digest dairy products.",
+    "example_trans": "她有乳糖不耐症，无法消化奶制品。",
+    "derivatives": ["lactose intolerance (乳糖不耐症)"],
+    "tags": ["饮食", "过敏"],
+    "categories": ["健康"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you have any lactose-free options?",
+          "translation": "你们有什么不含乳糖的选择吗？"
+        },
+        {
+          "text": "Yes, we have lactose-free milk and yogurt.",
+          "translation": "是的，我们有不含乳糖的牛奶和酸奶。"
+        }
+      ],
+      [
+        {
+          "text": "I'm lactose intolerant, so I can't have dairy.",
+          "translation": "我有乳糖不耐症，所以我不能吃奶制品。"
+        },
+        {
+          "text": "We have several dairy-free alternatives for you.",
+          "translation": "我们有几种不含奶制品的替代品给你。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "halal",
+    "phonetic": "/həˈlɑːl/",
+    "definition": "清真 (特殊饮食需求)",
+    "example": "This restaurant serves halal meat.",
+    "example_trans": "这家餐厅供应清真肉类。",
+    "derivatives": [],
+    "tags": ["饮食", "宗教"],
+    "categories": ["文化"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is this food halal?",
+          "translation": "这食物是清真的吗？"
+        },
+        {
+          "text": "Yes, it is prepared according to halal guidelines.",
+          "translation": "是的，它是按照清真指南准备的。"
+        }
+      ],
+      [
+        {
+          "text": "I need to eat halal food for religious reasons.",
+          "translation": "由于宗教原因，我需要吃清真食物。"
+        },
+        {
+          "text": "We understand. We have several halal options available.",
+          "translation": "我们理解。我们有几种清真选择。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "kosher",
+    "phonetic": "/ˈkoʊʃər/",
+    "definition": "洁食 (犹太) (特殊饮食需求)",
+    "example": "This food is kosher.",
+    "example_trans": "这食物是洁食。",
+    "derivatives": [],
+    "tags": ["饮食", "宗教"],
+    "categories": ["文化"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is this food kosher?",
+          "translation": "这食物是洁食吗？"
+        },
+        {
+          "text": "Yes, it is prepared according to kosher guidelines.",
+          "translation": "是的，它是按照洁食指南准备的。"
+        }
+      ],
+      [
+        {
+          "text": "I need to eat kosher food for religious reasons.",
+          "translation": "由于宗教原因，我需要吃洁食。",
+          "derivatives": []
+        },
+        {
+          "text": "We understand. We have several kosher options available.",
+          "translation": "我们理解。我们有几种洁食选择。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Epipen",
+    "phonetic": "/ˈɛpɪˌpɛn/",
+    "definition": "肾上腺素自动注射器",
+    "example": "She carries an Epipen in case of a severe allergic reaction.",
+    "example_trans": "她携带肾上腺素自动注射器以防严重的过敏反应。",
+    "derivatives": [],
+    "tags": ["医疗", "过敏"],
+    "categories": ["健康"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "Do you have your Epipen with you?",
+          "translation": "你随身带着肾上腺素自动注射器吗？"
+        },
+        {
+          "text": "Yes, I always carry it with me.",
+          "translation": "是的，我总是随身携带。"
+        }
+      ],
+      [
+        {
+          "text": "If I have a severe allergic reaction, please use my Epipen.",
+          "translation": "如果我发生严重的过敏反应，请使用我的肾上腺素自动注射器。"
+        },
+        {
+          "text": "I will. I know how to use it.",
+          "translation": "我会的。我知道如何使用它。"
+        }
+      ]
+    ]
+  },
+    {
+    "word": "Narcan",
+    "phonetic": "/ˈnɑːrkæn/",
+    "definition": "纳洛酮 (一种用于逆转阿片类药物过量的药物)",
+    "example": "First responders often carry Narcan to treat opioid overdoses.",
+    "example_trans": "急救人员经常携带纳洛酮来治疗阿片类药物过量。",
+    "derivatives": [],
+    "tags": ["医疗", "急救"],
+    "categories": ["健康"],
+    "level": 4,
+    "dialogues": [
+      [
+        {
+          "text": "Do you know how to administer Narcan?",
+          "translation": "你知道如何使用纳洛酮吗？"
+        },
+        {
+          "text": "Yes, I've been trained to use it in case of an opioid overdose.",
+          "translation": "是的，我接受过培训，可以在阿片类药物过量的情况下使用它。"
+        }
+      ],
+      [
+        {
+          "text": "If someone is overdosing on opioids, Narcan can save their life.",
+          "translation": "如果有人阿片类药物过量，纳洛酮可以挽救他们的生命。"
+        },
+        {
+          "text": "It's important to have Narcan readily available in case of an emergency.",
+          "translation": "在紧急情况下，随时准备好纳洛酮非常重要。"
+        }
+      ]
+    ]
+  }
+]
