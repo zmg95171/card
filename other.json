@@ -1,0 +1,301 @@
+[
+  {
+    "word": "How is your day?",
+    "phonetic": "/ˈhaʊ ɪz yʊr deɪ/",
+    "definition": "询问对方一天过得如何 (常用问候语)",
+    "example": "Hi, how is your day?",
+    "example_trans": "你好，你今天过得怎么样？",
+    "derivatives": [],
+    "tags": ["问候语", "常用", "日常交流"],
+    "categories": ["日常交流", "问候"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Hey, how is your day?",
+          "translation": "嘿，你今天过得怎么样？"
+        },
+        {
+          "text": "It's going well, thanks! How about yours?",
+          "translation": "过得很好，谢谢！你呢？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "How’s it going? (How is it going?)",
+    "phonetic": "/ˈhaʊz ɪt ˈɡoʊɪŋ/",
+    "definition": "询问近况或当天过得如何 (非常常用，非正式问候语)",
+    "example": "Hey John, how's it going?",
+    "example_trans": "嘿，John，最近怎么样？/今天怎么样？",
+    "derivatives": [],
+    "tags": ["问候语", "常用", "非正式", "日常交流"],
+    "categories": ["日常交流", "问候"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Hi Sarah, how's it going?",
+          "translation": "嗨 Sarah，最近怎么样？"
+        },
+        {
+          "text": "Pretty good, thanks! And you?",
+          "translation": "挺好的，谢谢！你呢？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Have a good day",
+    "phonetic": "/ˈhæv ə ɡʊd deɪ/",
+    "definition": "祝对方有愉快的一天 (常用告别语)",
+    "example": "Goodbye! Have a good day!",
+    "example_trans": "再见！祝你今天愉快！",
+    "derivatives": [],
+    "tags": ["告别语", "常用", "日常交流"],
+    "categories": ["日常交流", "告别"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Thanks for coming. Have a good day!",
+          "translation": "感谢光临。祝你今天愉快！"
+        },
+        {
+          "text": "You too, thank you!",
+          "translation": "你也是，谢谢！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Have a good weekend",
+    "phonetic": "/ˈhæv ə ɡʊd ˌwiːkˈɛnd/",
+    "definition": "祝对方周末愉快 (常用告别语，周五或周末)",
+    "example": "See you on Monday! Have a good weekend.",
+    "example_trans": "周一见！祝你周末愉快。",
+    "derivatives": [],
+    "tags": ["告别语", "常用", "日常交流", "周末"],
+    "categories": ["日常交流", "告别"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "It's Friday! Have a good weekend everyone!",
+          "translation": "周五啦！祝大家周末愉快！"
+        },
+        {
+          "text": "You too! Enjoy your time off!",
+          "translation": "你也是！好好休息！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Have a good trip",
+    "phonetic": "/ˈhæv ə ɡʊd trɪp/",
+    "definition": "祝对方旅途愉快 (告别语，送行时用)",
+    "example": "Safe travels! Have a good trip!",
+    "example_trans": "一路平安！祝你旅途愉快！",
+    "derivatives": [],
+    "tags": ["告别语", "旅行", "祝福"],
+    "categories": ["日常交流", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I'm leaving for vacation tomorrow.",
+          "translation": "我明天要去度假了。"
+        },
+        {
+          "text": "Oh, great! Have a good trip!",
+          "translation": "哦，太好了！祝你旅途愉快！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Have a good evening",
+    "phonetic": "/ˈhæv ə ɡʊd ˈiːvnɪŋ/",
+    "definition": "祝对方晚上愉快 (常用告别语，傍晚或晚上)",
+    "example": "It was nice seeing you. Have a good evening!",
+    "example_trans": "很高兴见到你。祝你晚上愉快！",
+    "derivatives": [],
+    "tags": ["告别语", "常用", "日常交流", "时间"],
+    "categories": ["日常交流", "告别"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I'll see you tomorrow morning.",
+          "translation": "我明天早上见你。"
+        },
+        {
+          "text": "Okay, have a good evening!",
+          "translation": "好的，祝你晚上愉快！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Have a good one",
+    "phonetic": "/ˈhæv ə ɡʊd wʌn/",
+    "definition": "祝对方愉快 (非常常用，非正式告别语，可指一天、一段时间)",
+    "example": "Thanks, see ya! Have a good one!",
+    "example_trans": "谢谢，再见！祝你愉快！",
+    "derivatives": [],
+    "tags": ["告别语", "常用", "非正式", "日常交流"],
+    "categories": ["日常交流", "告别"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Here's your coffee. Enjoy!",
+          "translation": "这是您的咖啡。请慢用！"
+        },
+        {
+          "text": "Thanks! You too, have a good one!",
+          "translation": "谢谢！你也是，祝你愉快！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Anglophone",
+    "phonetic": "/ˈæŋɡloʊfoʊn/",
+    "definition": "n. 讲英语的人 (尤其在多语言环境，如加拿大)",
+    "example": "Quebec has a large Francophone population and a significant Anglophone minority.",
+    "example_trans": "魁北克有大量讲法语的人口和可观的讲英语的少数族裔。",
+    "derivatives": [],
+    "tags": ["语言", "社会", "术语", "文化"],
+    "categories": ["语言学", "社会学"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is Montreal primarily Francophone or Anglophone?",
+          "translation": "蒙特利尔主要是讲法语还是讲英语的？"
+        },
+        {
+          "text": "It's officially Francophone, but there's a large Anglophone community as well.",
+          "translation": "官方是法语区，但也有很大的讲英语的社区。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Historic Anglophone",
+    "phonetic": "/hɪˈstɔːrɪk ˈæŋɡloʊfoʊn/",
+    "definition": "n. 历史性讲英语的人 (指在主要非英语地区世代居住的英语使用者)",
+    "example": "The historic Anglophone community in Quebec has deep roots.",
+    "example_trans": "魁北克的历史性讲英语社区有着深厚的根基。",
+    "derivatives": [],
+    "tags": ["语言", "社会", "术语", "历史", "文化"],
+    "categories": ["语言学", "社会学", "历史"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "How do you define 'historic Anglophone'?",
+          "translation": "你们如何定义'历史性讲英语的人'？"
+        },
+        {
+          "text": "It usually refers to English-speaking families who settled in Quebec generations ago.",
+          "translation": "它通常指在魁北克定居了几代人的英语家庭。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Francophone",
+    "phonetic": "/ˈfræŋkoʊfoʊn/",
+    "definition": "n. 讲法语的人 (尤其在多语言环境)",
+    "example": "Quebec is the only Canadian province with a Francophone majority.",
+    "example_trans": "魁北克是加拿大唯一一个讲法语人口占多数的省份。",
+    "derivatives": [],
+    "tags": ["语言", "社会", "术语", "文化"],
+    "categories": ["语言学", "社会学"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is it difficult to live in Quebec if you are not Francophone?",
+          "translation": "如果你不是讲法语的人，在魁北克生活困难吗？"
+        },
+        {
+          "text": "Many areas are bilingual, but knowing French is very helpful as it's a predominantly Francophone province.",
+          "translation": "很多地区是双语的，但因为这是个主要讲法语的省份，懂法语非常有帮助。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Allophone",
+    "phonetic": "/ˈæloʊfoʊn/",
+    "definition": "n. 母语既非英语也非法语的人 (尤其在加拿大语境)",
+    "example": "Toronto is home to a large Allophone population speaking many different languages.",
+    "example_trans": "多伦多是大量讲英语和法语以外语言的人口的家园。",
+    "derivatives": [],
+    "tags": ["语言", "社会", "术语", "文化"],
+    "categories": ["语言学", "社会学"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "What is the 'Allophone' community?",
+          "translation": "'Allophone' 社区是什么？"
+        },
+        {
+          "text": "It refers to people whose first language is neither English nor French, common in diverse cities like Toronto or Vancouver.",
+          "translation": "它指母语既不是英语也不是法语的人，这在多伦多或温哥华这样多元化的城市很常见。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Hispanophone",
+    "phonetic": "/hɪˈspænəfoʊn/",
+    "definition": "n. 讲西班牙语的人",
+    "example": "The Hispanophone population in the United States is growing rapidly.",
+    "example_trans": "美国的讲西班牙语人口正在快速增长。",
+    "derivatives": [],
+    "tags": ["语言", "社会", "术语", "文化"],
+    "categories": ["语言学", "社会学"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is there a large Hispanophone community here?",
+          "translation": "这里有很大的讲西班牙语的社区吗？"
+        },
+        {
+          "text": "Yes, many people here are Hispanophone.",
+          "translation": "是的，这里很多人都讲西班牙语。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Sinophone",
+    "phonetic": "/ˈsaɪnoʊfoʊn/",
+    "definition": "n. 讲中文的人",
+    "example": "The Sinophone world includes Mainland China, Taiwan, Hong Kong, and many diaspora communities.",
+    "example_trans": "华语世界包括中国大陆、台湾、香港以及许多海外散居社区。",
+    "derivatives": [],
+    "tags": ["语言", "社会", "术语", "文化"],
+    "categories": ["语言学", "社会学"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is Mandarin the most common language spoken by Sinophone people?",
+          "translation": "普通话是讲中文的人中最常用的语言吗？"
+        },
+        {
+          "text": "Yes, Mandarin is the most widely spoken, but 'Sinophone' includes speakers of all Chinese dialects.",
+          "translation": "是的，普通话使用最广泛，但'华语圈'包括所有讲中文方言的人。"
+        }
+      ]
+    ]
+  }
+]
