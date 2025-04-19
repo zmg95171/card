@@ -1,0 +1,187 @@
+[
+  {
+    "word": "coffee",
+    "phonetic": "/ˈkɒfi/",
+    "definition": "n. 咖啡",
+    "example": "I need a cup of coffee to wake up in the morning.",
+    "example_trans": "我早上需要一杯咖啡来提神。",
+    "derivatives": ["coffeehouse (n.)", "coffee bean (n.)", "caffeinated (adj.)", "decaffeinated (adj.)", "coffee maker (n.)", "coffee shop (n.)"],
+    "tags": ["饮品", "常用"],
+    "categories": ["饮品", "咖啡"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What can I get for you?",
+          "translation": "您想来点什么？"
+        },
+        {
+          "text": "I'd like a latte, please.",
+          "translation": "我想要一杯拿铁。"
+        },
+        {
+          "text": "For here or to go?",
+          "translation": "堂食还是外带？"
+        },
+        {
+          "text": "To go, please.",
+          "translation": "外带。"
+        }
+      ],
+      [
+        {
+          "text": "What would you like to order?",
+          "translation": "您想点些什么？"
+        },
+        {
+          "text": "I'll have an iced coffee with oat milk.",
+          "translation": "我要一杯加燕麦奶的冰咖啡。"
+        },
+        {
+          "text": "Any sugar?",
+          "translation": "需要加糖吗？"
+        },
+        {
+          "text": "No sugar, please.",
+          "translation": "不要加糖。"
+        }
+      ],
+      [
+        {
+          "text": "Hot or iced?",
+          "translation": "热的还是冰的？"
+        },
+        {
+          "text": "Iced, please.",
+          "translation": "冰的。"
+        },
+        {
+          "text": "What size?",
+          "translation": "什么尺寸？"
+        },
+        {
+          "text": "Medium.",
+          "translation": "中杯。"
+        }
+      ],
+      [
+        {
+          "text": "Would you like whipped cream?",
+          "translation": "您想要奶油吗？"
+        },
+        {
+          "text": "No, thank you.",
+          "translation": "不用了，谢谢。"
+        },
+        {
+          "text": "Do you want an extra shot?",
+          "translation": "要加一份浓缩咖啡吗？"
+        },
+        {
+          "text": "Yes, please.",
+          "translation": "是的，麻烦了。"
+        }
+      ],
+      [
+        {
+          "text": "Do you want decaf?",
+          "translation": "要低因咖啡吗？"
+        },
+        {
+          "text": "No, regular is fine.",
+          "translation": "不用，普通的就好。"
+        },
+        {
+          "text": "Do you want any pastries?",
+          "translation": "要来点点心吗？"
+        },
+        {
+          "text": "Yes, what flavor do you have?",
+          "translation": "好的，你们有什么口味？"
+        }
+      ],
+      [
+        {
+          "text": "Any foam?",
+          "translation": "要奶泡吗？"
+        },
+        {
+          "text": "A little foam, please.",
+          "translation": "少许奶泡。"
+        },
+         {
+          "text": "Anything else?",
+          "translation": "还要别的吗？"
+        },
+        {
+          "text": "No, that's all.",
+          "translation": "不要了，就这些。"
+        }
+      ],
+      [
+        {
+          "text": "Can I have your name?",
+          "translation": "请问您叫什么名字？"
+        },
+        {
+          "text": "It's John.",
+          "translation": "约翰。"
+        },
+        {
+          "text": "Would you like a receipt?",
+          "translation": "需要收据吗？"
+        },
+        {
+          "text": "Yes, please.",
+          "translation": "是的，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "Do you need a tray?",
+          "translation": "需要托盘吗？"
+        },
+        {
+          "text": "No, I'm good.",
+          "translation": "不用了，谢谢。"
+        },
+        {
+          "text": "Do you need a lid?",
+          "translation": "需要盖子吗？"
+        },
+        {
+          "text": "Yes, please.",
+          "translation": "是的，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "Are you paying cash or card?",
+          "translation": "您用现金还是刷卡？"
+        },
+        {
+          "text": "Card.",
+          "translation": "刷卡。"
+        },
+        {
+          "text": "Tap or insert?",
+          "translation": "感应还是插卡？"
+        },
+        {
+          "text": "Tap.",
+          "translation": "感应。"
+        }
+      ],
+      [
+        {
+          "text": "Would you like a bag?",
+          "translation": "需要袋子吗？"
+        },
+        {
+          "text": "Yes, please.",
+          "translation": "是的，谢谢。"
+        }
+      ]
+    ]
+  }
+]
