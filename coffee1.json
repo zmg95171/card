@@ -1,0 +1,347 @@
+[
+  {
+    "word": "Latte",
+    "phonetic": "/ˈlɑːteɪ/",
+    "definition": "n. 拿铁咖啡 (由浓缩咖啡和大量热牛奶组成)",
+    "example": "I'd like a large vanilla latte, please.",
+    "example_trans": "请给我一杯大杯香草拿铁。",
+    "derivatives": [],
+    "tags": ["咖啡", "常用", "饮品"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of coffee do you prefer?",
+          "translation": "您喜欢哪种咖啡？"
+        },
+        {
+          "text": "I usually order a latte.",
+          "translation": "我通常点拿铁。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Cappuccino",
+    "phonetic": "/ˌkæpʊˈtʃiːnoʊ/",
+    "definition": "n. 卡布奇诺 (由浓缩咖啡、热牛奶和奶泡组成)",
+    "example": "A cappuccino with extra foam is my favorite.",
+    "example_trans": "一杯奶泡多一点的卡布奇诺是我的最爱。",
+    "derivatives": [],
+    "tags": ["咖啡", "常用", "饮品"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I get a medium cappuccino?",
+          "translation": "我可以要一杯中杯卡布奇诺吗？"
+        },
+        {
+          "text": "For here or to go?",
+          "translation": "内用还是外带？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Espresso",
+    "phonetic": "/ɛˈsprɛsoʊ/",
+    "definition": "n. 浓缩咖啡 (高压蒸汽通过咖啡粉快速萃取的咖啡)",
+    "example": "I need a double espresso to wake up.",
+    "example_trans": "我需要一份双份浓缩咖啡来提神。",
+    "derivatives": [],
+    "tags": ["咖啡", "常用", "基础"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like a single or double espresso?",
+          "translation": "您要一份还是双份浓缩咖啡？"
+        },
+        {
+          "text": "A double, please.",
+          "translation": "请来一份双份的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Americano",
+    "phonetic": "/əˌmɛrɪˈkɑːnoʊ/",
+    "definition": "n. 美式咖啡 (浓缩咖啡加热水稀释而成)",
+    "example": "An iced Americano is perfect for a hot day.",
+    "example_trans": "冰美式是炎热天气的完美选择。",
+    "derivatives": [],
+    "tags": ["咖啡", "常用", "饮品"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I'll take a large Americano.",
+          "translation": "我要一杯大杯美式咖啡。"
+        },
+        {
+          "text": "Hot or iced?",
+          "translation": "热的还是冰的？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Mocha",
+    "phonetic": "/ˈmoʊkə/",
+    "definition": "n. 摩卡咖啡 (浓缩咖啡、牛奶和巧克力糖浆组成)",
+    "example": "Children often enjoy a sweet mocha.",
+    "example_trans": "孩子们通常喜欢甜甜的摩卡咖啡。",
+    "derivatives": [],
+    "tags": ["咖啡", "常用", "饮品"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I get a mocha with whipped cream?",
+          "translation": "我可以要一杯加奶油的摩卡吗？"
+        },
+        {
+          "text": "Certainly, what size?",
+          "translation": "当然，什么尺寸？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Cortado",
+    "phonetic": "/kɔːrˈtɑːdoʊ/",
+    "definition": "n. 科尔塔多 (等量的浓缩咖啡和热牛奶)",
+    "example": "A cortado has less milk than a latte.",
+    "example_trans": "科尔塔多的牛奶比拿铁少。",
+    "derivatives": [],
+    "tags": ["咖啡", "特种咖啡"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I'd like a cortado.",
+          "translation": "我要一杯科尔塔多。"
+        },
+        {
+          "text": "Okay, one cortado coming up.",
+          "translation": "好的，一杯科尔塔多马上就来。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Macchiato",
+    "phonetic": "/ˌmɑːkiˈɑːtoʊ/",
+    "definition": "n. 玛奇朵 (浓缩咖啡上加少量奶泡或牛奶)",
+    "example": "An espresso macchiato is just espresso with a spot of milk.",
+    "example_trans": "浓缩玛奇朵就是浓缩咖啡加一点点牛奶。",
+    "derivatives": [],
+    "tags": ["咖啡", "特种咖啡"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What's the difference between a macchiato and a latte?",
+          "translation": "玛奇朵和拿铁有什么区别？"
+        },
+        {
+          "text": "A macchiato is mostly espresso with just a little milk.",
+          "translation": "玛奇朵主要是浓缩咖啡，只加一点点牛奶。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Allongé",
+    "phonetic": "/æloʊnˈʒeɪ/",
+    "definition": "n. 阿隆热咖啡 (使用更多水通过浓缩咖啡粉萃取，比美式更浓)",
+    "example": "The allongé offers a taste stronger than an Americano.",
+    "example_trans": "阿隆热咖啡的味道比美式咖啡更浓。",
+    "derivatives": [],
+    "tags": ["咖啡", "特种咖啡"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "Have you tried our new allongé?",
+          "translation": "您尝过我们的新阿隆热咖啡吗？"
+        },
+        {
+          "text": "Not yet, what's it like?",
+          "translation": "还没有，它是什么样的？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Freddo",
+    "phonetic": "/ˈfrɛdoʊ/",
+    "definition": "adj. 冰的 (意大利语，常用于咖啡名称，如 Freddo Espresso)",
+    "example": "A freddo cappuccino is a popular summer drink.",
+    "example_trans": "冰卡布奇诺是夏天很受欢迎的饮品。",
+    "derivatives": [],
+    "tags": ["咖啡", "饮品", "意大利语"],
+    "categories": ["咖啡相关", "饮品"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I'd like a freddo espresso.",
+          "translation": "我要一杯冰浓缩咖啡 (Freddo Espresso)。"
+        },
+        {
+          "text": "Coming right up.",
+          "translation": "马上就来。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Iced Coffee",
+    "phonetic": "/ˈaɪst ˈkɔːfi/",
+    "definition": "n. 冰咖啡 (用冰块制作的咖啡饮品，可以是各种类型的咖啡)",
+    "example": "I drink iced coffee even in the winter.",
+    "example_trans": "我即使冬天也喝冰咖啡。",
+    "derivatives": [],
+    "tags": ["咖啡", "常用", "饮品"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like hot or iced coffee?",
+          "translation": "您要热咖啡还是冰咖啡？"
+        },
+        {
+          "text": "Iced coffee, please.",
+          "translation": "请来杯冰咖啡。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Affogato",
+    "phonetic": "/ˌɑːfəˈɡɑːtoʊ/",
+    "definition": "n. 阿芙佳朵 (将热的浓缩咖啡浇在意式冰淇淋上)",
+    "example": "An affogato is a delicious dessert and coffee in one.",
+    "example_trans": "阿芙佳朵是一种美味的甜点和咖啡二合一。",
+    "derivatives": [],
+    "tags": ["咖啡", "甜点", "意大利语"],
+    "categories": ["咖啡种类", "甜点"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Can I order an affogato?",
+          "translation": "我可以点一份阿芙佳朵吗？"
+        },
+        {
+          "text": "Yes, our gelato flavors for affogato are vanilla and chocolate.",
+          "translation": "可以，我们用于阿芙佳朵的意式冰淇淋口味有香草和巧克力。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Crema Caffè",
+    "phonetic": "/ˌkrɛmə kɑːˈfeɪ/",
+    "definition": "n. 奶油咖啡 (一种冷冻的、奶油状的咖啡甜点饮品)",
+    "example": "Crema Caffè is a refreshing treat on a warm day.",
+    "example_trans": "奶油咖啡在温暖的天气里是一种令人耳目一新的享受。",
+    "derivatives": [],
+    "tags": ["咖啡", "甜点", "意大利语"],
+    "categories": ["咖啡种类", "甜点", "饮品"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "Have you ever tried Crema Caffè?",
+          "translation": "您尝过奶油咖啡吗？"
+        },
+        {
+          "text": "No, what's it like?",
+          "translation": "没有，它是什么样的？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Gelato",
+    "phonetic": "/dʒəˈlɑːtoʊ/",
+    "definition": "n. 意式冰淇淋 (制作阿芙佳朵常用的配料)",
+    "example": "Gelato has less fat than regular ice cream.",
+    "example_trans": "意式冰淇淋比普通冰淇淋脂肪含量低。",
+    "derivatives": ["gelati (pl.)"],
+    "tags": ["食物", "甜点", "意大利语"],
+    "categories": ["甜点", "配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Which gelato flavors do you have today?",
+          "translation": "你们今天有哪些意式冰淇淋口味？"
+        },
+        {
+          "text": "We have vanilla, chocolate, and pistachio.",
+          "translation": "我们有香草、巧克力和开心果味。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Black Coffee",
+    "phonetic": "/ˈblæk ˈkɔːfi/",
+    "definition": "n. 黑咖啡 (不加牛奶、糖或其他配料的纯咖啡)",
+    "example": "He prefers to drink his coffee black.",
+    "example_trans": "他更喜欢喝纯黑咖啡。",
+    "derivatives": [],
+    "tags": ["咖啡", "常用", "基础"],
+    "categories": ["咖啡种类", "饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How do you like your coffee?",
+          "translation": "您喜欢喝什么样的咖啡？"
+        },
+        {
+          "text": "Just black coffee, please. No sugar or milk.",
+          "translation": "只要黑咖啡，谢谢。不加糖或牛奶。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Frappuccino (Starbucks)",
+    "phonetic": "/ˌfræpəˈtʃiːnoʊ/",
+    "definition": "n. 星巴克星冰乐 (星巴克品牌的混合冰咖啡饮品)",
+    "example": "Let's get a Frappuccino at Starbucks.",
+    "example_trans": "我们去星巴克买杯星冰乐吧。",
+    "derivatives": [],
+    "tags": ["咖啡", "品牌", "饮品", "冰沙"],
+    "categories": ["咖啡种类", "饮品", "品牌"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What's your favorite drink at Starbucks?",
+          "translation": "你在星巴克最喜欢的饮品是什么？"
+        },
+        {
+          "text": "I love their seasonal Frappuccino.",
+          "translation": "我喜欢他们季节限定的星冰乐。"
+        }
+      ]
+    ]
+  }
+]
