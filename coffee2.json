@@ -1,0 +1,1382 @@
+[
+  {
+    "word": "Customization",
+    "phonetic": "/ˌkʌstəmɪˈzeɪʃən/",
+    "definition": "n. 定制；个性化设置",
+    "example": "We offer a wide range of customization options for your drink.",
+    "example_trans": "我们为您的饮品提供广泛的定制选项。",
+    "derivatives": ["customize (v.)"],
+    "tags": ["服务", "术语"],
+    "categories": ["咖啡店场景", "服务"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of customization can I get?",
+          "translation": "我可以有哪些定制选项？"
+        },
+        {
+          "text": "You can choose milk type, syrup flavors, and temperature.",
+          "translation": "您可以选择牛奶种类、糖浆口味和温度。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Personalize",
+    "phonetic": "/ˈpɜːrsənəlaɪz/",
+    "definition": "v. 个性化；使个人化",
+    "example": "You can personalize your coffee with extra shots or flavors.",
+    "example_trans": "您可以通过额外的浓缩咖啡或口味来个性化您的咖啡。",
+    "derivatives": ["personalized (adj.)", "personalization (n.)"],
+    "tags": ["服务", "动作"],
+    "categories": ["咖啡店场景", "服务"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How can I personalize my order?",
+          "translation": "我怎么能个性化我的订单？"
+        },
+        {
+          "text": "You can add syrups or change the milk.",
+          "translation": "您可以添加糖浆或更换牛奶。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Hot",
+    "phonetic": "/ˈhɑːt/",
+    "definition": "adj. 热的",
+    "example": "I'd like a hot chocolate.",
+    "example_trans": "我想要一杯热巧克力。",
+    "derivatives": ["hotness (n.)"],
+    "tags": ["饮品", "属性", "常用"],
+    "categories": ["温度", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want that hot or iced?",
+          "translation": "您要热的还是冰的？"
+        },
+        {
+          "text": "Hot, please.",
+          "translation": "请来一杯热的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Iced",
+    "phonetic": "/ˈaɪst/",
+    "definition": "adj. 冰镇的；加冰的",
+    "example": "An iced latte is perfect for summer.",
+    "example_trans": "冰拿铁非常适合夏天。",
+    "derivatives": ["ice (n., v.)"],
+    "tags": ["饮品", "属性", "常用"],
+    "categories": ["温度", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I get an iced coffee?",
+          "translation": "我可以来一杯冰咖啡吗？"
+        },
+        {
+          "text": "Sure, what size?",
+          "translation": "好的，什么尺寸？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Small",
+    "phonetic": "/ˈsmɔːl/",
+    "definition": "adj. 小的 (咖啡尺寸)",
+    "example": "A small coffee is enough for me.",
+    "example_trans": "一杯小杯咖啡对我来说足够了。",
+    "derivatives": ["smaller (adj.)", "smallest (adj.)"],
+    "tags": ["饮品", "尺寸", "常用"],
+    "categories": ["尺寸", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What size would you like?",
+          "translation": "您要什么尺寸？"
+        },
+        {
+          "text": "A small one, please.",
+          "translation": "请来一杯小的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Medium",
+    "phonetic": "/ˈmiːdiəm/",
+    "definition": "adj. 中等的 (咖啡尺寸)",
+    "example": "A medium latte is standard.",
+    "example_trans": "中杯拿铁是标准尺寸。",
+    "derivatives": [],
+    "tags": ["饮品", "尺寸", "常用"],
+    "categories": ["尺寸", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What size?",
+          "translation": "什么尺寸？"
+        },
+        {
+          "text": "Medium, please.",
+          "translation": "请来中杯的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Large",
+    "phonetic": "/ˈlɑːrdʒ/",
+    "definition": "adj. 大的 (咖啡尺寸)",
+    "example": "I need a large coffee today.",
+    "example_trans": "我今天需要一杯大杯咖啡。",
+    "derivatives": ["larger (adj.)", "largest (adj.)"],
+    "tags": ["饮品", "尺寸", "常用"],
+    "categories": ["尺寸", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like a small, medium, or large?",
+          "translation": "您要小杯、中杯还是大杯？"
+        },
+        {
+          "text": "A large, please.",
+          "translation": "请来大杯的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Oat milk",
+    "phonetic": "/ˈoʊt mɪlk/",
+    "definition": "n. 燕麦奶 (植物奶选项)",
+    "example": "Can I have a latte with oat milk?",
+    "example_trans": "我可以用燕麦奶做拿铁吗？",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "替代品"],
+    "categories": ["牛奶种类", "配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of milk do you have?",
+          "translation": "你们有什么种类的牛奶？"
+        },
+        {
+          "text": "We have regular milk, soy milk, and oat milk.",
+          "translation": "我们有普通牛奶、豆奶和燕麦奶。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Soy milk",
+    "phonetic": "/ˈsɔɪ mɪlk/",
+    "definition": "n. 豆奶；豆浆 (植物奶选项)",
+    "example": "I'm lactose intolerant, so I prefer soy milk.",
+    "example_trans": "我乳糖不耐受，所以我更喜欢豆奶。",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "替代品"],
+    "categories": ["牛奶种类", "配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like soy milk or regular milk?",
+          "translation": "您要豆奶还是普通牛奶？"
+        },
+        {
+          "text": "Soy milk, please.",
+          "translation": "请来豆奶。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Regular milk",
+    "phonetic": "/ˈrɛɡjələr mɪlk/",
+    "definition": "n. 普通牛奶 (通常指动物奶，如全脂或低脂牛奶)",
+    "example": "Most drinks are made with regular milk unless specified.",
+    "example_trans": "除非特别说明，大多数饮品都用普通牛奶制作。",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "常用"],
+    "categories": ["牛奶种类", "配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want regular milk or a milk alternative?",
+          "translation": "您要普通牛奶还是植物奶？"
+        },
+        {
+          "text": "Regular milk is fine.",
+          "translation": "普通牛奶就行。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "With milk",
+    "phonetic": "/wɪθ mɪlk/",
+    "definition": "加牛奶 (指饮品中包含牛奶)",
+    "example": "I'd like a coffee with milk.",
+    "example_trans": "我想要一杯加牛奶的咖啡。",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "常用"],
+    "categories": ["配料", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want black coffee or with milk?",
+          "translation": "您要黑咖啡还是加牛奶的？"
+        },
+        {
+          "text": "With milk, please.",
+          "translation": "请加牛奶。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "No milk",
+    "phonetic": "/ˈnoʊ mɪlk/",
+    "definition": "不加牛奶",
+    "example": "I prefer my coffee black, so no milk.",
+    "example_trans": "我更喜欢黑咖啡，所以不加牛奶。",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "常用"],
+    "categories": ["配料", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "With milk or no milk?",
+          "translation": "加牛奶还是不加牛奶？"
+        },
+        {
+          "text": "No milk, thank you.",
+          "translation": "不加牛奶，谢谢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Without milk",
+    "phonetic": "/wɪˈθaʊt mɪlk/",
+    "definition": "不加牛奶",
+    "example": "An Americano is made without milk.",
+    "example_trans": "美式咖啡是不加牛奶制作的。",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "常用"],
+    "categories": ["配料", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want that with or without milk?",
+          "translation": "您那杯要加牛奶还是不加牛奶？"
+        },
+        {
+          "text": "Without milk, please.",
+          "translation": "请不加牛奶。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "With sugar",
+    "phonetic": "/wɪθ ˈʃʊɡər/",
+    "definition": "加糖",
+    "example": "I like my tea with sugar.",
+    "example_trans": "我喜欢我的茶加糖。",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "常用"],
+    "categories": ["配料", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "With sugar or no sugar?",
+          "translation": "加糖还是不加糖？"
+        },
+        {
+          "text": "With sugar, please.",
+          "translation": "请加糖。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "No sugar",
+    "phonetic": "/ˈnoʊ ˈʃʊɡər/",
+    "definition": "不加糖",
+    "example": "For my health, I drink coffee with no sugar.",
+    "example_trans": "为了健康，我喝咖啡不加糖。",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "常用"],
+    "categories": ["配料", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Any sugar?",
+          "translation": "要加糖吗？"
+        },
+        {
+          "text": "No sugar, thank you.",
+          "translation": "不加糖，谢谢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Less sugar",
+    "phonetic": "/ˈlɛs ˈʃʊɡər/",
+    "definition": "少糖",
+    "example": "Can I have it with less sugar?",
+    "example_trans": "我可以要少糖的吗？",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "常用"],
+    "categories": ["配料", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How sweet would you like it?",
+          "translation": "您想要多甜？"
+        },
+        {
+          "text": "Less sugar, please.",
+          "translation": "请少糖。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Half sugar",
+    "phonetic": "/ˈhæf ˈʃʊɡər/",
+    "definition": "半糖",
+    "example": "Half sugar is sweet enough for me.",
+    "example_trans": "半糖对我来说已经够甜了。",
+    "derivatives": [],
+    "tags": ["饮品", "配料", "常用"],
+    "categories": ["配料", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Less sugar, half sugar, or regular?",
+          "translation": "少糖、半糖还是正常糖？"
+        },
+        {
+          "text": "Half sugar, please.",
+          "translation": "请来半糖的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Double sugar",
+    "phonetic": "/ˈdʌbəl ˈʃʊɡər/",
+    "definition": "双倍糖",
+    "example": "For a very sweet drink, ask for double sugar.",
+    "example_trans": "如果想要很甜的饮料，就要求双倍糖。",
+    "derivatives": [],
+    "tags": ["饮品", "配料"],
+    "categories": ["配料", "常用表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want extra sugar?",
+          "translation": "您要额外的糖吗？"
+        },
+        {
+          "text": "Yes, double sugar, please!",
+          "translation": "是的，请加双倍糖！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Extra hot",
+    "phonetic": "/ˈɛkstrə ˈhɑːt/",
+    "definition": "超烫的；额外加热的",
+    "example": "Can I have my latte extra hot?",
+    "example_trans": "我的拿铁可以做成超烫的吗？",
+    "derivatives": [],
+    "tags": ["饮品", "属性"],
+    "categories": ["温度", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How would you like the temperature?",
+          "translation": "您想要什么温度？"
+        },
+        {
+          "text": "Extra hot, please.",
+          "translation": "请做成超烫的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Whipped cream",
+    "phonetic": "/wɪpt kriːm/",
+    "definition": "n. 鲜奶油；搅打奶油 (常用于饮品或甜点顶部)",
+    "example": "A hot chocolate with whipped cream is a treat.",
+    "example_trans": "加了鲜奶油的热巧克力是一种享受。",
+    "derivatives": [],
+    "tags": ["配料", "甜点"],
+    "categories": ["配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like whipped cream on that?",
+          "translation": "您那杯上面要加鲜奶油吗？"
+        },
+        {
+          "text": "Yes, please!",
+          "translation": "好的，请加！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "With whipped cream",
+    "phonetic": "/wɪθ wɪpt kriːm/",
+    "definition": "加鲜奶油",
+    "example": "I'll take the mocha with whipped cream.",
+    "example_trans": "我要那杯加鲜奶油的摩卡。",
+    "derivatives": [],
+    "tags": ["配料", "常用表达"],
+    "categories": ["配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want that with or without whipped cream?",
+          "translation": "您那杯要加鲜奶油还是不加？"
+        },
+        {
+          "text": "With whipped cream, please.",
+          "translation": "请加鲜奶油。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Cinnamon",
+    "phonetic": "/ˈsɪnəmən/",
+    "definition": "n. 肉桂 (常用作咖啡或饮品的香料)",
+    "example": "Can I get some cinnamon sprinkled on top?",
+    "example_trans": "可以在上面撒点肉桂粉吗？",
+    "derivatives": [],
+    "tags": ["配料", "香料"],
+    "categories": ["配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like cinnamon or chocolate powder?",
+          "translation": "您要肉桂粉还是巧克力粉？"
+        },
+        {
+          "text": "Cinnamon, please.",
+          "translation": "请来肉桂粉。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Vanilla",
+    "phonetic": "/vəˈnɪlə/",
+    "definition": "n. 香草 (常用作咖啡或饮品的风味)",
+    "example": "A vanilla latte is very popular.",
+    "example_trans": "香草拿铁非常受欢迎。",
+    "derivatives": [],
+    "tags": ["配料", "风味"],
+    "categories": ["配料", "风味"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What flavor shots do you have?",
+          "translation": "你们有什么口味的糖浆？"
+        },
+        {
+          "text": "We have vanilla, caramel, and hazelnut.",
+          "translation": "我们有香草、焦糖和榛子。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "With cinnamon",
+    "phonetic": "/wɪθ ˈsɪnəmən/",
+    "definition": "加肉桂",
+    "example": "I'll have the cappuccino with cinnamon.",
+    "example_trans": "我的卡布奇诺要加肉桂。",
+    "derivatives": [],
+    "tags": ["配料", "常用表达"],
+    "categories": ["配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want any topping?",
+          "translation": "您想要任何顶料吗？"
+        },
+        {
+          "text": "Yes, with cinnamon, please.",
+          "translation": "是的，请加肉桂。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "With vanilla",
+    "phonetic": "/wɪθ vəˈnɪlə/",
+    "definition": "加香草味",
+    "example": "Can I get this drink with vanilla?",
+    "example_trans": "我的这杯饮品可以加香草味吗？",
+    "derivatives": [],
+    "tags": ["配料", "常用表达"],
+    "categories": ["配料", "风味"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Which flavor would you like?",
+          "translation": "您想要什么口味？"
+        },
+        {
+          "text": "I'll go with vanilla.",
+          "translation": "我选香草味。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Foam",
+    "phonetic": "/foʊm/",
+    "definition": "n. 奶泡 (咖啡顶部由牛奶打发产生的泡沫)",
+    "example": "A cappuccino has a thick layer of foam.",
+    "example_trans": "卡布奇诺有一层厚厚的奶泡。",
+    "derivatives": ["foamy (adj.)"],
+    "tags": ["配料", "饮品"],
+    "categories": ["配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like extra foam?",
+          "translation": "您想要额外的奶泡吗？"
+        },
+        {
+          "text": "Yes, please, I love foam.",
+          "translation": "是的，请加，我喜欢奶泡。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "No foam",
+    "phonetic": "/ˈnoʊ foʊm/",
+    "definition": "不要奶泡",
+    "example": "I prefer a latte with no foam.",
+    "example_trans": "我更喜欢没有奶泡的拿铁。",
+    "derivatives": [],
+    "tags": ["配料", "常用表达"],
+    "categories": ["配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "With foam or no foam?",
+          "translation": "要奶泡还是不要奶泡？"
+        },
+        {
+          "text": "No foam, thank you.",
+          "translation": "不要奶泡，谢谢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Extra shot",
+    "phonetic": "/ˈɛkstrə ʃɑːt/",
+    "definition": "额外的浓缩咖啡；加一份浓缩",
+    "example": "I need an extra shot in my coffee this morning.",
+    "example_trans": "今天早上我咖啡里需要加一份浓缩。",
+    "derivatives": [],
+    "tags": ["配料", "咖啡"],
+    "categories": ["配料", "咖啡种类"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want an extra shot?",
+          "translation": "您要加一份浓缩咖啡吗？"
+        },
+        {
+          "text": "Yes, an extra shot, please.",
+          "translation": "是的，请加一份。"
+        }
+      ]
+    ]
+  },
+   {
+    "word": "Shot",
+    "phonetic": "/ʃɑːt/",
+    "definition": "n. (一杯) 浓缩咖啡；一份浓缩",
+    "example": "A single shot of espresso is not enough for me.",
+    "example_trans": "一份浓缩咖啡对我来说不够。",
+    "derivatives": [],
+    "tags": ["配料", "咖啡"],
+    "categories": ["配料", "咖啡种类"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How many shots of espresso?",
+          "translation": "要几份浓缩咖啡？"
+        },
+        {
+          "text": "Just one shot, please.",
+          "translation": "请来一份。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Extra shot of espresso",
+    "phonetic": "/ˈɛkstrə ʃɑːt əv ɛˈsprɛsoʊ/",
+    "definition": "一份额外的浓缩咖啡",
+    "example": "He always orders his drink with an extra shot of espresso.",
+    "example_trans": "他点饮料总是要加一份额外的浓缩咖啡。",
+    "derivatives": [],
+    "tags": ["配料", "咖啡"],
+    "categories": ["配料", "咖啡种类"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like to add anything?",
+          "translation": "您想加点什么吗？"
+        },
+        {
+          "text": "Yes, an extra shot of espresso.",
+          "translation": "是的，加一份额外的浓缩咖啡。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Decaf",
+    "phonetic": "/ˈdiːkæf/",
+    "definition": "adj./n. 低因咖啡 (去除了大部分咖啡因的咖啡)",
+    "example": "I switch to decaf coffee in the evening.",
+    "example_trans": "我晚上改喝低因咖啡。",
+    "derivatives": [],
+    "tags": ["咖啡", "属性"],
+    "categories": ["咖啡种类", "属性"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Regular or decaf?",
+          "translation": "普通咖啡还是低因咖啡？"
+        },
+        {
+          "text": "Decaf, please.",
+          "translation": "请来低因的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Flavor",
+    "phonetic": "/ˈfleɪvər/",
+    "definition": "n. 风味；口味",
+    "example": "What coffee flavors do you have?",
+    "example_trans": "你们有什么口味的咖啡？",
+    "derivatives": ["flavored (adj.)"],
+    "tags": ["饮品", "属性"],
+    "categories": ["风味", "属性"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "We have different flavors of syrup.",
+          "translation": "我们有不同口味的糖浆。"
+        },
+        {
+          "text": "What flavor is popular?",
+          "translation": "什么口味比较受欢迎？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Pump",
+    "phonetic": "/ˈpʌmp/",
+    "definition": "n. (糖浆的) 一泵 (咖啡店中衡量糖浆的单位)",
+    "example": "How many pumps of vanilla syrup would you like?",
+    "example_trans": "您想要几泵香草糖浆？",
+    "derivatives": ["pump (v.)"],
+    "tags": ["配料", "单位", "术语"],
+    "categories": ["配料", "单位"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How many pumps of syrup?",
+          "translation": "要几泵糖浆？"
+        },
+        {
+          "text": "Just one pump, please.",
+          "translation": "请来一泵。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Flavored syrup",
+    "phonetic": "/ˈfleɪvərd ˈsɪrəp/",
+    "definition": "n. 风味糖浆 (用于给咖啡等饮品调味)",
+    "example": "We offer various flavored syrups like caramel and hazelnut.",
+    "example_trans": "我们提供各种风味糖浆，如焦糖和榛子。",
+    "derivatives": [],
+    "tags": ["配料", "饮品"],
+    "categories": ["配料", "风味"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like any flavored syrup in your latte?",
+          "translation": "您的拿铁里要加风味糖浆吗？"
+        },
+        {
+          "text": "Yes, vanilla flavored syrup, please.",
+          "translation": "好的，请加香草风味糖浆。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Tim Horton’s",
+    "phonetic": "/ˌtɪm ˈhɔːrtənz/",
+    "definition": "n. 提姆霍顿斯 (加拿大咖啡连锁店)",
+    "example": "Let's grab a coffee at Tim Horton's.",
+    "example_trans": "我们去提姆霍顿斯买杯咖啡吧。",
+    "derivatives": ["Tim's (nickname)", "Timmies (nickname)"],
+    "tags": ["品牌", "地点"],
+    "categories": ["品牌", "咖啡店"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where should we meet for coffee?",
+          "translation": "我们去哪里喝咖啡？"
+        },
+        {
+          "text": "How about Tim Horton's?",
+          "translation": "去提姆霍顿斯怎么样？"
+        }
+      ]
+    ]
+  },
+   {
+    "word": "Tim's",
+    "phonetic": "/ˈtɪmz/",
+    "definition": "n. 提姆霍顿斯 (Tim Horton’s 的昵称)",
+    "example": "I'm heading to Tim's to get a donut.",
+    "example_trans": "我去 Tim's 买个甜甜圈。",
+    "derivatives": ["Tim Horton’s", "Timmies"],
+    "tags": ["品牌", "地点", "昵称"],
+    "categories": ["品牌", "咖啡店"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Want to go for coffee?",
+          "translation": "想去喝咖啡吗？"
+        },
+        {
+          "text": "Yeah, let's go to Tim's.",
+          "translation": "好啊，我们去 Tim's 吧。"
+        }
+      ]
+    ]
+  },
+   {
+    "word": "Timmies",
+    "phonetic": "/ˈtɪmiz/",
+    "definition": "n. 提姆霍顿斯 (Tim Horton’s 的更口语化的昵称)",
+    "example": "Picking up some coffee and Timbits at Timmies.",
+    "example_trans": "去 Timmies 拿一些咖啡和 Timbits (提姆霍顿斯的小甜甜圈)。",
+    "derivatives": ["Tim Horton’s", "Tim's"],
+    "tags": ["品牌", "地点", "昵称", "口语"],
+    "categories": ["品牌", "咖啡店"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where are you?",
+          "translation": "你在哪儿？"
+        },
+        {
+          "text": "Just pulling into Timmies.",
+          "translation": "刚到 Timmies 门口。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Single",
+    "phonetic": "/ˈsɪŋɡəl/",
+    "definition": "adj./n. 单份的；一份 (在Tim Horton's 指一份糖或一份奶油)",
+    "example": "Can I have a single shot of espresso?",
+    "example_trans": "我可以要一份浓缩咖啡吗？",
+    "derivatives": ["singly (adv.)"],
+    "tags": ["数量", "术语", "Tim Hortons"],
+    "categories": ["数量", "配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How many sugars and creams?",
+          "translation": "要几份糖和奶油？"
+        },
+        {
+          "text": "Single-single, please.",
+          "translation": "请一份糖一份奶油。"
+        }
+      ]
+    ]
+  },
+   {
+    "word": "One",
+    "phonetic": "/ˈwʌn/",
+    "definition": "num. 一；一个 (在Tim Horton's 指一份糖或一份奶油)",
+    "example": "I'll have one coffee, please.",
+    "example_trans": "请给我一杯咖啡。",
+    "derivatives": [],
+    "tags": ["数量", "常用", "Tim Hortons"],
+    "categories": ["数量", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How would you like your coffee?",
+          "translation": "您想要什么样的咖啡？"
+        },
+        {
+          "text": "One sugar, one cream.",
+          "translation": "一份糖，一份奶油。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Double",
+    "phonetic": "/ˈdʌbəl/",
+    "definition": "adj./n. 双份的；两份 (在Tim Horton's 指两份糖或两份奶油)",
+    "example": "I need a double dose of caffeine today.",
+    "example_trans": "我今天需要双倍咖啡因。",
+    "derivatives": ["doubly (adv.)"],
+    "tags": ["数量", "术语", "Tim Hortons"],
+    "categories": ["数量", "配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How many sugars and creams?",
+          "translation": "要几份糖和奶油？"
+        },
+        {
+          "text": "Double-double, please.",
+          "translation": "请来两份糖两份奶油 (Double-Double)。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Two",
+    "phonetic": "/ˈtuː/",
+    "definition": "num. 二；两个 (在Tim Horton's 指两份糖或两份奶油)",
+    "example": "Can I have two donuts?",
+    "example_trans": "我可以要两个甜甜圈吗？",
+    "derivatives": [],
+    "tags": ["数量", "常用", "Tim Hortons"],
+    "categories": ["数量", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How many sugars and creams?",
+          "translation": "要几份糖和奶油？"
+        },
+        {
+          "text": "Two sugars, two creams.",
+          "translation": "两份糖，两份奶油。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Triple",
+    "phonetic": "/ˈtrɪpəl/",
+    "definition": "adj./n. 三份的；三倍 (在Tim Horton's 指三份糖或三份奶油)",
+    "example": "I need a triple shot of espresso this morning.",
+    "example_trans": "我今天早上需要三份浓缩咖啡。",
+    "derivatives": ["triply (adv.)"],
+    "tags": ["数量", "术语", "Tim Hortons"],
+    "categories": ["数量", "配料"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How many sugars and creams?",
+          "translation": "要几份糖和奶油？"
+        },
+        {
+          "text": "Triple-triple, please.",
+          "translation": "请来三份糖三份奶油 (Triple-Triple)。"
+        }
+      ]
+    ]
+  },
+   {
+    "word": "Three",
+    "phonetic": "/ˈθriː/",
+    "definition": "num. 三；三个 (在Tim Horton's 指三份糖或三份奶油)",
+    "example": "Can I have three Timbits?",
+    "example_trans": "我可以要三个 Timbits 吗？",
+    "derivatives": [],
+    "tags": ["数量", "常用", "Tim Hortons"],
+    "categories": ["数量", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How many sugars and creams?",
+          "translation": "要几份糖和奶油？"
+        },
+        {
+          "text": "Three sugars, three creams.",
+          "translation": "三份糖，三份奶油。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Double-Double",
+    "phonetic": "/ˈdʌbəl ˈdʌbəl/",
+    "definition": "n. 双倍-双倍 (Tim Horton's 术语，指两份糖和两份奶油的咖啡)",
+    "example": "A Double-Double is the most popular coffee at Tim's.",
+    "example_trans": "Double-Double 是 Tim's 最受欢迎的咖啡。",
+    "derivatives": [],
+    "tags": ["饮品", "术语", "Tim Hortons"],
+    "categories": ["咖啡种类", "术语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What can I get for you?",
+          "translation": "您想要点什么？"
+        },
+        {
+          "text": "A large Double-Double, please.",
+          "translation": "请来一杯大杯 Double-Double。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Triple-Triple",
+    "phonetic": "/ˈtrɪpəl ˈtrɪpəl/",
+    "definition": "n. 三倍-三倍 (Tim Horton's 术语，指三份糖和三份奶油的咖啡)",
+    "example": "Some people like their coffee extra sweet, like a Triple-Triple.",
+    "example_trans": "有些人喜欢咖啡非常甜，比如像 Triple-Triple 那样。",
+    "derivatives": [],
+    "tags": ["饮品", "术语", "Tim Hortons"],
+    "categories": ["咖啡种类", "术语"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How do you like your coffee?",
+          "translation": "您喜欢什么样的咖啡？"
+        },
+        {
+          "text": "I'm a Triple-Triple fan.",
+          "translation": "我是 Triple-Triple 的粉丝。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Regular (Tim's lingo)",
+    "phonetic": "/ˈrɛɡjələr/",
+    "definition": "n. 普通 (Tim Horton's 术语，指一份糖和一份奶油的咖啡)",
+    "example": "In Tim's lingo, 'regular' means one cream and one sugar.",
+    "example_trans": "在 Tim's 的行话里，'regular' 指的是一份奶油和一份糖。",
+    "derivatives": [],
+    "tags": ["饮品", "术语", "Tim Hortons"],
+    "categories": ["咖啡种类", "术语"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Can I get a regular coffee?",
+          "translation": "我可以来一杯 'regular' 咖啡吗？"
+        },
+        {
+          "text": "Okay, one regular coffee (one cream, one sugar).",
+          "translation": "好的，一杯 'regular' 咖啡 (一份奶油，一份糖)。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Pastries",
+    "phonetic": "/ˈpeɪstriz/",
+    "definition": "n. 点心；糕点",
+    "example": "We have a selection of fresh pastries every morning.",
+    "example_trans": "我们每天早上都有各种新鲜点心。",
+    "derivatives": ["pastry (n. singular)"],
+    "tags": ["食物", "常用"],
+    "categories": ["食物"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like any pastries with your coffee?",
+          "translation": "您的咖啡要搭配点心吗？"
+        },
+        {
+          "text": "Yes, I'll take a croissant.",
+          "translation": "是的，我要一个羊角面包。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Milk",
+    "phonetic": "/mɪlk/",
+    "definition": "n. 牛奶",
+    "example": "We offer different kinds of milk for your drink.",
+    "example_trans": "我们为您的饮品提供不同种类的牛奶。",
+    "derivatives": ["milky (adj.)"],
+    "tags": ["配料", "饮品", "常用"],
+    "categories": ["配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want milk in your tea?",
+          "translation": "您的茶要加牛奶吗？"
+        },
+        {
+          "text": "Yes, please.",
+          "translation": "是的，请加。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Sugar",
+    "phonetic": "/ˈʃʊɡər/",
+    "definition": "n. 糖",
+    "example": "You can add sugar to your coffee.",
+    "example_trans": "您可以在咖啡里加糖。",
+    "derivatives": ["sugary (adj.)"],
+    "tags": ["配料", "常用"],
+    "categories": ["配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How many sugars?",
+          "translation": "要几份糖？"
+        },
+        {
+          "text": "Two sugars, please.",
+          "translation": "请加两份糖。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Cream",
+    "phonetic": "/kriːm/",
+    "definition": "n. 奶油 (在咖啡中常指咖啡伴侣或稀奶油)",
+    "example": "Some people prefer cream instead of milk in coffee.",
+    "example_trans": "有些人喜欢在咖啡里加奶油而不是牛奶。",
+    "derivatives": ["creamy (adj.)"],
+    "tags": ["配料", "常用"],
+    "categories": ["配料"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like milk or cream?",
+          "translation": "您要牛奶还是奶油？"
+        },
+        {
+          "text": "Cream, please.",
+          "translation": "请加奶油。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Name (for cup)",
+    "phonetic": "/neɪm (fɔːr kʌp)/",
+    "definition": "n. 名字 (为了便于区分写在杯子上的)",
+    "example": "Can I get your name for the cup?",
+    "example_trans": "请问您的名字，写在杯子上？",
+    "derivatives": [],
+    "tags": ["服务", "术语"],
+    "categories": ["服务", "常用表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I have your name?",
+          "translation": "请问您叫什么名字？"
+        },
+        {
+          "text": "It's Alex. For the cup?",
+          "translation": "我叫 Alex。是为了写在杯子上吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Receipt",
+    "phonetic": "/rɪˈsiːt/",
+    "definition": "n. 收据；小票",
+    "example": "Would you like a receipt?",
+    "example_trans": "您需要收据吗？",
+    "derivatives": [],
+    "tags": ["服务", "支付", "常用"],
+    "categories": ["支付", "服务"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Here's your change.",
+          "translation": "这是找您的钱。"
+        },
+        {
+          "text": "Would you like a receipt?",
+          "translation": "您需要收据吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Tray",
+    "phonetic": "/treɪ/",
+    "definition": "n. 托盘",
+    "example": "You'll need a tray for multiple drinks.",
+    "example_trans": "您拿好几杯饮料需要一个托盘。",
+    "derivatives": [],
+    "tags": ["物品", "服务", "常用"],
+    "categories": ["物品", "服务"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Here are your two coffees.",
+          "translation": "这是您的两杯咖啡。"
+        },
+        {
+          "text": "Do you need a tray?",
+          "translation": "您需要托盘吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Lid",
+    "phonetic": "/lɪd/",
+    "definition": "n. 盖子 (杯子的盖子)",
+    "example": "Be careful, the lid isn't on tight.",
+    "example_trans": "小心，盖子没盖紧。",
+    "derivatives": [],
+    "tags": ["物品", "常用"],
+    "categories": ["物品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you need a lid for your cup?",
+          "translation": "您的杯子需要盖子吗？"
+        },
+        {
+          "text": "Yes, please, it's to go.",
+          "translation": "是的，请给我盖子，我要带走。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Cash",
+    "phonetic": "/kæʃ/",
+    "definition": "n. 现金",
+    "example": "Do you accept cash?",
+    "example_trans": "你们收现金吗？",
+    "derivatives": [],
+    "tags": ["支付", "常用"],
+    "categories": ["支付"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you paying cash or card?",
+          "translation": "您是付现金还是刷卡？"
+        },
+        {
+          "text": "Cash.",
+          "translation": "现金。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Card",
+    "phonetic": "/kɑːrd/",
+    "definition": "n. 卡；银行卡 (指信用卡、借记卡等)",
+    "example": "I'll pay by card.",
+    "example_trans": "我刷卡支付。",
+    "derivatives": [],
+    "tags": ["支付", "常用"],
+    "categories": ["支付"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Cash or card?",
+          "translation": "现金还是刷卡？"
+        },
+        {
+          "text": "Card, please.",
+          "translation": "请刷卡。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Tap",
+    "phonetic": "/tæp/",
+    "definition": "v. 感应支付 (用非接触方式刷卡或手机支付)",
+    "example": "You can just tap your card here.",
+    "example_trans": "您可以在这里感应支付。",
+    "derivatives": ["tapping (v.)", "tapped (v.)"],
+    "tags": ["支付", "术语"],
+    "categories": ["支付"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is it tap to pay?",
+          "translation": "是感应支付吗？"
+        },
+        {
+          "text": "Yes, just tap your card.",
+          "translation": "是的，感应您的卡就可以了。"
+        }
+      ]
+    ]
+  },
+   {
+    "word": "Insert",
+    "phonetic": "/ɪnˈsɜːrt/",
+    "definition": "v. 插入 (将银行卡插入读卡器)",
+    "example": "Please insert your card into the machine.",
+    "example_trans": "请将您的银行卡插入机器。",
+    "derivatives": ["inserting (v.)", "inserted (v.)"],
+    "tags": ["支付", "术语"],
+    "categories": ["支付"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "The machine says 'insert card'.",
+          "translation": "机器显示 '插入卡'。"
+        },
+        {
+          "text": "Yes, just insert it.",
+          "translation": "是的，插进去就行。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Bag",
+    "phonetic": "/bæɡ/",
+    "definition": "n. 袋子 (用于装购买的物品)",
+    "example": "Would you like a bag for your pastries?",
+    "example_trans": "您的点心要袋子装吗？",
+    "derivatives": ["bagged (adj.)", "bagging (v.)"],
+    "tags": ["物品", "服务", "常用"],
+    "categories": ["物品", "服务"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you need a bag?",
+          "translation": "您需要袋子吗？"
+        },
+        {
+          "text": "Yes, please.",
+          "translation": "是的，请给我一个。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Cup",
+    "phonetic": "/kʌp/",
+    "definition": "n. 杯子",
+    "example": "Your coffee is in the green cup.",
+    "example_trans": "您的咖啡在绿色杯子里。",
+    "derivatives": ["cupped (adj.)", "cupping (v.)"],
+    "tags": ["物品", "常用"],
+    "categories": ["物品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I have an empty cup?",
+          "translation": "我可以要一个空杯子吗？"
+        },
+        {
+          "text": "Sure, here you go.",
+          "translation": "好的，给您。"
+        }
+      ]
+    ]
+  }
+]
