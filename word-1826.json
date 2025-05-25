@@ -1,0 +1,695 @@
+[
+  {
+    "word": "recognize",
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "definition": "v. 认出；承认；意识到",
+    "example": "I didn't recognize you with your new haircut.",
+    "example_trans": "你换了新发型，我都没认出你来。",
+    "derivatives": ["recognition (n.)", "recognizable (adj.)"],
+    "tags": ["动词", "认知", "常用"],
+    "categories": ["动词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you recognize this melody?",
+          "translation": "你认得出这段旋律吗？"
+        },
+        {
+          "text": "Yes, it sounds very familiar.",
+          "translation": "是的，听起来很熟悉。"
+        }
+      ],
+      [
+        {
+          "text": "It's important to recognize your own mistakes.",
+          "translation": "认识到自己的错误很重要。"
+        },
+        {
+          "text": "I agree, that's the first step to improvement.",
+          "translation": "我同意，那是进步的第一步。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bore",
+    "phonetic": "/bɔːr/",
+    "definition": "v. 使厌烦；钻孔 n. 令人厌烦的人或事；孔",
+    "example": "His repetitive stories often bore his friends.",
+    "example_trans": "他重复的故事常常让他的朋友们感到厌烦。",
+    "derivatives": ["boring (adj.)", "boredom (n.)"],
+    "tags": ["动词", "名词", "情感", "行为"],
+    "categories": ["动词", "名词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Did the lecture bore you?",
+          "translation": "讲座让你觉得无聊吗？"
+        },
+        {
+          "text": "A little, it was quite long and technical.",
+          "translation": "有点，它太长而且太专业了。"
+        }
+      ],
+      [
+        {
+          "text": "The workers had to bore a tunnel through the mountain.",
+          "translation": "工人们不得不在山中钻一条隧道。"
+        },
+        {
+          "text": "That must have been a challenging task.",
+          "translation": "那一定是一项艰巨的任务。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "breach",
+    "phonetic": "/briːtʃ/",
+    "definition": "n. 违反；缺口 v. 违反；造成缺口",
+    "example": "Any breach of the rules will result in penalties.",
+    "example_trans": "任何违反规则的行为都将导致处罚。",
+    "derivatives": [],
+    "tags": ["名词", "动词", "法律", "安全"],
+    "categories": ["名词", "动词"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "What happens in case of a contract breach?",
+          "translation": "如果发生违约行为会怎么样？"
+        },
+        {
+          "text": "The non-breaching party may be entitled to compensation.",
+          "translation": "未违约方可能有权获得赔偿。"
+        }
+      ],
+      [
+        {
+          "text": "Hackers attempted to breach the company's security system.",
+          "translation": "黑客试图攻破公司的安全系统。"
+        },
+        {
+          "text": "Were they successful?",
+          "translation": "他们成功了吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "process",
+    "phonetic": "/ˈprɑːses/",
+    "definition": "n. 过程；步骤 v. 处理；加工",
+    "example": "The manufacturing process involves several stages.",
+    "example_trans": "制造过程包括几个阶段。",
+    "derivatives": ["processing (n.)", "processor (n.)"],
+    "tags": ["名词", "动词", "方法", "常用"],
+    "categories": ["名词", "动词"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How long does the visa application process take?",
+          "translation": "签证申请过程需要多长时间？"
+        },
+        {
+          "text": "It usually takes about two to three weeks to process.",
+          "translation": "通常需要大约两到三周的时间来处理。"
+        }
+      ],
+      [
+        {
+          "text": "This factory can process tons of raw materials daily.",
+          "translation": "这家工厂每天能加工数吨原材料。"
+        },
+        {
+          "text": "That's a very high capacity.",
+          "translation": "那是非常高的产能。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "notify",
+    "phonetic": "/ˈnoʊtɪfaɪ/",
+    "definition": "v. 通知；告知",
+    "example": "Please notify the manager of any issues.",
+    "example_trans": "如有任何问题，请通知经理。",
+    "derivatives": ["notification (n.)"],
+    "tags": ["动词", "沟通", "常用"],
+    "categories": ["动词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "When will they notify the successful candidates?",
+          "translation": "他们什么时候会通知成功的候选人？"
+        },
+        {
+          "text": "We expect to send out notifications by the end of the week.",
+          "translation": "我们预计在本周末前发出通知。"
+        }
+      ],
+      [
+        {
+          "text": "You should notify your bank if you lose your credit card.",
+          "translation": "如果你丢失了信用卡，应该通知你的银行。"
+        },
+        {
+          "text": "I did that immediately.",
+          "translation": "我马上就那么做了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "junior",
+    "phonetic": "/ˈdʒuːniər/",
+    "definition": "adj. 年少的；资历浅的 n. 年少者；大三学生",
+    "example": "She is a junior associate at the law firm.",
+    "example_trans": "她是律师事务所的初级助理律师。",
+    "derivatives": [],
+    "tags": ["形容词", "名词", "等级", "教育"],
+    "categories": ["形容词", "名词"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you a senior or junior student?",
+          "translation": "你是高年级学生还是低年级学生？"
+        },
+        {
+          "text": "I'm a junior, studying computer science.",
+          "translation": "我是大三学生，主修计算机科学。"
+        }
+      ],
+      [
+        {
+          "text": "The junior staff members receive training from senior colleagues.",
+          "translation": "初级员工接受资深同事的培训。"
+        },
+        {
+          "text": "That's a good way to learn and grow.",
+          "translation": "那是学习和成长的好方法。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "algorithm",
+    "phonetic": "/ˈælɡərɪðəm/",
+    "definition": "n. 算法；计算程序",
+    "example": "This search engine uses a proprietary algorithm.",
+    "example_trans": "这个搜索引擎使用专有算法。",
+    "derivatives": ["algorithmic (adj.)"],
+    "tags": ["名词", "科技", "数学", "计算机"],
+    "categories": ["名词"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "What is an algorithm, in simple terms?",
+          "translation": "简单来说，什么是算法？"
+        },
+        {
+          "text": "It's a set of rules or steps to solve a problem or complete a task.",
+          "translation": "它是一套解决问题或完成任务的规则或步骤。"
+        }
+      ],
+      [
+        {
+          "text": "Developing an efficient algorithm is key to this software's performance.",
+          "translation": "开发一个高效的算法是这款软件性能的关键。"
+        },
+        {
+          "text": "Indeed, it can significantly impact speed and resource usage.",
+          "translation": "确实，它可以显著影响速度和资源使用。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "surge",
+    "phonetic": "/sɜːrdʒ/",
+    "definition": "n. & v. 汹涌；猛增；激增",
+    "example": "A power surge damaged several appliances.",
+    "example_trans": "一次电涌损坏了几件电器。",
+    "derivatives": [],
+    "tags": ["名词", "动词", "变化", "经济"],
+    "categories": ["名词", "动词"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "Why did the stock price surge so suddenly?",
+          "translation": "股价为何突然飙升？"
+        },
+        {
+          "text": "There was positive news about the company's new product.",
+          "translation": "有关于公司新产品的利好消息。"
+        }
+      ],
+      [
+        {
+          "text": "The river is expected to surge due to heavy rainfall.",
+          "translation": "由于强降雨，预计河水将会猛涨。"
+        },
+        {
+          "text": "Residents in low-lying areas should be prepared.",
+          "translation": "低洼地区的居民应该做好准备。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "experts",
+    "phonetic": "/ˈekspɜːrts/",
+    "definition": "n. 专家 (expert的复数)",
+    "example": "Health experts recommend regular exercise.",
+    "example_trans": "健康专家建议定期锻炼。",
+    "derivatives": ["expert (n., adj.)", "expertise (n.)"],
+    "tags": ["名词", "人物", "专业"],
+    "categories": ["名词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Should we consult with financial experts before making this investment?",
+          "translation": "在进行这项投资之前，我们应该咨询财务专家吗？"
+        },
+        {
+          "text": "Yes, their advice could be very valuable.",
+          "translation": "是的，他们的建议可能非常有价值。"
+        }
+      ],
+      [
+        {
+          "text": "The panel of experts discussed the future of artificial intelligence.",
+          "translation": "专家小组讨论了人工智能的未来。"
+        },
+        {
+          "text": "It must have been an insightful conversation.",
+          "translation": "那一定是一场富有洞察力的对话。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "punish",
+    "phonetic": "/ˈpʌnɪʃ/",
+    "definition": "v. 惩罚；处罚",
+    "example": "The law will punish those who break it.",
+    "example_trans": "法律将惩罚那些违法的人。",
+    "derivatives": ["punishment (n.)", "punishable (adj.)"],
+    "tags": ["动词", "法律", "行为"],
+    "categories": ["动词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How should we punish students who cheat on exams?",
+          "translation": "我们应该如何惩罚考试作弊的学生？"
+        },
+        {
+          "text": "The school has a clear policy on academic dishonesty.",
+          "translation": "学校对学术不诚实行为有明确的政策。"
+        }
+      ],
+      [
+        {
+          "text": "He felt he was being unfairly punished.",
+          "translation": "他觉得自己受到了不公平的惩罚。"
+        },
+        {
+          "text": "He should appeal the decision if he believes so.",
+          "translation": "如果他这么认为，他应该对该决定提出上诉。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "illegally",
+    "phonetic": "/ɪˈliːɡəli/",
+    "definition": "adv. 非法地；违法地",
+    "example": "The factory was found to be illegally dumping waste.",
+    "example_trans": "该工厂被发现非法倾倒废物。",
+    "derivatives": ["illegal (adj.)", "legality (n.)"],
+    "tags": ["副词", "法律", "行为"],
+    "categories": ["副词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Can you be arrested for illegally downloading movies?",
+          "translation": "非法下载电影会被逮捕吗？"
+        },
+        {
+          "text": "Yes, it's a copyright infringement and is against the law.",
+          "translation": "是的，这是侵犯版权的行为，是违法的。"
+        }
+      ],
+      [
+        {
+          "text": "The company was accused of illegally sharing user data.",
+          "translation": "该公司被指控非法共享用户数据。"
+        },
+        {
+          "text": "That's a serious privacy violation.",
+          "translation": "那是严重的侵犯隐私行为。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "particular",
+    "phonetic": "/pərˈtɪkjələr/",
+    "definition": "adj. 特定的；特别的；讲究的",
+    "example": "She paid particular attention to the details.",
+    "example_trans": "她特别注意细节。",
+    "derivatives": ["particularly (adv.)"],
+    "tags": ["形容词", "细节", "强调", "常用"],
+    "categories": ["形容词"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is there a particular brand you prefer?",
+          "translation": "你有什么特别喜欢的品牌吗？"
+        },
+        {
+          "text": "No, I'm not particular about brands for this item.",
+          "translation": "不，对于这个商品我不太讲究品牌。"
+        }
+      ],
+      [
+        {
+          "text": "This particular model has some unique features.",
+          "translation": "这个特定型号有一些独特的功能。"
+        },
+        {
+          "text": "Could you tell me more about them?",
+          "translation": "你能告诉我更多关于它们的信息吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "massive",
+    "phonetic": "/ˈmæsɪv/",
+    "definition": "adj. 大规模的；巨大的；大量的",
+    "example": "The earthquake caused massive destruction.",
+    "example_trans": "地震造成了大规模的破坏。",
+    "derivatives": [],
+    "tags": ["形容词", "规模", "强调"],
+    "categories": ["形容词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "They undertook a massive renovation project for the old building.",
+          "translation": "他们对这座旧建筑进行了一项大规模的翻新工程。"
+        },
+        {
+          "text": "It must look completely different now.",
+          "translation": "现在它一定看起来完全不同了。"
+        }
+      ],
+      [
+        {
+          "text": "The concert drew a massive crowd.",
+          "translation": "音乐会吸引了大量观众。"
+        },
+        {
+          "text": "The atmosphere must have been incredible.",
+          "translation": "气氛一定非常棒。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "boulder",
+    "phonetic": "/ˈboʊldər/",
+    "definition": "n. 巨石；卵石",
+    "example": "He managed to move the heavy boulder with a lever.",
+    "example_trans": "他用杠杆成功地移动了那块沉重的巨石。",
+    "derivatives": [],
+    "tags": ["名词", "自然", "地理"],
+    "categories": ["名词"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "Is that a natural boulder formation or man-made?",
+          "translation": "那是天然的巨石构造还是人造的？"
+        },
+        {
+          "text": "It looks like a glacial erratic, a boulder transported by ice.",
+          "translation": "它看起来像一块冰川漂砾，是被冰川搬运来的巨石。"
+        }
+      ],
+      [
+        {
+          "text": "Be careful when hiking, there are loose boulders on the trail.",
+          "translation": "徒步时要小心，小径上有松动的卵石。"
+        },
+        {
+          "text": "Thanks for the warning, I'll watch my step.",
+          "translation": "谢谢提醒，我会注意脚下的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "caught onto",
+    "phonetic": "/kɔːt ˈɑːntuː/",
+    "definition": "phr. v. 理解；意识到；抓住",
+    "example": "The detective quickly caught onto the suspect's lies.",
+    "example_trans": "侦探很快就识破了嫌疑人的谎言。",
+    "derivatives": [],
+    "tags": ["短语动词", "理解", "学习"],
+    "categories": ["短语动词"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "Did you catch onto the new rules easily?",
+          "translation": "你很容易就理解新规则了吗？"
+        },
+        {
+          "text": "Yes, they were explained quite clearly.",
+          "translation": "是的，它们解释得很清楚。"
+        }
+      ],
+      [
+        {
+          "text": "It seems the public has caught onto the benefits of recycling.",
+          "translation": "公众似乎已经意识到了回收利用的好处。"
+        },
+        {
+          "text": "That's a positive development for the environment.",
+          "translation": "这对环境来说是一个积极的进展。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "common",
+    "phonetic": "/ˈkɑːmən/",
+    "definition": "adj. 常见的；共同的；普通的",
+    "example": "It's a common mistake for learners of English.",
+    "example_trans": "这是英语学习者常犯的错误。",
+    "derivatives": ["commonly (adv.)", "commonplace (adj.)"],
+    "tags": ["形容词", "频率", "普遍性", "常用"],
+    "categories": ["形容词"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is this a common side effect of the medication?",
+          "translation": "这是这种药物常见的副作用吗？"
+        },
+        {
+          "text": "Yes, it's listed as one of the more common ones.",
+          "translation": "是的，它被列为较常见的副作用之一。"
+        }
+      ],
+      [
+        {
+          "text": "We share a common interest in classical music.",
+          "translation": "我们对古典音乐有共同的兴趣。"
+        },
+        {
+          "text": "That's wonderful! We should go to a concert together sometime.",
+          "translation": "太棒了！我们改天应该一起去听音乐会。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "subtle",
+    "phonetic": "/ˈsʌtl/",
+    "definition": "adj. 微妙的；巧妙的；敏锐的",
+    "example": "There's a subtle difference between the two colors.",
+    "example_trans": "这两种颜色之间有细微的差别。",
+    "derivatives": ["subtlety (n.)", "subtly (adv.)"],
+    "tags": ["形容词", "感知", "细节"],
+    "categories": ["形容词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Did you notice the subtle hint of vanilla in the cake?",
+          "translation": "你注意到蛋糕里那淡淡的香草味了吗？"
+        },
+        {
+          "text": "Now that you mention it, yes, it's very subtle but delicious.",
+          "translation": "你这么一说，是的，非常淡但很好吃。"
+        }
+      ],
+      [
+        {
+          "text": "Her criticism was subtle, but effective.",
+          "translation": "她的批评很巧妙，但很有效。"
+        },
+        {
+          "text": "She has a way with words.",
+          "translation": "她很会说话。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "dire",
+    "phonetic": "/ˈdaɪər/",
+    "definition": "adj. 可怕的；悲惨的；极度的",
+    "example": "The refugees were in dire need of food and shelter.",
+    "example_trans": "难民们急需食物和住所。",
+    "derivatives": [],
+    "tags": ["形容词", "程度", "危机"],
+    "categories": ["形容词"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "The situation is becoming dire as supplies run low.",
+          "translation": "随着供应减少，情况变得非常危急。"
+        },
+        {
+          "text": "We need to find a solution quickly.",
+          "translation": "我们需要尽快找到解决方案。"
+        }
+      ],
+      [
+        {
+          "text": "The weather forecast predicted dire consequences if the storm hit.",
+          "translation": "天气预报预测，如果风暴来袭，将产生可怕的后果。"
+        },
+        {
+          "text": "Let's hope it changes course.",
+          "translation": "希望它能改变路径。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "poor",
+    "phonetic": "/pʊr/",
+    "definition": "adj. 贫穷的；可怜的；差的",
+    "example": "The family was too poor to afford new clothes.",
+    "example_trans": "这家人太穷了，买不起新衣服。",
+    "derivatives": ["poverty (n.)", "poorly (adv.)"],
+    "tags": ["形容词", "经济", "质量", "常用"],
+    "categories": ["形容词"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "His performance in the exam was quite poor.",
+          "translation": "他在考试中的表现相当差。"
+        },
+        {
+          "text": "He needs to study harder next time.",
+          "translation": "他下次需要更努力地学习。"
+        }
+      ],
+      [
+        {
+          "text": "The poor dog was left out in the rain.",
+          "translation": "那只可怜的狗被留在了雨中。"
+        },
+        {
+          "text": "That's so sad, we should help it.",
+          "translation": "太可怜了，我们应该帮助它。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "gross",
+    "phonetic": "/ɡroʊs/",
+    "definition": "adj. 总的；粗略的；令人恶心的；严重的 n. 总额",
+    "example": "The gross profit for the year was impressive.",
+    "example_trans": "当年的总利润令人印象深刻。",
+    "derivatives": ["grossly (adv.)"],
+    "tags": ["形容词", "名词", "经济", "感觉"],
+    "categories": ["形容词", "名词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What is the gross weight of this package?",
+          "translation": "这个包裹的总重量是多少？"
+        },
+        {
+          "text": "It's about 5 kilograms, including packaging.",
+          "translation": "大约5公斤，包括包装。"
+        }
+      ],
+      [
+        {
+          "text": "Ugh, that smell is absolutely gross!",
+          "translation": "呃，那味道太恶心了！"
+        },
+        {
+          "text": "Let's get out of here quickly.",
+          "translation": "我们快离开这里吧。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "regard",
+    "phonetic": "/rɪˈɡɑːrd/",
+    "definition": "v. 把…看作；看待；注视 n. 注意；尊重；问候",
+    "example": "She is highly regarded by her colleagues.",
+    "example_trans": "她深受同事们的尊重。",
+    "derivatives": ["regarding (prep.)", "regardless (adv.)"],
+    "tags": ["动词", "名词", "观点", "尊重", "常用"],
+    "categories": ["动词", "名词"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How do you regard this new policy?",
+          "translation": "你如何看待这项新政策？"
+        },
+        {
+          "text": "I regard it as a positive step forward.",
+          "translation": "我认为这是向前迈出的积极一步。"
+        }
+      ],
+      [
+        {
+          "text": "Please give my regards to your family.",
+          "translation": "请代我向你的家人问好。"
+        },
+        {
+          "text": "Thank you, I will.",
+          "translation": "谢谢，我会的。"
+        }
+      ]
+    ]
+  }
+]

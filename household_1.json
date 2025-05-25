@@ -1,0 +1,1652 @@
+[
+  {
+    "word": "sofa",
+    "phonetic": "/ˈsoʊfə/",
+    "definition": "n. 沙发",
+    "example": "We bought a new sofa for the living room.",
+    "example_trans": "我们为客厅买了一张新沙发。",
+    "derivatives": [],
+    "tags": ["家具", "客厅", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This new sofa is very comfortable, isn't it?",
+          "translation": "这张新沙发很舒服，不是吗？"
+        },
+        {
+          "text": "Yes, I love the soft cushions and the fabric.",
+          "translation": "是的，我喜欢这些柔软的靠垫和这种布料。"
+        }
+      ],
+      [
+        {
+          "text": "What kind of sofa are you looking for?",
+          "translation": "您在找什么样的沙发？"
+        },
+        {
+          "text": "I need a three-seater sofa, preferably in a neutral color.",
+          "translation": "我需要一个三人座的沙发，最好是中性色的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bed",
+    "phonetic": "/bed/",
+    "definition": "n. 床",
+    "example": "I like to read in bed before sleeping.",
+    "example_trans": "我喜欢睡前在床上看书。",
+    "derivatives": ["bedtime (n.)", "bedroom (n.)"],
+    "tags": ["家具", "卧室", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What size bed do you have in your room?",
+          "translation": "你房间的床是什么尺寸的？"
+        },
+        {
+          "text": "I have a queen-size bed. It's very spacious.",
+          "translation": "我有一张大号双人床，非常宽敞。"
+        }
+      ],
+      [
+        {
+          "text": "It's time for bed, kids!",
+          "translation": "孩子们，该上床睡觉了！"
+        },
+        {
+          "text": "Okay, Mom. Can you read us a bedtime story?",
+          "translation": "好的，妈妈。你能给我们读个睡前故事吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "desk",
+    "phonetic": "/desk/",
+    "definition": "n. 书桌；办公桌",
+    "example": "My computer is on the desk.",
+    "example_trans": "我的电脑在书桌上。",
+    "derivatives": [],
+    "tags": ["家具", "书房", "办公室", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I need a new desk for my home office.",
+          "translation": "我需要一张新书桌给我的家庭办公室。"
+        },
+        {
+          "text": "What kind of features are you looking for in a desk?",
+          "translation": "您希望书桌具备哪些功能？"
+        }
+      ],
+      [
+        {
+          "text": "Please clear your desk before you leave.",
+          "translation": "离开前请清理你的办公桌。"
+        },
+        {
+          "text": "Alright, I'll put away my papers.",
+          "translation": "好的，我会把文件收起来。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bookshelf",
+    "phonetic": "/ˈbʊkʃelf/",
+    "definition": "n. 书架",
+    "example": "The bookshelf is full of books.",
+    "example_trans": "书架上摆满了书。",
+    "derivatives": [],
+    "tags": ["家具", "书房", "客厅", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where did you get this beautiful bookshelf?",
+          "translation": "你这个漂亮的书架是在哪里买的？"
+        },
+        {
+          "text": "I bought it online. It was quite easy to assemble.",
+          "translation": "我是在网上买的，组装起来也很容易。"
+        }
+      ],
+      [
+        {
+          "text": "Could you help me move this bookshelf?",
+          "translation": "你能帮我搬一下这个书架吗？"
+        },
+        {
+          "text": "Sure, but let's take the books off first.",
+          "translation": "当然，不过我们先把书拿下来吧。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "wardrobe",
+    "phonetic": "/ˈwɔːrdroʊb/",
+    "definition": "n. 衣柜",
+    "example": "She hung her dresses in the wardrobe.",
+    "example_trans": "她把连衣裙挂在衣柜里。",
+    "derivatives": [],
+    "tags": ["家具", "卧室", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "My wardrobe is too small for all my clothes.",
+          "translation": "我的衣柜太小了，放不下我所有的衣服。"
+        },
+        {
+          "text": "Maybe you should consider getting a bigger one or decluttering.",
+          "translation": "也许你应该考虑买个大点的，或者清理一下。"
+        }
+      ],
+      [
+        {
+          "text": "Is this wardrobe made of solid wood?",
+          "translation": "这个衣柜是实木的吗？"
+        },
+        {
+          "text": "Yes, it's oak. Very durable.",
+          "translation": "是的，是橡木的，非常耐用。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cabinet",
+    "phonetic": "/ˈkæbɪnət/",
+    "definition": "n. 橱柜；储藏柜",
+    "example": "We keep the dishes in the kitchen cabinet.",
+    "example_trans": "我们把餐具放在厨房的橱柜里。",
+    "derivatives": [],
+    "tags": ["家具", "厨房", "浴室", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "The bathroom cabinet is full of toiletries.",
+          "translation": "浴室柜里装满了洗漱用品。"
+        },
+        {
+          "text": "We should organize it this weekend.",
+          "translation": "我们这个周末应该整理一下。"
+        }
+      ],
+      [
+        {
+          "text": "Can you reach the top shelf of the cabinet?",
+          "translation": "你够得着橱柜最上面那层吗？"
+        },
+        {
+          "text": "No, I need a stool.",
+          "translation": "不，我需要一个凳子。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "stool",
+    "phonetic": "/stuːl/",
+    "definition": "n. 凳子",
+    "example": "He sat on a stool at the counter.",
+    "example_trans": "他坐在吧台旁边的凳子上。",
+    "derivatives": [],
+    "tags": ["家具", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you have an extra stool I can use?",
+          "translation": "你有多余的凳子给我用吗？"
+        },
+        {
+          "text": "Yes, there's one in the corner.",
+          "translation": "有的，角落里有一个。"
+        }
+      ],
+      [
+        {
+          "text": "This bar stool is a bit too high for me.",
+          "translation": "这个吧台凳对我来说有点太高了。"
+        },
+        {
+          "text": "Let me see if we have an adjustable one.",
+          "translation": "我看看我们有没有可调节的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "armchair",
+    "phonetic": "/ˈɑːrmtʃer/",
+    "definition": "n. 扶手椅",
+    "example": "My grandfather likes to sit in his armchair and read.",
+    "example_trans": "我爷爷喜欢坐在他的扶手椅上看书。",
+    "derivatives": [],
+    "tags": ["家具", "客厅", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This leather armchair looks very comfortable.",
+          "translation": "这张皮质扶手椅看起来很舒服。"
+        },
+        {
+          "text": "It is! Why don't you try it?",
+          "translation": "确实是！你为什么不试试呢？"
+        }
+      ],
+      [
+        {
+          "text": "I'm thinking of buying a new armchair for my reading nook.",
+          "translation": "我正在考虑为我的阅读角买一把新的扶手椅。"
+        },
+        {
+          "text": "That's a great idea. A cozy armchair makes reading even more enjoyable.",
+          "translation": "那是个好主意。一把舒适的扶手椅能让阅读更加愉悦。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "dresser",
+    "phonetic": "/ˈdresər/",
+    "definition": "n.梳妆台；衣橱",
+    "example": "She keeps her makeup on the dresser.",
+    "example_trans": "她把化妆品放在梳妆台上。",
+    "derivatives": [],
+    "tags": ["家具", "卧室", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where did you put my keys?",
+          "translation": "你把我的钥匙放哪儿了？"
+        },
+        {
+          "text": "I think I saw them on the dresser in your bedroom.",
+          "translation": "我想我看到它们在你卧室的梳妆台上了。"
+        }
+      ],
+      [
+        {
+          "text": "This antique dresser has so many drawers.",
+          "translation": "这个古董梳妆台有很多抽屉。"
+        },
+        {
+          "text": "Yes, it's perfect for storing clothes and accessories.",
+          "translation": "是的，它非常适合存放衣物和配饰。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "nightstand",
+    "phonetic": "/ˈnaɪtstænd/",
+    "definition": "n. 床头柜",
+    "example": "I put my phone on the nightstand before I go to sleep.",
+    "example_trans": "我睡觉前把手机放在床头柜上。",
+    "derivatives": [],
+    "tags": ["家具", "卧室", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Could you pass me the book from the nightstand?",
+          "translation": "你能把床头柜上的书递给我吗？"
+        },
+        {
+          "text": "Sure, here you go.",
+          "translation": "当然，给你。"
+        }
+      ],
+      [
+        {
+          "text": "I need a new lamp for my nightstand.",
+          "translation": "我需要一盏新台灯放在床头柜上。"
+        },
+        {
+          "text": "We can go shopping for one this weekend.",
+          "translation": "我们这个周末可以去买一个。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "coffee table",
+    "phonetic": "/ˈkɔːfi ˈteɪbl/",
+    "definition": "n. 咖啡桌；茶几",
+    "example": "We put our drinks on the coffee table.",
+    "example_trans": "我们把饮料放在咖啡桌上。",
+    "derivatives": [],
+    "tags": ["家具", "客厅", "常用", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Be careful not to spill your coffee on the new coffee table.",
+          "translation": "小心别把咖啡洒在新茶几上。"
+        },
+        {
+          "text": "Don't worry, I'm using a coaster.",
+          "translation": "别担心，我用杯垫呢。"
+        }
+      ],
+      [
+        {
+          "text": "What do you think of this glass coffee table?",
+          "translation": "你觉得这个玻璃茶几怎么样？"
+        },
+        {
+          "text": "It looks modern, but I'm worried about fingerprints.",
+          "translation": "看起来很现代，但我担心会有指纹。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "dining table",
+    "phonetic": "/ˈdaɪnɪŋ ˈteɪbl/",
+    "definition": "n. 餐桌",
+    "example": "The whole family eats at the dining table.",
+    "example_trans": "全家人都在餐桌上吃饭。",
+    "derivatives": [],
+    "tags": ["家具", "餐厅", "常用", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How many people can this dining table seat?",
+          "translation": "这张餐桌能坐多少人？"
+        },
+        {
+          "text": "It can comfortably seat six, or eight if we squeeze in.",
+          "translation": "舒适的话可以坐六个人，挤一挤可以坐八个。"
+        }
+      ],
+      [
+        {
+          "text": "Let's set the dining table for dinner.",
+          "translation": "我们来摆好餐桌准备吃晚饭吧。"
+        },
+        {
+          "text": "Okay, I'll get the plates and cutlery.",
+          "translation": "好的，我去拿盘子和餐具。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "mirror",
+    "phonetic": "/ˈmɪrər/",
+    "definition": "n. 镜子",
+    "example": "She looked at herself in the mirror.",
+    "example_trans": "她照了照镜子。",
+    "derivatives": [],
+    "tags": ["家具配件", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is there a full-length mirror in the bedroom?",
+          "translation": "卧室里有全身镜吗？"
+        },
+        {
+          "text": "Yes, it's on the back of the wardrobe door.",
+          "translation": "有的，在衣柜门后面。"
+        }
+      ],
+      [
+        {
+          "text": "Oops, I think I broke the mirror!",
+          "translation": "糟糕，我想我把镜子打碎了！"
+        },
+        {
+          "text": "Oh no! Be careful with the broken pieces.",
+          "translation": "哦不！小心那些碎片。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "lamp",
+    "phonetic": "/læmp/",
+    "definition": "n. 灯",
+    "example": "Turn on the lamp, it's getting dark.",
+    "example_trans": "打开灯，天黑了。",
+    "derivatives": ["lampshade (n.)"],
+    "tags": ["家具配件", "照明", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This desk lamp provides very good light for studying.",
+          "translation": "这盏台灯为学习提供了很好的光线。"
+        },
+        {
+          "text": "Yes, and it's adjustable too.",
+          "translation": "是的，而且它还可以调节。"
+        }
+      ],
+      [
+        {
+          "text": "The bulb in the floor lamp has burned out.",
+          "translation": "落地灯的灯泡烧坏了。"
+        },
+        {
+          "text": "We should get a replacement tomorrow.",
+          "translation": "我们明天应该买个新的换上。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "rug",
+    "phonetic": "/rʌɡ/",
+    "definition": "n. 小地毯",
+    "example": "There is a colorful rug in front of the fireplace.",
+    "example_trans": "壁炉前有一块色彩鲜艳的小地毯。",
+    "derivatives": [],
+    "tags": ["家居装饰", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I love this soft rug under my feet.",
+          "translation": "我喜欢脚下这块柔软的小地毯。"
+        },
+        {
+          "text": "Me too, it makes the room feel cozier.",
+          "translation": "我也是，它让房间感觉更舒适了。"
+        }
+      ],
+      [
+        {
+          "text": "We need to clean the rug, it's getting dirty.",
+          "translation": "我们需要清洗一下地毯，它变脏了。"
+        },
+        {
+          "text": "Okay, let's vacuum it later.",
+          "translation": "好的，我们待会儿用吸尘器吸一下。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "curtain",
+    "phonetic": "/ˈkɜːrtn/",
+    "definition": "n. 窗帘",
+    "example": "Please draw the curtains.",
+    "example_trans": "请拉上窗帘。",
+    "derivatives": [],
+    "tags": ["家居装饰", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "These new curtains match the sofa perfectly.",
+          "translation": "这些新窗帘和沙发完美搭配。"
+        },
+        {
+          "text": "I'm glad you like them. I spent a long time choosing the fabric.",
+          "translation": "我很高兴你喜欢它们。我花了好长时间挑选布料。"
+        }
+      ],
+      [
+        {
+          "text": "Could you open the curtains? It's a bit dark in here.",
+          "translation": "你能拉开窗帘吗？这里有点暗。"
+        },
+        {
+          "text": "Sure, let some sunlight in!",
+          "translation": "当然，让阳光照进来吧！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cushion",
+    "phonetic": "/ˈkʊʃn/",
+    "definition": "n. 靠垫；坐垫",
+    "example": "The sofa has many soft cushions.",
+    "example_trans": "沙发上有很多柔软的靠垫。",
+    "derivatives": [],
+    "tags": ["家居装饰", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I bought some new cushions for the outdoor chairs.",
+          "translation": "我为户外椅子买了一些新坐垫。"
+        },
+        {
+          "text": "Great! That will make them much more comfortable.",
+          "translation": "太好了！那样会舒服得多。"
+        }
+      ],
+      [
+        {
+          "text": "This cushion is a bit flat. Do we have another one?",
+          "translation": "这个靠垫有点瘪了。我们还有别的吗？"
+        },
+        {
+          "text": "Check the storage box, there might be some spares.",
+          "translation": "看看储物箱，可能有一些备用的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "shelf",
+    "phonetic": "/ʃelf/",
+    "definition": "n. 架子；搁板",
+    "example": "Put the vase on the top shelf.",
+    "example_trans": "把花瓶放在最上面的架子上。",
+    "derivatives": ["shelving (n.)"],
+    "tags": ["家具", "储物", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you install a new shelf in the bathroom for me?",
+          "translation": "你能在浴室里帮我装个新架子吗？"
+        },
+        {
+          "text": "Sure, where do you want it?",
+          "translation": "当然，你想要装在哪里？"
+        }
+      ],
+      [
+        {
+          "text": "The books on this shelf are very dusty.",
+          "translation": "这个架子上的书很脏。"
+        },
+        {
+          "text": "Yes, we need to clean them soon.",
+          "translation": "是的，我们得尽快清理一下。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "drawer",
+    "phonetic": "/drɔːr/",
+    "definition": "n. 抽屉",
+    "example": "I keep my socks in the top drawer.",
+    "example_trans": "我把袜子放在最上面的抽屉里。",
+    "derivatives": [],
+    "tags": ["家具部件", "储物", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "The bottom drawer of my desk is stuck.",
+          "translation": "我书桌最下面的抽屉卡住了。"
+        },
+        {
+          "text": "Let me take a look, maybe I can fix it.",
+          "translation": "我来看看，也许我能修好它。"
+        }
+      ],
+      [
+        {
+          "text": "Where are the spoons?",
+          "translation": "勺子在哪里？"
+        },
+        {
+          "text": "They are in the cutlery drawer in the kitchen.",
+          "translation": "它们在厨房的餐具抽屉里。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bench",
+    "phonetic": "/bentʃ/",
+    "definition": "n. 长凳",
+    "example": "They sat on a park bench.",
+    "example_trans": "他们坐在公园的长凳上。",
+    "derivatives": [],
+    "tags": ["家具", "户外家具", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This wooden bench in the garden is lovely.",
+          "translation": "花园里这条木制长凳很可爱。"
+        },
+        {
+          "text": "Yes, it's a great spot to enjoy the sunshine.",
+          "translation": "是的，这是享受阳光的好地方。"
+        }
+      ],
+      [
+        {
+          "text": "We need an extra bench for the dining table when guests come over.",
+          "translation": "客人来的时候，我们需要一个额外的长凳放在餐桌旁。"
+        },
+        {
+          "text": "Good idea. A bench can often seat more people than chairs.",
+          "translation": "好主意。长凳通常比椅子能坐更多人。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "ottoman",
+    "phonetic": "/ˈɑːtəmən/",
+    "definition": "n. 脚凳；软垫搁脚凳",
+    "example": "She rested her feet on the ottoman.",
+    "example_trans": "她把脚搁在脚凳上休息。",
+    "derivatives": [],
+    "tags": ["家具", "客厅", "常用"],
+    "categories": ["家具"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "This ottoman also has storage space inside.",
+          "translation": "这个脚凳里面还有储物空间。"
+        },
+        {
+          "text": "That's very practical! We can keep blankets in there.",
+          "translation": "那非常实用！我们可以把毯子放在里面。"
+        }
+      ],
+      [
+        {
+          "text": "Would you like an ottoman to go with that armchair?",
+          "translation": "您想要一个脚凳来搭配那把扶手椅吗？"
+        },
+        {
+          "text": "Yes, please. That would be more comfortable.",
+          "translation": "是的，麻烦了。那样会更舒服。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cupboard",
+    "phonetic": "/ˈkʌbərd/",
+    "definition": "n.碗柜；食橱",
+    "example": "The cups are in the cupboard.",
+    "example_trans": "杯子在碗柜里。",
+    "derivatives": [],
+    "tags": ["家具", "厨房", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you get the sugar from the cupboard?",
+          "translation": "你能从食橱里拿些糖吗？"
+        },
+        {
+          "text": "Sure, which one is it in?",
+          "translation": "当然，在哪一个里面？"
+        }
+      ],
+      [
+        {
+          "text": "The top cupboard is a bit high for me to reach.",
+          "translation": "最上面的碗柜我有点够不着。"
+        },
+        {
+          "text": "I'll get it for you. What do you need?",
+          "translation": "我来帮你拿。你需要什么？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "sideboard",
+    "phonetic": "/ˈsaɪdbɔːrd/",
+    "definition": "n. 餐具柜",
+    "example": "The silverware is kept in the sideboard.",
+    "example_trans": "银器存放在餐具柜里。",
+    "derivatives": [],
+    "tags": ["家具", "餐厅", "常用"],
+    "categories": ["家具"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "This antique sideboard is a family heirloom.",
+          "translation": "这个古董餐具柜是传家宝。"
+        },
+        {
+          "text": "It's beautiful! It must have many stories.",
+          "translation": "它真漂亮！一定有很多故事。"
+        }
+      ],
+      [
+        {
+          "text": "We can put the serving dishes on the sideboard during the party.",
+          "translation": "聚会时我们可以把餐盘放在餐具柜上。"
+        },
+        {
+          "text": "Good idea, that will free up space on the dining table.",
+          "translation": "好主意，那样可以腾出餐桌上的空间。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "recliner",
+    "phonetic": "/rɪˈklaɪnər/",
+    "definition": "n. 躺椅",
+    "example": "He fell asleep in the recliner while watching TV.",
+    "example_trans": "他看电视时在躺椅上睡着了。",
+    "derivatives": [],
+    "tags": ["家具", "客厅", "常用"],
+    "categories": ["家具"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "My dad loves his new recliner chair.",
+          "translation": "我爸爸非常喜欢他的新躺椅。"
+        },
+        {
+          "text": "They are very comfortable for relaxing.",
+          "translation": "它们确实非常适合放松。"
+        }
+      ],
+      [
+        {
+          "text": "Does this recliner have a massage function?",
+          "translation": "这把躺椅有按摩功能吗？"
+        },
+        {
+          "text": "Yes, it does. And it also has a heating option.",
+          "translation": "是的，有。而且它还有加热选项。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "hammock",
+    "phonetic": "/ˈhæmək/",
+    "definition": "n. 吊床",
+    "example": "Lying in a hammock is very relaxing.",
+    "example_trans": "躺在吊床上非常放松。",
+    "derivatives": [],
+    "tags": ["家具", "户外家具"],
+    "categories": ["家具"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Let's set up the hammock between those two trees.",
+          "translation": "我们把吊床挂在那两棵树之间吧。"
+        },
+        {
+          "text": "Perfect! I can't wait to take a nap in it.",
+          "translation": "太完美了！我等不及要在上面睡个午觉了。"
+        }
+      ],
+      [
+        {
+          "text": "Is this hammock strong enough for two people?",
+          "translation": "这个吊床够两个人用吗？"
+        },
+        {
+          "text": "The label says it can hold up to 300 pounds.",
+          "translation": "标签上说它可以承受300磅的重量。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "crib",
+    "phonetic": "/krɪb/",
+    "definition": "n. 婴儿床",
+    "example": "The baby is sleeping peacefully in the crib.",
+    "example_trans": "婴儿在婴儿床里安静地睡着。",
+    "derivatives": [],
+    "tags": ["家具", "婴儿用品", "常用"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "We need to assemble the crib before the baby arrives.",
+          "translation": "我们需要在宝宝出生前把婴儿床组装好。"
+        },
+        {
+          "text": "Don't worry, I'll take care of it this weekend.",
+          "translation": "别担心，我这个周末会搞定的。"
+        }
+      ],
+      [
+        {
+          "text": "Is this crib safe for newborns?",
+          "translation": "这个婴儿床对新生儿安全吗？"
+        },
+        {
+          "text": "Yes, it meets all the safety standards.",
+          "translation": "是的，它符合所有安全标准。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bunk bed",
+    "phonetic": "/ˈbʌŋk bed/",
+    "definition": "n. 双层床",
+    "example": "The children share a bunk bed.",
+    "example_trans": "孩子们共用一张双层床。",
+    "derivatives": [],
+    "tags": ["家具", "卧室", "常用", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "My kids want a bunk bed for their room.",
+          "translation": "我的孩子们想要一个双层床放在他们房间。"
+        },
+        {
+          "text": "It's a good way to save space if they share a room.",
+          "translation": "如果他们共用一个房间，这是节省空间的好方法。"
+        }
+      ],
+      [
+        {
+          "text": "Who gets to sleep on the top bunk?",
+          "translation": "谁睡上铺？"
+        },
+        {
+          "text": "They can take turns each week.",
+          "translation": "他们可以每周轮流。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "futon",
+    "phonetic": "/ˈfuːtɑːn/",
+    "definition": "n. 日式床垫；沙发床",
+    "example": "We have a futon for guests to sleep on.",
+    "example_trans": "我们有一个日式床垫供客人睡觉。",
+    "derivatives": [],
+    "tags": ["家具", "卧室", "客厅"],
+    "categories": ["家具"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Can this futon be converted into a bed easily?",
+          "translation": "这个沙发床能很容易地变成床吗？"
+        },
+        {
+          "text": "Yes, it's very simple to fold down.",
+          "translation": "是的，折叠起来非常简单。"
+        }
+      ],
+      [
+        {
+          "text": "A futon is a great option for a small apartment.",
+          "translation": "对于小公寓来说，沙发床是个不错的选择。"
+        },
+        {
+          "text": "I agree, it's versatile and saves space.",
+          "translation": "我同意，它用途广泛而且节省空间。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "chaise lounge",
+    "phonetic": "/ˌʃeɪz ˈlaʊndʒ/",
+    "definition": "n. 躺椅；贵妃椅",
+    "example": "She was relaxing on a chaise lounge by the pool.",
+    "example_trans": "她在泳池边的躺椅上放松。",
+    "derivatives": [],
+    "tags": ["家具", "客厅", "户外家具", "短语"],
+    "categories": ["家具"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "This chaise lounge looks so elegant in the living room.",
+          "translation": "这把贵妃椅在客厅里看起来如此优雅。"
+        },
+        {
+          "text": "It's my favorite spot for reading.",
+          "translation": "这是我最喜欢的阅读地点。"
+        }
+      ],
+      [
+        {
+          "text": "I'd love to have a chaise lounge on my balcony.",
+          "translation": "我希望我的阳台上能有一把躺椅。"
+        },
+        {
+          "text": "That would be a perfect place to enjoy the view.",
+          "translation": "那将是欣赏风景的绝佳地点。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "vanity",
+    "phonetic": "/ˈvænəti/",
+    "definition": "n. 梳妆台",
+    "example": "She sat at her vanity to put on makeup.",
+    "example_trans": "她坐在梳妆台前化妆。",
+    "derivatives": [],
+    "tags": ["家具", "卧室", "浴室"],
+    "categories": ["家具"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "This bathroom vanity has double sinks.",
+          "translation": "这个浴室梳妆台有两个水槽。"
+        },
+        {
+          "text": "That's convenient for couples.",
+          "translation": "那对夫妇来说很方便。"
+        }
+      ],
+      [
+        {
+          "text": "I keep all my skincare products on the vanity.",
+          "translation": "我把所有的护肤品都放在梳妆台上。"
+        },
+        {
+          "text": "It's good to have them organized and easily accessible.",
+          "translation": "把它们整理好并且容易拿到是很好的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "coat rack",
+    "phonetic": "/ˈkoʊt ræk/",
+    "definition": "n. 衣帽架",
+    "example": "Hang your coat on the coat rack.",
+    "example_trans": "把你的外套挂在衣帽架上。",
+    "derivatives": [],
+    "tags": ["家具", "玄关", "常用", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "The coat rack is full. Where should I put my jacket?",
+          "translation": "衣帽架满了。我应该把夹克放在哪里？"
+        },
+        {
+          "text": "You can hang it in the wardrobe in the guest room.",
+          "translation": "你可以把它挂在客房的衣柜里。"
+        }
+      ],
+      [
+        {
+          "text": "We need a sturdy coat rack for all the winter coats.",
+          "translation": "我们需要一个结实的衣帽架来放所有的冬衣。"
+        },
+        {
+          "text": "Let's look for one made of metal or solid wood.",
+          "translation": "我们找一个金属或实木的吧。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "shoe rack",
+    "phonetic": "/ˈʃuː ræk/",
+    "definition": "n. 鞋架",
+    "example": "Please put your shoes on the shoe rack.",
+    "example_trans": "请把你的鞋子放在鞋架上。",
+    "derivatives": [],
+    "tags": ["家具", "玄关", "常用", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This shoe rack helps keep the entryway tidy.",
+          "translation": "这个鞋架有助于保持门厅整洁。"
+        },
+        {
+          "text": "Yes, it's much better than having shoes scattered everywhere.",
+          "translation": "是的，比鞋子到处乱放好多了。"
+        }
+      ],
+      [
+        {
+          "text": "How many pairs of shoes can this shoe rack hold?",
+          "translation": "这个鞋架能放多少双鞋？"
+        },
+        {
+          "text": "It has three tiers, so probably around nine pairs.",
+          "translation": "它有三层，所以大概能放九双左右。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "filing cabinet",
+    "phonetic": "/ˈfaɪlɪŋ ˈkæbɪnət/",
+    "definition": "n. 文件柜",
+    "example": "Important documents are stored in the filing cabinet.",
+    "example_trans": "重要文件存放在文件柜里。",
+    "derivatives": [],
+    "tags": ["家具", "办公室", "常用", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I need to organize the files in the filing cabinet.",
+          "translation": "我需要整理一下文件柜里的文件。"
+        },
+        {
+          "text": "That's a good idea. It's getting a bit messy.",
+          "translation": "好主意。它有点乱了。"
+        }
+      ],
+      [
+        {
+          "text": "Do you have the key for the filing cabinet?",
+          "translation": "你有文件柜的钥匙吗？"
+        },
+        {
+          "text": "Yes, it's in my desk drawer.",
+          "translation": "有的，在我书桌抽屉里。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "display cabinet",
+    "phonetic": "/dɪˈspleɪ ˈkæbɪnət/",
+    "definition": "n. 陈列柜；展示柜",
+    "example": "They keep their fine china in a display cabinet.",
+    "example_trans": "他们把精美的瓷器放在陈列柜里。",
+    "derivatives": [],
+    "tags": ["家具", "客厅", "餐厅", "短语"],
+    "categories": ["家具"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "This display cabinet has glass doors to show off the collectibles.",
+          "translation": "这个陈列柜有玻璃门来展示收藏品。"
+        },
+        {
+          "text": "It's a beautiful way to showcase your treasures.",
+          "translation": "这是展示你珍宝的好方法。"
+        }
+      ],
+      [
+        {
+          "text": "We should put some lights inside the display cabinet.",
+          "translation": "我们应该在陈列柜里装一些灯。"
+        },
+        {
+          "text": "That would highlight the items nicely.",
+          "translation": "那样能很好地突出物品。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "rocking chair",
+    "phonetic": "/ˈrɑːkɪŋ tʃer/",
+    "definition": "n. 摇椅",
+    "example": "The grandmother gently swayed in her rocking chair.",
+    "example_trans": "祖母在摇椅上轻轻地摇晃着。",
+    "derivatives": [],
+    "tags": ["家具", "客厅", "常用", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Sitting in a rocking chair is very soothing.",
+          "translation": "坐在摇椅上非常舒缓。"
+        },
+        {
+          "text": "I agree. It's perfect for relaxing after a long day.",
+          "translation": "我同意。忙碌一天后放松一下再好不过了。"
+        }
+      ],
+      [
+        {
+          "text": "My baby loves it when I rock her in the rocking chair.",
+          "translation": "我的宝宝喜欢我抱着她在摇椅上摇晃。"
+        },
+        {
+          "text": "It's a classic way to comfort a child.",
+          "translation": "这是安慰孩子的经典方式。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "beanbag chair",
+    "phonetic": "/ˈbiːnbæɡ tʃer/",
+    "definition": "n. 豆袋椅",
+    "example": "Kids love to jump on the beanbag chair.",
+    "example_trans": "孩子们喜欢在豆袋椅上跳。",
+    "derivatives": [],
+    "tags": ["家具", "休闲", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This beanbag chair is surprisingly comfortable.",
+          "translation": "这个豆袋椅出乎意料地舒服。"
+        },
+        {
+          "text": "Yes, it molds to your body shape.",
+          "translation": "是的，它能贴合你的身体形状。"
+        }
+      ],
+      [
+        {
+          "text": "We should get a couple of beanbag chairs for the game room.",
+          "translation": "我们应该为游戏室买几个豆袋椅。"
+        },
+        {
+          "text": "The kids would love that!",
+          "translation": "孩子们会喜欢的！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "folding chair",
+    "phonetic": "/ˈfoʊldɪŋ tʃer/",
+    "definition": "n. 折叠椅",
+    "example": "We need some extra folding chairs for the party.",
+    "example_trans": "聚会我们需要一些额外的折叠椅。",
+    "derivatives": [],
+    "tags": ["家具", "便携", "常用", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you grab a few folding chairs from the storage room?",
+          "translation": "你能从储藏室拿几把折叠椅吗？"
+        },
+        {
+          "text": "Sure, how many do you need?",
+          "translation": "当然，你需要多少把？"
+        }
+      ],
+      [
+        {
+          "text": "Folding chairs are very convenient for outdoor events.",
+          "translation": "折叠椅非常适合户外活动。"
+        },
+        {
+          "text": "Yes, they are easy to transport and set up.",
+          "translation": "是的，它们易于运输和安装。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "swivel chair",
+    "phonetic": "/ˈswɪvl tʃer/",
+    "definition": "n. 转椅",
+    "example": "My office chair is a swivel chair.",
+    "example_trans": "我的办公椅是转椅。",
+    "derivatives": [],
+    "tags": ["家具", "办公室", "常用", "短语"],
+    "categories": ["家具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This swivel chair allows me to turn around easily at my desk.",
+          "translation": "这把转椅让我在办公桌前轻松转身。"
+        },
+        {
+          "text": "That's very helpful for multitasking.",
+          "translation": "那对处理多项任务非常有帮助。"
+        }
+      ],
+      [
+        {
+          "text": "Is the height of this swivel chair adjustable?",
+          "translation": "这把转椅的高度可以调节吗？"
+        },
+        {
+          "text": "Yes, there's a lever underneath the seat.",
+          "translation": "是的，座位下面有一个杠杆。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "headboard",
+    "phonetic": "/ˈhedbɔːrd/",
+    "definition": "n. 床头板",
+    "example": "The bed has a wooden headboard.",
+    "example_trans": "这张床有一个木制床头板。",
+    "derivatives": [],
+    "tags": ["家具部件", "卧室"],
+    "categories": ["家具"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I'm thinking of getting a bed with an upholstered headboard.",
+          "translation": "我正在考虑买一张带软包床头板的床。"
+        },
+        {
+          "text": "That would be comfortable for sitting up and reading in bed.",
+          "translation": "那样在床上坐起来看书会很舒服。"
+        }
+      ],
+      [
+        {
+          "text": "Does this headboard come separately or with the bed frame?",
+          "translation": "这个床头板是单独出售还是和床架一起？"
+        },
+        {
+          "text": "It's sold as part of the complete bed set.",
+          "translation": "它是作为整套床具的一部分出售的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "footboard",
+    "phonetic": "/ˈfʊtbɔːrd/",
+    "definition": "n. 床尾板",
+    "example": "Some beds have both a headboard and a footboard.",
+    "example_trans": "有些床既有床头板也有床尾板。",
+    "derivatives": [],
+    "tags": ["家具部件", "卧室"],
+    "categories": ["家具"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I prefer beds without a footboard to have more legroom.",
+          "translation": "我更喜欢没有床尾板的床，这样腿部空间更大。"
+        },
+        {
+          "text": "That's understandable, especially if you are tall.",
+          "translation": "可以理解，特别是如果你个子高的话。"
+        }
+      ],
+      [
+        {
+          "text": "The footboard of this bed has intricate carvings.",
+          "translation": "这张床的床尾板有精致的雕刻。"
+        },
+        {
+          "text": "It adds a touch of elegance to the design.",
+          "translation": "它为设计增添了一丝优雅。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "mattress",
+    "phonetic": "/ˈmætrəs/",
+    "definition": "n. 床垫",
+    "example": "A good mattress is important for a good night's sleep.",
+    "example_trans": "一个好的床垫对良好的夜间睡眠很重要。",
+    "derivatives": [],
+    "tags": ["床上用品", "卧室", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How often should you replace your mattress?",
+          "translation": "你应该多久更换一次床垫？"
+        },
+        {
+          "text": "Experts usually recommend every 7 to 10 years.",
+          "translation": "专家通常建议每7到10年更换一次。"
+        }
+      ],
+      [
+        {
+          "text": "This new memory foam mattress is so comfortable.",
+          "translation": "这个新的记忆棉床垫太舒服了。"
+        },
+        {
+          "text": "I'm glad you like it. A good night's sleep is priceless.",
+          "translation": "我很高兴你喜欢它。良好的睡眠是无价的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "pillow",
+    "phonetic": "/ˈpɪloʊ/",
+    "definition": "n. 枕头",
+    "example": "I prefer a soft pillow.",
+    "example_trans": "我更喜欢软枕头。",
+    "derivatives": ["pillowcase (n.)"],
+    "tags": ["床上用品", "卧室", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want an extra pillow for your bed?",
+          "translation": "你的床需要额外的枕头吗？"
+        },
+        {
+          "text": "Yes, please. I like to sleep with two pillows.",
+          "translation": "是的，麻烦了。我喜欢用两个枕头睡觉。"
+        }
+      ],
+      [
+        {
+          "text": "This hotel has a pillow menu. You can choose different types.",
+          "translation": "这家酒店有枕头菜单，你可以选择不同类型的枕头。"
+        },
+        {
+          "text": "That's amazing! I'll try the feather pillow.",
+          "translation": "太棒了！我要试试羽绒枕。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "blanket",
+    "phonetic": "/ˈblæŋkɪt/",
+    "definition": "n. 毯子",
+    "example": "It's cold, I need an extra blanket.",
+    "example_trans": "天冷，我需要一条额外的毯子。",
+    "derivatives": [],
+    "tags": ["床上用品", "卧室", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Could you pass me that wool blanket? I'm feeling a bit chilly.",
+          "translation": "你能把那条羊毛毯子递给我吗？我感觉有点冷。"
+        },
+        {
+          "text": "Sure, here you are. It's very warm.",
+          "translation": "当然，给你。它很暖和。"
+        }
+      ],
+      [
+        {
+          "text": "We keep extra blankets in the linen closet.",
+          "translation": "我们把多余的毯子放在亚麻布壁橱里。"
+        },
+        {
+          "text": "Good to know, especially for guests.",
+          "translation": "知道了，特别是对客人来说。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "quilt",
+    "phonetic": "/kwɪlt/",
+    "definition": "n. 被子；被褥",
+    "example": "My grandmother made this beautiful quilt.",
+    "example_trans": "我祖母做了这床漂亮的被子。",
+    "derivatives": ["quilting (n.)"],
+    "tags": ["床上用品", "卧室", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This handmade quilt is a work of art.",
+          "translation": "这床手工被子是一件艺术品。"
+        },
+        {
+          "text": "Yes, it took many hours to complete.",
+          "translation": "是的，它花了很多小时才完成。"
+        }
+      ],
+      [
+        {
+          "text": "A quilt is perfect for a cozy night in.",
+          "translation": "被子非常适合在家里度过一个舒适的夜晚。"
+        },
+        {
+          "text": "I agree, especially with a good book and a cup of tea.",
+          "translation": "我同意，尤其是有本好书和一杯茶的时候。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "duvet",
+    "phonetic": "/duːˈveɪ/",
+    "definition": "n. 羽绒被",
+    "example": "A duvet is very warm in winter.",
+    "example_trans": "羽绒被冬天很暖和。",
+    "derivatives": ["duvet cover (n.)"],
+    "tags": ["床上用品", "卧室", "常用"],
+    "categories": ["家居用品"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I need to wash the duvet cover this weekend.",
+          "translation": "我这个周末需要洗一下被套。"
+        },
+        {
+          "text": "Okay, make sure it's completely dry before putting it back on.",
+          "translation": "好的，确保它完全干透再套回去。"
+        }
+      ],
+      [
+        {
+          "text": "Is this a down duvet or a synthetic one?",
+          "translation": "这是羽绒被还是合成纤维的？"
+        },
+        {
+          "text": "It's a down duvet, very light and warm.",
+          "translation": "是羽绒被，非常轻便保暖。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bedspread",
+    "phonetic": "/ˈbedspred/",
+    "definition": "n. 床罩",
+    "example": "The bedspread matches the curtains.",
+    "example_trans": "床罩和窗帘很相配。",
+    "derivatives": [],
+    "tags": ["床上用品", "卧室", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This silk bedspread feels luxurious.",
+          "translation": "这条丝绸床罩感觉很奢华。"
+        },
+        {
+          "text": "It adds a touch of elegance to the bedroom.",
+          "translation": "它为卧室增添了一丝优雅。"
+        }
+      ],
+      [
+        {
+          "text": "Where did you buy this colorful bedspread?",
+          "translation": "你这条色彩鲜艳的床罩是在哪里买的？"
+        },
+        {
+          "text": "I found it at a local market during my travels.",
+          "translation": "我是在旅行时当地的一个市场上找到的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "throw",
+    "phonetic": "/θroʊ/",
+    "definition": "n. （沙发等的）罩单，小盖毯",
+    "example": "She draped a colorful throw over the sofa.",
+    "example_trans": "她在沙发上披了一块色彩鲜艳的小盖毯。",
+    "derivatives": [],
+    "tags": ["家居装饰", "客厅"],
+    "categories": ["家居用品"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "A cozy throw is perfect for snuggling on the sofa.",
+          "translation": "一条舒适的小盖毯非常适合在沙发上依偎。"
+        },
+        {
+          "text": "Yes, especially on a cold evening.",
+          "translation": "是的，尤其是在寒冷的夜晚。"
+        }
+      ],
+      [
+        {
+          "text": "I'm looking for a throw to match my new armchair.",
+          "translation": "我正在找一条小盖毯来搭配我的新扶手椅。"
+        },
+        {
+          "text": "What color or pattern are you thinking of?",
+          "translation": "你想要什么颜色或图案的？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "blinds",
+    "phonetic": "/blaɪndz/",
+    "definition": "n.百叶窗；卷帘 (常用复数)",
+    "example": "Please lower the blinds, the sun is too bright.",
+    "example_trans": "请把百叶窗放下来，阳光太刺眼了。",
+    "derivatives": [],
+    "tags": ["家居装饰", "窗户", "常用"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you adjust the blinds to let in more light?",
+          "translation": "你能调节一下百叶窗让更多光线进来吗？"
+        },
+        {
+          "text": "Sure, how's this?",
+          "translation": "当然，这样可以吗？"
+        }
+      ],
+      [
+        {
+          "text": "These wooden blinds look very stylish.",
+          "translation": "这些木制百叶窗看起来很时尚。"
+        },
+        {
+          "text": "Yes, they add a natural touch to the room.",
+          "translation": "是的，它们为房间增添了自然气息。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "chandelier",
+    "phonetic": "/ˌʃændəˈlɪr/",
+    "definition": "n. 枝形吊灯",
+    "example": "A crystal chandelier hung from the ceiling.",
+    "example_trans": "天花板上挂着一盏水晶枝形吊灯。",
+    "derivatives": [],
+    "tags": ["照明", "家居装饰", "奢华"],
+    "categories": ["家居用品"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "Wow, that chandelier is magnificent!",
+          "translation": "哇，那盏枝形吊灯太壮观了！"
+        },
+        {
+          "text": "It's an antique from the 18th century.",
+          "translation": "它是18世纪的古董。"
+        }
+      ],
+      [
+        {
+          "text": "We need to clean the chandelier, it's covered in dust.",
+          "translation": "我们需要清洁一下吊灯，上面全是灰尘。"
+        },
+        {
+          "text": "That will be a delicate job. We should be careful.",
+          "translation": "那将是一项精细的工作，我们得小心。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "floor lamp",
+    "phonetic": "/ˈflɔːr læmp/",
+    "definition": "n. 落地灯",
+    "example": "The floor lamp provides good reading light.",
+    "example_trans": "落地灯提供了良好的阅读光线。",
+    "derivatives": [],
+    "tags": ["照明", "客厅", "常用", "短语"],
+    "categories": ["家居用品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I think a floor lamp would look great in that corner.",
+          "translation": "我觉得那个角落放一盏落地灯会很好看。"
+        },
+        {
+          "text": "Good idea, it would also provide some ambient lighting.",
+          "translation": "好主意，它也能提供一些氛围照明。"
+        }
+      ],
+      [
+        {
+          "text": "This floor lamp has a dimmer switch.",
+          "translation": "这盏落地灯有调光开关。"
+        },
+        {
+          "text": "That's useful for adjusting the brightness.",
+          "translation": "那对调节亮度很有用。"
+        }
+      ]
+    ]
+  }
+]

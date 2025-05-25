@@ -1,0 +1,1129 @@
+[
+  {
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "definition": "adv. 现在，立刻",
+    "example": "I need to leave now.",
+    "example_trans": "我现在需要离开。",
+    "derivatives": [],
+    "tags": ["基础词汇", "常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you help me with this now?",
+          "translation": "你现在能帮我处理这个吗？"
+        },
+        {
+          "text": "Sure, I'm free right now.",
+          "translation": "当然，我现在有空。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "then",
+    "phonetic": "/ðen/",
+    "definition": "adv. 那时，然后",
+    "example": "We went to the park, and then we had ice cream.",
+    "example_trans": "我们去了公园，然后我们吃了冰淇淋。",
+    "derivatives": [],
+    "tags": ["基础词汇", "常用", "时间副词"],
+    "categories": ["时间表达", "顺序"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What did you do then?",
+          "translation": "那你当时做了什么？"
+        },
+        {
+          "text": "Then I decided to call her.",
+          "translation": "然后我决定给她打电话。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "today",
+    "phonetic": "/təˈdeɪ/",
+    "definition": "n. & adv. 今天",
+    "example": "What are you doing today?",
+    "example_trans": "你今天要做什么？",
+    "derivatives": [],
+    "tags": ["基础词汇", "常用", "时间名词", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is the meeting scheduled for today?",
+          "translation": "会议是安排在今天吗？"
+        },
+        {
+          "text": "Yes, it's today at 2 PM.",
+          "translation": "是的，今天下午两点。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "/ˈjestərdeɪ/",
+    "definition": "n. & adv. 昨天",
+    "example": "I saw him yesterday.",
+    "example_trans": "我昨天见到他了。",
+    "derivatives": [],
+    "tags": ["基础词汇", "常用", "时间名词", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What did you do yesterday?",
+          "translation": "你昨天做了什么？"
+        },
+        {
+          "text": "Yesterday, I went shopping.",
+          "translation": "昨天我去购物了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "/təˈmɑːroʊ/",
+    "definition": "n. & adv. 明天",
+    "example": "I will see you tomorrow.",
+    "example_trans": "我明天见你。",
+    "derivatives": [],
+    "tags": ["基础词汇", "常用", "时间名词", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What are your plans for tomorrow?",
+          "translation": "你明天有什么计划？"
+        },
+        {
+          "text": "Tomorrow I'm going to the beach.",
+          "translation": "明天我要去海滩。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "soon",
+    "phonetic": "/suːn/",
+    "definition": "adv. 不久，很快",
+    "example": "He will be here soon.",
+    "example_trans": "他很快就到。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "When will the movie start?",
+          "translation": "电影什么时候开始？"
+        },
+        {
+          "text": "It will start soon, in about 5 minutes.",
+          "translation": "很快就开始了，大约5分钟后。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "late",
+    "phonetic": "/leɪt/",
+    "definition": "adv. & adj. 晚，迟",
+    "example": "Don't be late for the meeting.",
+    "example_trans": "开会别迟到。",
+    "derivatives": ["lately (adv.)", "lateness (n.)"],
+    "tags": ["常用", "时间副词", "时间形容词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Why are you so late?",
+          "translation": "你为什么这么晚？"
+        },
+        {
+          "text": "Sorry, I got stuck in traffic.",
+          "translation": "抱歉，我遇上堵车了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "early",
+    "phonetic": "/ˈɜːrli/",
+    "definition": "adv. & adj. 早",
+    "example": "I woke up early today.",
+    "example_trans": "我今天起得很早。",
+    "derivatives": ["earliness (n.)"],
+    "tags": ["常用", "时间副词", "时间形容词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you usually get to work early?",
+          "translation": "你通常很早上班吗？"
+        },
+        {
+          "text": "Yes, I like to start my day early.",
+          "translation": "是的，我喜欢早点开始我的一天。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "always",
+    "phonetic": "/ˈɔːlweɪz/",
+    "definition": "adv. 总是，一直",
+    "example": "She always arrives on time.",
+    "example_trans": "她总是准时到达。",
+    "derivatives": [],
+    "tags": ["常用", "频率副词"],
+    "categories": ["时间表达", "频率"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you always eat breakfast?",
+          "translation": "你总是吃早餐吗？"
+        },
+        {
+          "text": "Yes, I always start my day with a good meal.",
+          "translation": "是的，我总是以一顿丰盛的餐点开始我的一天。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "often",
+    "phonetic": "/ˈɔːfn/",
+    "definition": "adv. 常常，经常",
+    "example": "I often go for a walk in the evening.",
+    "example_trans": "我经常在晚上散步。",
+    "derivatives": [],
+    "tags": ["常用", "频率副词"],
+    "categories": ["时间表达", "频率"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How often do you visit your grandparents?",
+          "translation": "你多久看望一次你的祖父母？"
+        },
+        {
+          "text": "I visit them quite often, usually once a month.",
+          "translation": "我经常去看他们，通常一个月一次。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "sometimes",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "definition": "adv. 有时",
+    "example": "Sometimes I feel tired after work.",
+    "example_trans": "有时我下班后感到疲倦。",
+    "derivatives": [],
+    "tags": ["常用", "频率副词"],
+    "categories": ["时间表达", "频率"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you cook at home?",
+          "translation": "你在家做饭吗？"
+        },
+        {
+          "text": "Sometimes, when I have time.",
+          "translation": "有时，当我有时间的时候。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "never",
+    "phonetic": "/ˈnevər/",
+    "definition": "adv. 从不，决不",
+    "example": "I have never been to Paris.",
+    "example_trans": "我从未去过巴黎。",
+    "derivatives": [],
+    "tags": ["常用", "频率副词"],
+    "categories": ["时间表达", "频率"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Have you ever tried skydiving?",
+          "translation": "你尝试过跳伞吗？"
+        },
+        {
+          "text": "No, I've never done that. It seems too scary.",
+          "translation": "不，我从未做过。那看起来太吓人了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "usually",
+    "phonetic": "/ˈjuːʒuəli/",
+    "definition": "adv. 通常，平常",
+    "example": "I usually wake up at 7 AM.",
+    "example_trans": "我通常早上7点起床。",
+    "derivatives": [],
+    "tags": ["常用", "频率副词"],
+    "categories": ["时间表达", "频率"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What do you usually do on weekends?",
+          "translation": "你周末通常做什么？"
+        },
+        {
+          "text": "I usually relax at home or meet up with friends.",
+          "translation": "我通常在家放松或者和朋友见面。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "seldom",
+    "phonetic": "/ˈseldəm/",
+    "definition": "adv. 很少，不常",
+    "example": "He seldom talks about his past.",
+    "example_trans": "他很少谈论他的过去。",
+    "derivatives": [],
+    "tags": ["频率副词"],
+    "categories": ["时间表达", "频率"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you see him often?",
+          "translation": "你经常见到他吗？"
+        },
+        {
+          "text": "No, I seldom see him these days.",
+          "translation": "不，这些天我很少见到他。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "rarely",
+    "phonetic": "/ˈrerli/",
+    "definition": "adv. 很少地，罕有地",
+    "example": "She rarely eats meat.",
+    "example_trans": "她很少吃肉。",
+    "derivatives": [],
+    "tags": ["频率副词"],
+    "categories": ["时间表达", "频率"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Does it snow here in winter?",
+          "translation": "这里冬天会下雪吗？"
+        },
+        {
+          "text": "Rarely. We only get snow once every few years.",
+          "translation": "很少。我们每隔几年才会下一次雪。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "already",
+    "phonetic": "/ɔːlˈredi/",
+    "definition": "adv. 已经",
+    "example": "I have already finished my homework.",
+    "example_trans": "我已经完成我的作业了。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Have you eaten lunch yet?",
+          "translation": "你吃午饭了吗？"
+        },
+        {
+          "text": "Yes, I've already eaten.",
+          "translation": "是的，我已经吃过了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "yet",
+    "phonetic": "/jet/",
+    "definition": "adv. 还（用于否定句和疑问句）；conj. 然而",
+    "example": "Haven't you finished yet?",
+    "example_trans": "你还没完成吗？",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is dinner ready yet?",
+          "translation": "晚饭准备好了吗？"
+        },
+        {
+          "text": "Not yet, it will be ready in about 10 minutes.",
+          "translation": "还没有，大约10分钟后就好。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "definition": "adv. 仍然，还",
+    "example": "He is still sleeping.",
+    "example_trans": "他还在睡觉。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you still working on that project?",
+          "translation": "你还在做那个项目吗？"
+        },
+        {
+          "text": "Yes, I still have a lot to do.",
+          "translation": "是的，我还有很多事情要做。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "just",
+    "phonetic": "/dʒʌst/",
+    "definition": "adv. 刚刚；恰好；仅仅",
+    "example": "I just arrived.",
+    "example_trans": "我刚到。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Did you hear that noise?",
+          "translation": "你听到那个噪音了吗？"
+        },
+        {
+          "text": "Yes, I just heard it too.",
+          "translation": "是的，我也刚听到。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "ago",
+    "phonetic": "/əˈɡoʊ/",
+    "definition": "adv. ...以前",
+    "example": "I met him two years ago.",
+    "example_trans": "我两年前认识他的。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "When did you move here?",
+          "translation": "你什么时候搬到这里的？"
+        },
+        {
+          "text": "I moved here about five years ago.",
+          "translation": "我大约五年前搬到这里的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "before",
+    "phonetic": "/bɪˈfɔːr/",
+    "definition": "prep. & adv. & conj. 在...以前",
+    "example": "Please finish your work before you leave.",
+    "example_trans": "请在离开前完成你的工作。",
+    "derivatives": [],
+    "tags": ["常用", "时间表达"],
+    "categories": ["时间表达", "顺序"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Have we met before?",
+          "translation": "我们以前见过面吗？"
+        },
+        {
+          "text": "I don't think so. This is my first time here.",
+          "translation": "我想没有。这是我第一次来这里。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "after",
+    "phonetic": "/ˈæftər/",
+    "definition": "prep. & adv. & conj. 在...以后",
+    "example": "We can go for a walk after dinner.",
+    "example_trans": "我们晚饭后可以去散步。",
+    "derivatives": [],
+    "tags": ["常用", "时间表达"],
+    "categories": ["时间表达", "顺序"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What are you doing after work?",
+          "translation": "你下班后做什么？"
+        },
+        {
+          "text": "I'm going to the gym after work.",
+          "translation": "我下班后要去健身房。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "while",
+    "phonetic": "/waɪl/",
+    "definition": "conj. 当...的时候；n. 一会儿",
+    "example": "Don't talk while you are eating.",
+    "example_trans": "吃饭的时候不要说话。",
+    "derivatives": [],
+    "tags": ["常用", "时间连词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you wait here for a while?",
+          "translation": "你能在这里等一会儿吗？"
+        },
+        {
+          "text": "Sure, take your time.",
+          "translation": "当然，慢慢来。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "during",
+    "phonetic": "/ˈdʊrɪŋ/",
+    "definition": "prep. 在...期间",
+    "example": "He fell asleep during the movie.",
+    "example_trans": "他在看电影期间睡着了。",
+    "derivatives": [],
+    "tags": ["常用", "时间介词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What did you do during your vacation?",
+          "translation": "你假期期间做了什么？"
+        },
+        {
+          "text": "I traveled to Italy during my vacation.",
+          "translation": "我假期期间去了意大利旅行。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "since",
+    "phonetic": "/sɪns/",
+    "definition": "prep. & conj. & adv. 自从...以来",
+    "example": "I haven't seen him since last year.",
+    "example_trans": "我从去年以来就没见过他。",
+    "derivatives": [],
+    "tags": ["常用", "时间表达"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How long have you lived here?",
+          "translation": "你在这里住了多久了？"
+        },
+        {
+          "text": "I've lived here since 2010.",
+          "translation": "我从2010年起就住在这里了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "until",
+    "phonetic": "/ənˈtɪl/",
+    "definition": "prep. & conj. 直到...为止",
+    "example": "Wait until I come back.",
+    "example_trans": "等到我回来。",
+    "derivatives": ["till (conj./prep.)"],
+    "tags": ["常用", "时间表达"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can we leave now?",
+          "translation": "我们现在可以离开吗？"
+        },
+        {
+          "text": "Not yet, we have to wait until the rain stops.",
+          "translation": "还没，我们必须等到雨停。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "recently",
+    "phonetic": "/ˈriːsntli/",
+    "definition": "adv. 最近，近来",
+    "example": "I have been very busy recently.",
+    "example_trans": "我最近一直很忙。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Have you seen any good movies recently?",
+          "translation": "你最近看过什么好电影吗？"
+        },
+        {
+          "text": "Yes, I recently watched a fantastic sci-fi film.",
+          "translation": "是的，我最近看了一部很棒的科幻电影。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "lately",
+    "phonetic": "/ˈleɪtli/",
+    "definition": "adv. 近来，最近 (与 recently 意思相近，但更常用于现在完成时)",
+    "example": "Have you seen John lately?",
+    "example_trans": "你最近见到约翰了吗？",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "You seem tired lately.",
+          "translation": "你最近看起来很累。"
+        },
+        {
+          "text": "Yes, I haven't been sleeping well lately.",
+          "translation": "是的，我最近睡眠不太好。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "formerly",
+    "phonetic": "/ˈfɔːrmərli/",
+    "definition": "adv. 以前，从前",
+    "example": "This building was formerly a school.",
+    "example_trans": "这座建筑以前是一所学校。",
+    "derivatives": [],
+    "tags": ["时间副词"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is this your first time visiting this city?",
+          "translation": "这是你第一次来这个城市吗？"
+        },
+        {
+          "text": "No, I lived here formerly, about ten years ago.",
+          "translation": "不，我以前住在这里，大约十年前。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "previously",
+    "phonetic": "/ˈpriːviəsli/",
+    "definition": "adv. 先前，以前",
+    "example": "As I mentioned previously, the deadline is next Friday.",
+    "example_trans": "正如我之前提到的，截止日期是下周五。",
+    "derivatives": [],
+    "tags": ["时间副词"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Have you worked on a similar project before?",
+          "translation": "你以前做过类似的项目吗？"
+        },
+        {
+          "text": "Yes, I previously managed a team for a comparable task.",
+          "translation": "是的，我之前管理过一个团队执行类似的任务。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "eventually",
+    "phonetic": "/ɪˈventʃuəli/",
+    "definition": "adv. 最终，最后",
+    "example": "He eventually agreed to help.",
+    "example_trans": "他最终同意帮忙了。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达", "结果"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Did you manage to fix the car?",
+          "translation": "你把车修好了吗？"
+        },
+        {
+          "text": "Yes, eventually, after several hours of work.",
+          "translation": "是的，最终，在工作了几个小时之后。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "finally",
+    "phonetic": "/ˈfaɪnəli/",
+    "definition": "adv. 最后，终于",
+    "example": "After a long delay, the train finally arrived.",
+    "example_trans": "长时间延误后，火车终于到了。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达", "结果"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Did you finish your report?",
+          "translation": "你完成你的报告了吗？"
+        },
+        {
+          "text": "Yes, I finally submitted it this morning.",
+          "translation": "是的，我今天早上终于提交了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "immediately",
+    "phonetic": "/ɪˈmiːdiətli/",
+    "definition": "adv. 立刻，马上",
+    "example": "Call me immediately when you arrive.",
+    "example_trans": "你一到就立刻给我打电话。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "There's an emergency. We need your help.",
+          "translation": "有紧急情况，我们需要你的帮助。"
+        },
+        {
+          "text": "Okay, I'll come immediately.",
+          "translation": "好的，我马上就来。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "instantly",
+    "phonetic": "/ˈɪnstəntli/",
+    "definition": "adv. 立刻，马上 (与 immediately 类似)",
+    "example": "She recognized him instantly.",
+    "example_trans": "她立刻认出了他。",
+    "derivatives": [],
+    "tags": ["时间副词"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Did you like the gift?",
+          "translation": "你喜欢这个礼物吗？"
+        },
+        {
+          "text": "Yes, I loved it instantly!",
+          "translation": "是的，我立刻就爱上了它！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "meanwhile",
+    "phonetic": "/ˈmiːnwaɪl/",
+    "definition": "adv. 与此同时；n. 其间",
+    "example": "You set the table. Meanwhile, I'll finish cooking.",
+    "example_trans": "你摆好餐具。与此同时，我把菜做完。",
+    "derivatives": [],
+    "tags": ["时间副词"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "The flight is delayed for two hours.",
+          "translation": "航班延误了两个小时。"
+        },
+        {
+          "text": "Okay, meanwhile, let's grab some coffee.",
+          "translation": "好吧，在此期间，我们去喝点咖啡吧。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "afterwards",
+    "phonetic": "/ˈæftərwərdz/",
+    "definition": "adv. 后来，之后 (美式也用 afterward)",
+    "example": "We had dinner and went for a walk afterwards.",
+    "example_trans": "我们吃了晚饭，然后去散了步。",
+    "derivatives": ["afterward (adv.)"],
+    "tags": ["时间副词"],
+    "categories": ["时间表达", "顺序"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "The meeting was quite long.",
+          "translation": "会议相当长。"
+        },
+        {
+          "text": "Yes, and afterwards, we had a lot of follow-up tasks.",
+          "translation": "是的，之后我们还有很多后续任务。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "currently",
+    "phonetic": "/ˈkɜːrəntli/",
+    "definition": "adv. 当前，目前",
+    "example": "The product is currently unavailable.",
+    "example_trans": "该产品目前缺货。",
+    "derivatives": [],
+    "tags": ["常用", "时间副词"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What are you working on?",
+          "translation": "你目前在做什么？"
+        },
+        {
+          "text": "I'm currently developing a new software application.",
+          "translation": "我目前正在开发一个新的软件应用程序。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "presently",
+    "phonetic": "/ˈprezntli/",
+    "definition": "adv. 不久，马上；目前 (美式英语中更倾向于“目前”)",
+    "example": "He will be here presently. (不久) / She is presently working as a consultant. (目前)",
+    "example_trans": "他马上就到。/ 她目前担任顾问。",
+    "derivatives": [],
+    "tags": ["时间副词"],
+    "categories": ["时间表达"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "When can we expect the report?",
+          "translation": "我们什么时候能拿到报告？"
+        },
+        {
+          "text": "It will be ready presently, within the hour.",
+          "translation": "马上就好，一小时内。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "shortly",
+    "phonetic": "/ˈʃɔːrtli/",
+    "definition": "adv. 不久，很快；简短地",
+    "example": "The train will arrive shortly.",
+    "example_trans": "火车很快就要到了。",
+    "derivatives": [],
+    "tags": ["时间副词"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is the manager available?",
+          "translation": "经理现在有空吗？"
+        },
+        {
+          "text": "He will be with you shortly.",
+          "translation": "他很快就会来见您。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "henceforth",
+    "phonetic": "/ˌhensˈfɔːrθ/",
+    "definition": "adv. 从此以后 (较正式)",
+    "example": "Henceforth, all employees must wear ID badges.",
+    "example_trans": "从此以后，所有员工必须佩戴身份徽章。",
+    "derivatives": [],
+    "tags": ["时间副词", "正式"],
+    "categories": ["时间表达"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "The new policy has been announced.",
+          "translation": "新政策已经宣布了。"
+        },
+        {
+          "text": "Yes, and henceforth, we must adhere to it strictly.",
+          "translation": "是的，从此以后，我们必须严格遵守。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "hereafter",
+    "phonetic": "/ˌhɪrˈæftər/",
+    "definition": "adv. 此后，将来 (较正式，有时指死后)",
+    "example": "The rules stated hereafter must be followed.",
+    "example_trans": "此后阐述的规则必须遵守。",
+    "derivatives": [],
+    "tags": ["时间副词", "正式"],
+    "categories": ["时间表达"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "What are the long-term plans for the company?",
+          "translation": "公司未来的长期计划是什么？"
+        },
+        {
+          "text": "Hereafter, we will focus on expanding into new markets.",
+          "translation": "此后，我们将专注于拓展新市场。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "in the meantime",
+    "phonetic": "/ɪn ðə ˈmiːntaɪm/",
+    "definition": "phr. 在此期间，与此同时 (与 meanwhile 类似)",
+    "example": "The doctor will see you soon. In the meantime, please fill out this form.",
+    "example_trans": "医生很快就会见您。在此期间，请填写这张表格。",
+    "derivatives": [],
+    "tags": ["常用短语", "时间短语"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "My computer is being repaired. It will take a few days.",
+          "translation": "我的电脑正在修理，需要几天时间。"
+        },
+        {
+          "text": "Okay, in the meantime, you can use this spare laptop.",
+          "translation": "好的，在此期间，你可以使用这台备用笔记本电脑。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "from now on",
+    "phonetic": "/frəm naʊ ɒn/",
+    "definition": "phr. 从今以后",
+    "example": "From now on, I will exercise every day.",
+    "example_trans": "从今以后，我每天都会锻炼。",
+    "derivatives": [],
+    "tags": ["常用短语", "时间短语"],
+    "categories": ["时间表达"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I made a mistake, and I'm sorry.",
+          "translation": "我犯了个错误，我很抱歉。"
+        },
+        {
+          "text": "It's okay. Just try to be more careful from now on.",
+          "translation": "没关系。从今以后尽量小心一点。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "once upon a time",
+    "phonetic": "/wʌns əˈpɒn ə taɪm/",
+    "definition": "phr. 从前 (常用于故事开头)",
+    "example": "Once upon a time, there was a beautiful princess.",
+    "example_trans": "从前，有一位美丽的公主。",
+    "derivatives": [],
+    "tags": ["固定短语", "时间短语", "故事"],
+    "categories": ["时间表达", "叙事"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Grandpa, can you tell me a story?",
+          "translation": "爷爷，你能给我讲个故事吗？"
+        },
+        {
+          "text": "Of course. Once upon a time, in a faraway land...",
+          "translation": "当然。从前，在一个遥远的地方……"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "in due course",
+    "phonetic": "/ɪn djuː kɔːrs/",
+    "definition": "phr. 在适当的时候，到时候",
+    "example": "Your application will be processed in due course.",
+    "example_trans": "您的申请将在适当的时候得到处理。",
+    "derivatives": [],
+    "tags": ["固定短语", "时间短语", "正式"],
+    "categories": ["时间表达"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "When will I receive the results?",
+          "translation": "我什么时候能收到结果？"
+        },
+        {
+          "text": "You will be notified in due course.",
+          "translation": "到时候会通知您的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "sooner or later",
+    "phonetic": "/ˈsuːnər ɔːr ˈleɪtər/",
+    "definition": "phr. 迟早，早晚",
+    "example": "Sooner or later, the truth will come out.",
+    "example_trans": "真相迟早会大白于天下。",
+    "derivatives": [],
+    "tags": ["常用短语", "时间短语"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I'm worried about the exam.",
+          "translation": "我担心考试。"
+        },
+        {
+          "text": "Don't worry, if you study hard, you'll pass sooner or later.",
+          "translation": "别担心，如果你努力学习，迟早会通过的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "all day long",
+    "phonetic": "/ɔːl deɪ lɒŋ/",
+    "definition": "phr. 整天",
+    "example": "The kids played in the park all day long.",
+    "example_trans": "孩子们在公园里玩了一整天。",
+    "derivatives": [],
+    "tags": ["常用短语", "时间短语"],
+    "categories": ["时间表达", "持续时间"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "You look exhausted.",
+          "translation": "你看起来筋疲力尽。"
+        },
+        {
+          "text": "I've been working all day long.",
+          "translation": "我工作了一整天了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "day after day",
+    "phonetic": "/deɪ ˈæftər deɪ/",
+    "definition": "phr. 日复一日地",
+    "example": "He did the same boring job day after day.",
+    "example_trans": "他日复一日地做着同样乏味的工作。",
+    "derivatives": [],
+    "tags": ["常用短语", "时间短语", "重复"],
+    "categories": ["时间表达", "频率"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How's your new routine?",
+          "translation": "你的新日常怎么样？"
+        },
+        {
+          "text": "It's a bit monotonous, doing the same things day after day.",
+          "translation": "有点单调，日复一日地做同样的事情。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "for the time being",
+    "phonetic": "/fər ðə taɪm ˈbiːɪŋ/",
+    "definition": "phr. 暂时，眼下",
+    "example": "For the time being, we'll have to manage with what we have.",
+    "example_trans": "暂时，我们只能用现有的东西应付一下了。",
+    "derivatives": [],
+    "tags": ["常用短语", "时间短语"],
+    "categories": ["时间表达"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is this the final plan?",
+          "translation": "这是最终计划吗？"
+        },
+        {
+          "text": "No, this is just for the time being. We might make changes later.",
+          "translation": "不，这只是暂时的。我们稍后可能会做些更改。"
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,2049 @@
+[
+  {
+    "word": "ability",
+    "phonetic": "/əˈbɪləti/",
+    "definition": "The power or skill to do something.",
+    "example": "She has the ability to solve complex problems.",
+    "example_trans": "她有解决复杂问题的能力。",
+    "derivatives": ["able"],
+    "tags": ["noun", "skill", "capacity"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you think I have the ability to learn Spanish?",
+          "translation": "你认为我有能力学习西班牙语吗？"
+        },
+        {
+          "text": "Yes, with practice, anyone has the ability to learn a new language.",
+          "translation": "是的，通过练习，任何人都有能力学习一门新语言。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "accept",
+    "phonetic": "/əkˈsɛpt/",
+    "definition": "To agree to take something, or to consider something as true.",
+    "example": "He accepted the job offer.",
+    "example_trans": "他接受了那份工作邀请。",
+    "derivatives": ["acceptable", "acceptance"],
+    "tags": ["verb", "agree", "receive"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Will you accept my apology?",
+          "translation": "你会接受我的道歉吗？"
+        },
+        {
+          "text": "Yes, I accept your apology.",
+          "translation": "是的，我接受你的道歉。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "achieve",
+    "phonetic": "/əˈtʃiv/",
+    "definition": "To succeed in finishing something or reaching an aim, especially after a lot of work or effort.",
+    "example": "She worked hard to achieve her goals.",
+    "example_trans": "她努力工作以实现她的目标。",
+    "derivatives": ["achievement"],
+    "tags": ["verb", "succeed", "accomplish"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What do you want to achieve this year?",
+          "translation": "你今年想实现什么目标？"
+        },
+        {
+          "text": "I want to achieve a good grade in my exams.",
+          "translation": "我想在考试中取得好成绩。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "activity",
+    "phonetic": "/ækˈtɪvəti/",
+    "definition": "Something that you do, or the state of doing something.",
+    "example": "Outdoor activities are good for health.",
+    "example_trans": "户外活动有益健康。",
+    "derivatives": ["active"],
+    "tags": ["noun", "action", "pursuit"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What's your favorite weekend activity?",
+          "translation": "你最喜欢的周末活动是什么？"
+        },
+        {
+          "text": "My favorite activity is hiking in the mountains.",
+          "translation": "我最喜欢的活动是在山里徒步。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "actually",
+    "phonetic": "/ˈæktʃuəli/",
+    "definition": "In fact or really.",
+    "example": "I thought he was joking, but he was actually serious.",
+    "example_trans": "我以为他在开玩笑，但他实际上是认真的。",
+    "derivatives": [],
+    "tags": ["adverb", "reality", "truth"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Did you enjoy the movie?",
+          "translation": "你喜欢这部电影吗？"
+        },
+        {
+          "text": "Actually, I found it a bit boring.",
+          "translation": "实际上，我觉得有点无聊。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "advantage",
+    "phonetic": "/ədˈvæntɪdʒ/",
+    "definition": "A condition giving a greater chance of success.",
+    "example": "His height gives him an advantage in basketball.",
+    "example_trans": "他的身高让他在篮球方面有优势。",
+    "derivatives": [],
+    "tags": ["noun", "benefit", "upper hand"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What's the advantage of learning English?",
+          "translation": "学习英语有什么好处？"
+        },
+        {
+          "text": "One advantage is that it can help you communicate with more people.",
+          "translation": "一个好处是它可以帮助你与更多人交流。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "advice",
+    "phonetic": "/ədˈvaɪs/",
+    "definition": "An opinion that someone offers you about what you should do or how you should act in a particular situation.",
+    "example": "Can you give me some advice on how to study better?",
+    "example_trans": "你能给我一些关于如何更好地学习的建议吗？",
+    "derivatives": ["advise"],
+    "tags": ["noun", "suggestion", "guidance"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I need some advice about my career.",
+          "translation": "我需要一些关于我职业的建议。"
+        },
+        {
+          "text": "My advice is to follow your passion.",
+          "translation": "我的建议是追随你的热情。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "affect",
+    "phonetic": "/əˈfɛkt/",
+    "definition": "To have an influence on someone or something, or to cause a change in someone or something.",
+    "example": "The weather can affect your mood.",
+    "example_trans": "天气会影响你的心情。",
+    "derivatives": [],
+    "tags": ["verb", "influence", "impact"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How does pollution affect the environment?",
+          "translation": "污染如何影响环境？"
+        },
+        {
+          "text": "Pollution can seriously affect air and water quality.",
+          "translation": "污染会严重影响空气和水质。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "definition": "Feeling fear or worry.",
+    "example": "She is afraid of spiders.",
+    "example_trans": "她害怕蜘蛛。",
+    "derivatives": [],
+    "tags": ["adjective", "scared", "fearful"],
+    "categories": ["feelings"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you afraid of the dark?",
+          "translation": "你怕黑吗？"
+        },
+        {
+          "text": "Yes, I'm a little afraid of the dark.",
+          "translation": "是的，我有点怕黑。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "agree",
+    "phonetic": "/əˈɡri/",
+    "definition": "To have the same opinion.",
+    "example": "I agree with your decision.",
+    "example_trans": "我同意你的决定。",
+    "derivatives": ["agreement", "disagree"],
+    "tags": ["verb", "concur", "consent"],
+    "categories": ["communication"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you agree that we should start early?",
+          "translation": "你同意我们应该早点开始吗？"
+        },
+        {
+          "text": "Yes, I agree. It's a good idea.",
+          "translation": "是的，我同意。这是个好主意。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "allow",
+    "phonetic": "/əˈlaʊ/",
+    "definition": "To give permission for someone to do something, or to not prevent something from happening.",
+    "example": "My parents don't allow me to stay out late.",
+    "example_trans": "我父母不允许我晚归。",
+    "derivatives": ["allowance"],
+    "tags": ["verb", "permit", "let"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Are we allowed to use calculators in the exam?",
+          "translation": "考试允许我们使用计算器吗？"
+        },
+        {
+          "text": "No, calculators are not allowed.",
+          "translation": "不，不允许使用计算器。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "almost",
+    "phonetic": "/ˈɔlmoʊst/",
+    "definition": "Nearly, but not completely or not quite.",
+    "example": "I'm almost finished with my homework.",
+    "example_trans": "我的作业快完成了。",
+    "derivatives": [],
+    "tags": ["adverb", "nearly", "close to"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is the project done?",
+          "translation": "项目完成了吗？"
+        },
+        {
+          "text": "Almost, just a few more details to add.",
+          "translation": "差不多了，只需要再添加一些细节。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "already",
+    "phonetic": "/ɔlˈrɛdi/",
+    "definition": "Before now, or before a particular time in the past.",
+    "example": "I've already seen that movie.",
+    "example_trans": "我已经看过那部电影了。",
+    "derivatives": [],
+    "tags": ["adverb", "previously", "by now"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Have you eaten lunch?",
+          "translation": "你吃午饭了吗？"
+        },
+        {
+          "text": "Yes, I've already eaten.",
+          "translation": "是的，我已经吃过了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "although",
+    "phonetic": "/ɔlˈðoʊ/",
+    "definition": "Despite the fact that; even though.",
+    "example": "Although it was raining, we went for a walk.",
+    "example_trans": "尽管下着雨，我们还是去散步了。",
+    "derivatives": [],
+    "tags": ["conjunction", "though", "in spite of"],
+    "categories": ["linking words"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Did you finish the race?",
+          "translation": "你完成比赛了吗？"
+        },
+        {
+          "text": "Yes, although it was very difficult.",
+          "translation": "是的，尽管非常困难。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "amazing",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "definition": "Extremely surprising or very good.",
+    "example": "The view from the top of the mountain was amazing.",
+    "example_trans": "从山顶看下去的景色太棒了。",
+    "derivatives": ["amaze", "amazement"],
+    "tags": ["adjective", "wonderful", "incredible"],
+    "categories": ["descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How was your trip?",
+          "translation": "你的旅行怎么样？"
+        },
+        {
+          "text": "It was amazing! I had a great time.",
+          "translation": "太棒了！我玩得很开心。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "among",
+    "phonetic": "/əˈmʌŋ/",
+    "definition": "In the middle of or surrounded by other things.",
+    "example": "The house is hidden among the trees.",
+    "example_trans": "房子隐藏在树林中。",
+    "derivatives": [],
+    "tags": ["preposition", "between", "amidst"],
+    "categories": ["prepositions"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Where is the cat?",
+          "translation": "猫在哪里？"
+        },
+        {
+          "text": "It's sleeping among the cushions.",
+          "translation": "它睡在垫子中间。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "amount",
+    "phonetic": "/əˈmaʊnt/",
+    "definition": "A quantity of something.",
+    "example": "He paid a large amount of money for the car.",
+    "example_trans": "他花了一大笔钱买那辆车。",
+    "derivatives": [],
+    "tags": ["noun", "quantity", "sum"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How much sugar do we need?",
+          "translation": "我们需要多少糖？"
+        },
+        {
+          "text": "Just a small amount.",
+          "translation": "只需要少量。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "ancient",
+    "phonetic": "/ˈeɪnʃənt/",
+    "definition": "Of or from a long time ago, having lasted for a very long time.",
+    "example": "We visited the ancient ruins in Rome.",
+    "example_trans": "我们参观了罗马的古老遗址。",
+    "derivatives": [],
+    "tags": ["adjective", "old", "historic"],
+    "categories": ["history"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is this an ancient artifact?",
+          "translation": "这是一件古代文物吗？"
+        },
+        {
+          "text": "Yes, it's from an ancient civilization.",
+          "translation": "是的，它来自一个古老的文明。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "another",
+    "phonetic": "/əˈnʌðər/",
+    "definition": "One more person or thing or an extra amount.",
+    "example": "Can I have another piece of cake?",
+    "example_trans": "我能再要一块蛋糕吗？",
+    "derivatives": [],
+    "tags": ["determiner", "adjective", "additional"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This book is interesting. Do you have another one like it?",
+          "translation": "这本书很有趣。你还有类似的书吗？"
+        },
+        {
+          "text": "Yes, here's another one by the same author.",
+          "translation": "是的，这是同一位作者的另一本书。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "answer",
+    "phonetic": "/ˈænsər/",
+    "definition": "A reaction to a question, letter, phone call, etc.",
+    "example": "I didn't know the answer to the question.",
+    "example_trans": "我不知道那个问题的答案。",
+    "derivatives": [],
+    "tags": ["noun", "verb", "reply", "solution"],
+    "categories": ["communication"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What's the answer to question 5?",
+          "translation": "第五题的答案是什么？"
+        },
+        {
+          "text": "I think the answer is B.",
+          "translation": "我认为答案是B。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "appear",
+    "phonetic": "/əˈpɪr/",
+    "definition": "To start to be seen or to be present.",
+    "example": "A ship appeared on the horizon.",
+    "example_trans": "一艘船出现在地平线上。",
+    "derivatives": ["appearance", "disappear"],
+    "tags": ["verb", "seem", "emerge"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "When will the results appear online?",
+          "translation": "结果什么时候会出现在网上？"
+        },
+        {
+          "text": "They should appear by tomorrow morning.",
+          "translation": "它们应该在明天早上之前出现。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "argue",
+    "phonetic": "/ˈɑrɡju/",
+    "definition": "To speak angrily to someone, telling that person that you disagree with them.",
+    "example": "They always argue about money.",
+    "example_trans": "他们总是为钱争吵。",
+    "derivatives": ["argument"],
+    "tags": ["verb", "dispute", "quarrel"],
+    "categories": ["communication"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Why are you arguing with your brother?",
+          "translation": "你为什么和你哥哥吵架？"
+        },
+        {
+          "text": "We often argue about small things.",
+          "translation": "我们经常为小事争吵。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "definition": "To reach a place, especially at the end of a journey.",
+    "example": "What time does the train arrive?",
+    "example_trans": "火车什么时候到？",
+    "derivatives": ["arrival"],
+    "tags": ["verb", "reach", "get to"],
+    "categories": ["travel"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "When did you arrive in London?",
+          "translation": "你什么时候到达伦敦的？"
+        },
+        {
+          "text": "I arrived yesterday evening.",
+          "translation": "我昨天晚上到的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "article",
+    "phonetic": "/ˈɑrtɪkl/",
+    "definition": "A piece of writing on a particular subject in a newspaper or magazine, or on the internet.",
+    "example": "I read an interesting article about climate change.",
+    "example_trans": "我读了一篇关于气候变化的有趣文章。",
+    "derivatives": [],
+    "tags": ["noun", "writing", "report"],
+    "categories": ["reading"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Did you see the article in today's newspaper?",
+          "translation": "你看到今天报纸上的那篇文章了吗？"
+        },
+        {
+          "text": "Yes, it was a very informative article.",
+          "translation": "是的，那是一篇信息量很大的文章。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "as well as",
+    "phonetic": "/æz wɛl æz/",
+    "definition": "In addition; and also.",
+    "example": "She is a talented singer as well as a great actress.",
+    "example_trans": "她既是一位才华横溢的歌手，也是一位出色的演员。",
+    "derivatives": [],
+    "tags": ["phrase", "in addition to", "also"],
+    "categories": ["linking words"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you like tea or coffee?",
+          "translation": "你喜欢茶还是咖啡？"
+        },
+        {
+          "text": "I like tea, as well as coffee sometimes.",
+          "translation": "我喜欢茶，有时也喜欢咖啡。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "ask for",
+    "phonetic": "/æsk fɔr/",
+    "definition": "To request something.",
+    "example": "He asked for a glass of water.",
+    "example_trans": "他要了一杯水。",
+    "derivatives": [],
+    "tags": ["phrasal verb", "request", "demand"],
+    "categories": ["communication"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What did you ask for your birthday?",
+          "translation": "你生日要了什么礼物？"
+        },
+        {
+          "text": "I asked for a new bike.",
+          "translation": "我要了一辆新自行车。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "attention",
+    "phonetic": "/əˈtɛnʃən/",
+    "definition": "Notice, thought, or interest.",
+    "example": "Please pay attention to what I'm saying.",
+    "example_trans": "请注意听我说的话。",
+    "derivatives": ["attentive"],
+    "tags": ["noun", "focus", "concentration"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "May I have your attention, please?",
+          "translation": "请大家注意一下，好吗？"
+        },
+        {
+          "text": "The teacher asked for the students' attention.",
+          "translation": "老师要求学生们集中注意力。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "average",
+    "phonetic": "/ˈævərɪdʒ/",
+    "definition": "The result you get by adding two or more amounts together and dividing the total by the number of amounts.",
+    "example": "The average age of the students is 15.",
+    "example_trans": "学生的平均年龄是15岁。",
+    "derivatives": [],
+    "tags": ["noun", "adjective", "mean", "typical"],
+    "categories": ["math"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What's the average temperature in summer here?",
+          "translation": "这里夏天的平均温度是多少？"
+        },
+        {
+          "text": "The average temperature is around 25 degrees Celsius.",
+          "translation": "平均温度大约是25摄氏度。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "avoid",
+    "phonetic": "/əˈvɔɪd/",
+    "definition": "To stay away from someone or something.",
+    "example": "You should avoid eating too much junk food.",
+    "example_trans": "你应该避免吃太多垃圾食品。",
+    "derivatives": ["avoidance"],
+    "tags": ["verb", "prevent", "shun"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Why are you trying to avoid me?",
+          "translation": "你为什么试图避开我？"
+        },
+        {
+          "text": "I'm not avoiding you, I've just been very busy.",
+          "translation": "我没有避开你，我只是最近很忙。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "award",
+    "phonetic": "/əˈwɔrd/",
+    "definition": "A prize or an amount of money that is given to someone following an official decision.",
+    "example": "She won an award for her excellent performance.",
+    "example_trans": "她因出色的表演获得了一个奖项。",
+    "derivatives": [],
+    "tags": ["noun", "verb", "prize", "honor"],
+    "categories": ["achievements"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Did he receive any award for his discovery?",
+          "translation": "他的发现获得了什么奖项吗？"
+        },
+        {
+          "text": "Yes, he was given a prestigious science award.",
+          "translation": "是的，他获得了一个著名的科学奖项。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "awful",
+    "phonetic": "/ˈɔfəl/",
+    "definition": "Extremely bad or unpleasant.",
+    "example": "The weather was awful yesterday.",
+    "example_trans": "昨天的天气糟透了。",
+    "derivatives": [],
+    "tags": ["adjective", "terrible", "horrible"],
+    "categories": ["descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How was the movie?",
+          "translation": "电影怎么样？"
+        },
+        {
+          "text": "It was awful. I didn't like it at all.",
+          "translation": "糟透了。我一点也不喜欢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "balance",
+    "phonetic": "/ˈbæləns/",
+    "definition": "A state where things are of equal weight or force.",
+    "example": "It's important to find a balance between work and play.",
+    "example_trans": "在工作和娱乐之间找到平衡很重要。",
+    "derivatives": [],
+    "tags": ["noun", "verb", "equilibrium", "stability"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How do you maintain a work-life balance?",
+          "translation": "你如何保持工作与生活的平衡？"
+        },
+        {
+          "text": "I try to balance my time эффективeffectively.",
+          "translation": "我努力有效地平衡我的时间。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "basic",
+    "phonetic": "/ˈbeɪsɪk/",
+    "definition": "Forming an essential foundation or starting point; fundamental.",
+    "example": "We learned the basic rules of the game.",
+    "example_trans": "我们学习了游戏的基本规则。",
+    "derivatives": ["basically", "basis"],
+    "tags": ["adjective", "fundamental", "essential"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you understand the basic concepts?",
+          "translation": "你理解基本概念吗？"
+        },
+        {
+          "text": "Yes, I have a basic understanding.",
+          "translation": "是的，我有一个基本的了解。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "beautiful",
+    "phonetic": "/ˈbjutəfəl/",
+    "definition": "Pleasing the senses or mind aesthetically.",
+    "example": "The sunset was beautiful.",
+    "example_trans": "日落很美。",
+    "derivatives": ["beauty", "beautifully"],
+    "tags": ["adjective", "pretty", "lovely", "gorgeous"],
+    "categories": ["descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What a beautiful painting!",
+          "translation": "多美的一幅画啊！"
+        },
+        {
+          "text": "Thank you, I think it's beautiful too.",
+          "translation": "谢谢，我也觉得它很美。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "become",
+    "phonetic": "/bɪˈkʌm/",
+    "definition": "To begin to be.",
+    "example": "He wants to become a doctor.",
+    "example_trans": "他想成为一名医生。",
+    "derivatives": [],
+    "tags": ["verb", "turn into", "grow into"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What do you want to become when you grow up?",
+          "translation": "你长大后想成为什么？"
+        },
+        {
+          "text": "I want to become an engineer.",
+          "translation": "我想成为一名工程师。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "begin",
+    "phonetic": "/bɪˈɡɪn/",
+    "definition": "To start to do something.",
+    "example": "The class will begin at 9 AM.",
+    "example_trans": "课程将于上午9点开始。",
+    "derivatives": ["beginning"],
+    "tags": ["verb", "start", "commence"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "When does the movie begin?",
+          "translation": "电影什么时候开始？"
+        },
+        {
+          "text": "It will begin in five minutes.",
+          "translation": "五分钟后开始。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "believe",
+    "phonetic": "/bɪˈliv/",
+    "definition": "To accept that something is true, especially without proof.",
+    "example": "I believe what you're saying.",
+    "example_trans": "我相信你所说的话。",
+    "derivatives": ["belief", "believable"],
+    "tags": ["verb", "trust", "think"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you believe in ghosts?",
+          "translation": "你相信有鬼吗？"
+        },
+        {
+          "text": "No, I don't believe in them.",
+          "translation": "不，我不相信。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "benefit",
+    "phonetic": "/ˈbɛnəfɪt/",
+    "definition": "An advantage or profit gained from something.",
+    "example": "Exercise has many health benefits.",
+    "example_trans": "锻炼对健康有很多好处。",
+    "derivatives": ["beneficial"],
+    "tags": ["noun", "verb", "advantage", "good"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What are the benefits of reading books?",
+          "translation": "读书有什么好处？"
+        },
+        {
+          "text": "One benefit is that it expands your vocabulary.",
+          "translation": "一个好处是它可以扩大你的词汇量。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "best",
+    "phonetic": "/bɛst/",
+    "definition": "Of the highest quality, to the greatest degree.",
+    "example": "This is the best cake I've ever tasted.",
+    "example_trans": "这是我吃过的最好吃的蛋糕。",
+    "derivatives": [],
+    "tags": ["adjective", "adverb", "superlative of good"],
+    "categories": ["descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Who is your best friend?",
+          "translation": "谁是你最好的朋友？"
+        },
+        {
+          "text": "My best friend is Sarah.",
+          "translation": "我最好的朋友是莎拉。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "better",
+    "phonetic": "/ˈbɛtər/",
+    "definition": "Of a higher standard, or more suitable, pleasing, or effective than other things or people.",
+    "example": "This book is better than the last one I read.",
+    "example_trans": "这本书比我上次读的那本好。",
+    "derivatives": [],
+    "tags": ["adjective", "adverb", "comparative of good"],
+    "categories": ["descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How are you feeling today?",
+          "translation": "你今天感觉怎么样？"
+        },
+        {
+          "text": "I'm feeling much better, thank you.",
+          "translation": "我感觉好多了，谢谢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "between",
+    "phonetic": "/bɪˈtwin/",
+    "definition": "In or into the space that separates two places, people, or objects.",
+    "example": "The shop is between the bank and the post office.",
+    "example_trans": "商店在银行和邮局之间。",
+    "derivatives": [],
+    "tags": ["preposition", "among"],
+    "categories": ["prepositions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What's the difference between these two words?",
+          "translation": "这两个词之间有什么区别？"
+        },
+        {
+          "text": "There is a subtle difference in meaning between them.",
+          "translation": "它们在意思上有细微的区别。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "billion",
+    "phonetic": "/ˈbɪljən/",
+    "definition": "The number 1,000,000,000.",
+    "example": "The world population is over 7 billion.",
+    "example_trans": "世界人口超过70亿。",
+    "derivatives": [],
+    "tags": ["noun", "number"],
+    "categories": ["numbers"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How much does that company make per year?",
+          "translation": "那家公司每年赚多少钱？"
+        },
+        {
+          "text": "They make billions of dollars.",
+          "translation": "他们赚数十亿美元。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "book",
+    "phonetic": "/bʊk/",
+    "definition": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+    "example": "I'm reading a good book.",
+    "example_trans": "我正在读一本好书。",
+    "derivatives": [],
+    "tags": ["noun", "verb (to reserve)"],
+    "categories": ["reading", "objects"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of books do you like to read?",
+          "translation": "你喜欢读什么类型的书？"
+        },
+        {
+          "text": "I like reading adventure books.",
+          "translation": "我喜欢读冒险故事书。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "boring",
+    "phonetic": "/ˈbɔrɪŋ/",
+    "definition": "Not interesting or exciting.",
+    "example": "The movie was so boring that I fell asleep.",
+    "example_trans": "那部电影太无聊了，我都睡着了。",
+    "derivatives": ["bore", "boredom"],
+    "tags": ["adjective", "dull", "uninteresting"],
+    "categories": ["descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How was the lecture?",
+          "translation": "讲座怎么样？"
+        },
+        {
+          "text": "It was quite boring, to be honest.",
+          "translation": "老实说，挺无聊的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "both",
+    "phonetic": "/boʊθ/",
+    "definition": "Used to refer to two people or things, regarded and identified together.",
+    "example": "Both of my parents are teachers.",
+    "example_trans": "我的父母都是老师。",
+    "derivatives": [],
+    "tags": ["determiner", "pronoun", "conjunction"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want tea or coffee?",
+          "translation": "你想要茶还是咖啡？"
+        },
+        {
+          "text": "I'll have both, please.",
+          "translation": "请给我两种都要。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bother",
+    "phonetic": "/ˈbɑðər/",
+    "definition": "To make someone feel worried or upset.",
+    "example": "Don't bother him while he's working.",
+    "example_trans": "他工作的时候别打扰他。",
+    "derivatives": [],
+    "tags": ["verb", "annoy", "trouble"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Sorry to bother you, but could you help me?",
+          "translation": "抱歉打扰你，但你能帮我一下吗？"
+        },
+        {
+          "text": "It's no bother at all. What do you need?",
+          "translation": "一点也不麻烦。你需要什么？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "brave",
+    "phonetic": "/breɪv/",
+    "definition": "Showing no fear of dangerous or difficult things.",
+    "example": "The firefighter was very brave to enter the burning building.",
+    "example_trans": "消防员非常勇敢地进入了燃烧的建筑物。",
+    "derivatives": ["bravery"],
+    "tags": ["adjective", "courageous", "fearless"],
+    "categories": ["character traits"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Were you scared during the storm?",
+          "translation": "暴风雨期间你害怕吗？"
+        },
+        {
+          "text": "A little, but my older brother was very brave.",
+          "translation": "有点，但我哥哥非常勇敢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "break",
+    "phonetic": "/breɪk/",
+    "definition": "To separate into pieces as a result of a blow, shock, or strain.",
+    "example": "Be careful not to break the glass.",
+    "example_trans": "小心别打碎玻璃。",
+    "derivatives": ["broken"],
+    "tags": ["verb", "noun (a pause)"],
+    "categories": ["actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What happened to your arm?",
+          "translation": "你的胳膊怎么了？"
+        },
+        {
+          "text": "I fell and I think I might break it.",
+          "translation": "我摔倒了，我想我可能把它摔断了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "brilliant",
+    "phonetic": "/ˈbrɪljənt/",
+    "definition": "Extremely clever or skillful.",
+    "example": "She had a brilliant idea for the project.",
+    "example_trans": "她对这个项目有一个绝妙的主意。",
+    "derivatives": ["brilliance"],
+    "tags": ["adjective", "excellent", "very smart"],
+    "categories": ["descriptions"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How was the concert?",
+          "translation": "音乐会怎么样？"
+        },
+        {
+          "text": "It was brilliant! The band was amazing.",
+          "translation": "太棒了！乐队非常出色。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bring",
+    "phonetic": "/brɪŋ/",
+    "definition": "To take or carry someone or something to a place or a person.",
+    "example": "Please bring your books to class.",
+    "example_trans": "请把你的书带到课堂上来。",
+    "derivatives": [],
+    "tags": ["verb", "carry", "take"],
+    "categories": ["actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you bring me a glass of water?",
+          "translation": "你能给我拿杯水吗？"
+        },
+        {
+          "text": "Sure, I'll bring it right away.",
+          "translation": "当然，我马上拿来。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "build",
+    "phonetic": "/bɪld/",
+    "definition": "To construct (something, typically something large) by putting parts or material together over a period of time.",
+    "example": "They are planning to build a new bridge.",
+    "example_trans": "他们计划建造一座新桥。",
+    "derivatives": ["building", "builder"],
+    "tags": ["verb", "construct", "erect"],
+    "categories": ["actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What are they building over there?",
+          "translation": "他们在那里建什么？"
+        },
+        {
+          "text": "They are building a new shopping mall.",
+          "translation": "他们正在建一个新的购物中心。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "definition": "Having a great deal to do.",
+    "example": "I'm too busy to talk right now.",
+    "example_trans": "我现在太忙了，没时间说话。",
+    "derivatives": ["business"],
+    "tags": ["adjective", "occupied", "engaged"],
+    "categories": ["states"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you free this afternoon?",
+          "translation": "你今天下午有空吗？"
+        },
+        {
+          "text": "No, I'm very busy today.",
+          "translation": "不，我今天很忙。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "buy",
+    "phonetic": "/baɪ/",
+    "definition": "To obtain something by paying money for it.",
+    "example": "I need to buy some groceries.",
+    "example_trans": "我需要买些食品杂货。",
+    "derivatives": [],
+    "tags": ["verb", "purchase"],
+    "categories": ["shopping", "actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What did you buy at the store?",
+          "translation": "你在商店买了什么？"
+        },
+        {
+          "text": "I bought a new shirt and some snacks.",
+          "translation": "我买了一件新衬衫和一些零食。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "call",
+    "phonetic": "/kɔl/",
+    "definition": "To give someone or something a name, or to know or address someone by a particular name.",
+    "example": "My name is John, but you can call me Johnny.",
+    "example_trans": "我叫约翰，但你可以叫我强尼。",
+    "derivatives": [],
+    "tags": ["verb", "noun (phone call)", "name", "shout"],
+    "categories": ["communication"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What do you call this animal in English?",
+          "translation": "这种动物用英语怎么说？"
+        },
+        {
+          "text": "We call it a squirrel.",
+          "translation": "我们叫它松鼠。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "careful",
+    "phonetic": "/ˈkɛrfəl/",
+    "definition": "Making sure of avoiding potential danger, mishap, or harm; cautious.",
+    "example": "Be careful when you cross the street.",
+    "example_trans": "过马路时要小心。",
+    "derivatives": ["care", "carefully", "careless"],
+    "tags": ["adjective", "cautious", "watchful"],
+    "categories": ["descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This vase is very fragile.",
+          "translation": "这个花瓶很易碎。"
+        },
+        {
+          "text": "Okay, I'll be careful with it.",
+          "translation": "好的，我会小心的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "carry",
+    "phonetic": "/ˈkæri/",
+    "definition": "To support and move (someone or something) from one place to another.",
+    "example": "Can you help me carry this bag?",
+    "example_trans": "你能帮我拿这个包吗？",
+    "derivatives": [],
+    "tags": ["verb", "transport", "hold"],
+    "categories": ["actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "This box is too heavy for me to carry.",
+          "translation": "这个箱子太重了，我搬不动。"
+        },
+        {
+          "text": "Let me help you carry it.",
+          "translation": "我来帮你搬。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "catch",
+    "phonetic": "/kætʃ/",
+    "definition": "To intercept and hold something that has been thrown, propelled, or dropped.",
+    "example": "He tried to catch the ball.",
+    "example_trans": "他试图接住那个球。",
+    "derivatives": [],
+    "tags": ["verb", "capture", "grab"],
+    "categories": ["actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Throw me the keys!",
+          "translation": "把钥匙扔给我！"
+        },
+        {
+          "text": "Okay, catch!",
+          "translation": "好的，接住！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cause",
+    "phonetic": "/kɔz/",
+    "definition": "A person or thing that gives rise to an action, phenomenon, or condition.",
+    "example": "Smoking is a major cause of lung cancer.",
+    "example_trans": "吸烟是导致肺癌的主要原因。",
+    "derivatives": [],
+    "tags": ["noun", "verb (to make happen)", "reason", "source"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What was the cause of the accident?",
+          "translation": "事故的原因是什么？"
+        },
+        {
+          "text": "The police are still investigating the cause.",
+          "translation": "警方仍在调查原因。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "celebrate",
+    "phonetic": "/ˈsɛləˌbreɪt/",
+    "definition": "To acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.",
+    "example": "We are going to celebrate his birthday tonight.",
+    "example_trans": "我们今晚要庆祝他的生日。",
+    "derivatives": ["celebration"],
+    "tags": ["verb", "commemorate", "party"],
+    "categories": ["events"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How do you usually celebrate New Year?",
+          "translation": "你们通常如何庆祝新年？"
+        },
+        {
+          "text": "We celebrate with a big family dinner.",
+          "translation": "我们用丰盛的家庭晚餐来庆祝。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "certain",
+    "phonetic": "/ˈsɜrtn/",
+    "definition": "Able to be firmly relied on to happen or be the case.",
+    "example": "I'm certain that he will come.",
+    "example_trans": "我肯定他会来。",
+    "derivatives": ["certainly", "certainty", "uncertain"],
+    "tags": ["adjective", "sure", "definite"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Are you certain about this information?",
+          "translation": "你确定这个信息吗？"
+        },
+        {
+          "text": "Yes, I'm absolutely certain.",
+          "translation": "是的，我完全确定。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "chance",
+    "phonetic": "/tʃæns/",
+    "definition": "A possibility of something happening.",
+    "example": "Is there any chance of rain today?",
+    "example_trans": "今天有下雨的可能吗？",
+    "derivatives": [],
+    "tags": ["noun", "opportunity", "possibility"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "If you get a chance, you should visit that museum.",
+          "translation": "如果你有机会，你应该去参观那个博物馆。"
+        },
+        {
+          "text": "Okay, I'll try to find a chance to go.",
+          "translation": "好的，我会设法找机会去。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "definition": "To make or become different.",
+    "example": "The weather can change quickly in the mountains.",
+    "example_trans": "山里的天气变化很快。",
+    "derivatives": ["changeable"],
+    "tags": ["verb", "noun", "alter", "modify"],
+    "categories": ["actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I need to change my clothes.",
+          "translation": "我需要换衣服。"
+        },
+        {
+          "text": "The city has changed a lot in the last ten years.",
+          "translation": "这座城市在过去十年里变化很大。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "character",
+    "phonetic": "/ˈkærəktər/",
+    "definition": "The mental and moral qualities distinctive to an individual.",
+    "example": "He has a very strong character.",
+    "example_trans": "他性格非常坚强。",
+    "derivatives": ["characteristic"],
+    "tags": ["noun", "personality", "figure (in a story)"],
+    "categories": ["personality", "literature"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Who is your favorite character in the book?",
+          "translation": "书中你最喜欢的角色是谁？"
+        },
+        {
+          "text": "My favorite character is the brave knight.",
+          "translation": "我最喜欢的角色是勇敢的骑士。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cheap",
+    "phonetic": "/tʃip/",
+    "definition": "Low in price; worth more than its cost.",
+    "example": "This restaurant offers cheap and delicious food.",
+    "example_trans": "这家餐厅提供便宜又美味的食物。",
+    "derivatives": ["cheaper", "cheapest"],
+    "tags": ["adjective", "inexpensive", "affordable"],
+    "categories": ["shopping", "descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are these shoes expensive?",
+          "translation": "这些鞋贵吗？"
+        },
+        {
+          "text": "No, they are quite cheap.",
+          "translation": "不，它们很便宜。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "check",
+    "phonetic": "/tʃɛk/",
+    "definition": "To examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something.",
+    "example": "Please check your answers before you hand in the test.",
+    "example_trans": "交卷前请检查你的答案。",
+    "derivatives": [],
+    "tags": ["verb", "noun", "examine", "verify"],
+    "categories": ["actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you check if the door is locked?",
+          "translation": "你能检查一下门是否锁了吗？"
+        },
+        {
+          "text": "Sure, I'll go and check.",
+          "translation": "当然，我去检查一下。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "choice",
+    "phonetic": "/tʃɔɪs/",
+    "definition": "An act of selecting or making a decision when faced with two or more possibilities.",
+    "example": "You have a choice between tea and coffee.",
+    "example_trans": "你可以在茶和咖啡之间选择。",
+    "derivatives": ["choose"],
+    "tags": ["noun", "option", "selection"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What's your first choice of university?",
+          "translation": "你的第一志愿大学是哪所？"
+        },
+        {
+          "text": "It's a difficult choice to make.",
+          "translation": "这是一个艰难的选择。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "choose",
+    "phonetic": "/tʃuz/",
+    "definition": "To pick out or select (someone or something) as being the best or most appropriate of two or more alternatives.",
+    "example": "You need to choose a topic for your essay.",
+    "example_trans": "你需要为你的论文选择一个主题。",
+    "derivatives": ["choice", "chosen"],
+    "tags": ["verb", "select", "pick"],
+    "categories": ["actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Which color do you choose?",
+          "translation": "你选择哪种颜色？"
+        },
+        {
+          "text": "I choose the blue one.",
+          "translation": "我选择蓝色的那个。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "clear",
+    "phonetic": "/klɪr/",
+    "definition": "Easy to perceive, understand, or interpret.",
+    "example": "The instructions were very clear.",
+    "example_trans": "说明非常清楚。",
+    "derivatives": ["clearly", "clarity"],
+    "tags": ["adjective", "verb", "obvious", "transparent"],
+    "categories": ["descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is everything clear?",
+          "translation": "一切都清楚了吗？"
+        },
+        {
+          "text": "Yes, your explanation was very clear.",
+          "translation": "是的，你的解释非常清楚。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "clever",
+    "phonetic": "/ˈklɛvər/",
+    "definition": "Quick at learning and understanding things.",
+    "example": "She is a very clever student.",
+    "example_trans": "她是一个非常聪明的学生。",
+    "derivatives": ["cleverly", "cleverness"],
+    "tags": ["adjective", "smart", "intelligent"],
+    "categories": ["character traits"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "That was a clever solution to the problem.",
+          "translation": "那是一个解决问题的聪明办法。"
+        },
+        {
+          "text": "He's very clever with computers.",
+          "translation": "他在电脑方面非常聪明。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "collect",
+    "phonetic": "/kəˈlɛkt/",
+    "definition": "To bring or gather together (things, typically when scattered or widespread).",
+    "example": "He likes to collect stamps.",
+    "example_trans": "他喜欢集邮。",
+    "derivatives": ["collection", "collector"],
+    "tags": ["verb", "gather", "assemble"],
+    "categories": ["hobbies", "actions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What do you collect as a hobby?",
+          "translation": "你有什么收集爱好？"
+        },
+        {
+          "text": "I collect old coins.",
+          "translation": "我收集旧硬币。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "common",
+    "phonetic": "/ˈkɑmən/",
+    "definition": "Occurring, found, or done often; prevalent.",
+    "example": "It's common to see squirrels in this park.",
+    "example_trans": "在这个公园里经常能看到松鼠。",
+    "derivatives": ["commonly"],
+    "tags": ["adjective", "usual", "ordinary"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is this a common problem?",
+          "translation": "这是一个常见的问题吗？"
+        },
+        {
+          "text": "Yes, it's quite common among teenagers.",
+          "translation": "是的，这在青少年中很常见。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "communicate",
+    "phonetic": "/kəˈmjunɪˌkeɪt/",
+    "definition": "To share or exchange information, news, or ideas.",
+    "example": "It's important to communicate clearly with your team.",
+    "example_trans": "与团队清晰沟通非常重要。",
+    "derivatives": ["communication", "communicative"],
+    "tags": ["verb", "interact", "convey"],
+    "categories": ["communication"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How do animals communicate with each other?",
+          "translation": "动物之间是如何交流的？"
+        },
+        {
+          "text": "They communicate through sounds, gestures, and smells.",
+          "translation": "它们通过声音、手势和气味进行交流。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "compare",
+    "phonetic": "/kəmˈpɛr/",
+    "definition": "To estimate, measure, or note the similarity or dissimilarity between.",
+    "example": "If you compare the two cameras, you'll see this one is better.",
+    "example_trans": "如果你比较这两台相机，你会发现这台更好。",
+    "derivatives": ["comparison", "comparative"],
+    "tags": ["verb", "contrast", "liken"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How does this phone compare to the latest model?",
+          "translation": "这款手机与最新型号相比如何？"
+        },
+        {
+          "text": "It's hard to compare them directly as they have different features.",
+          "translation": "很难直接比较它们，因为它们有不同的功能。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "compete",
+    "phonetic": "/kəmˈpit/",
+    "definition": "To strive to gain or win something by defeating or establishing superiority over others who are trying to do the same.",
+    "example": "Many teams compete for the championship.",
+    "example_trans": "许多队伍争夺冠军。",
+    "derivatives": ["competition", "competitor", "competitive"],
+    "tags": ["verb", "contest", "rival"],
+    "categories": ["sports", "general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Are you going to compete in the race?",
+          "translation": "你会参加比赛吗？"
+        },
+        {
+          "text": "Yes, I'm training hard to compete.",
+          "translation": "是的，我正在努力训练以参加比赛。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "complete",
+    "phonetic": "/kəmˈplit/",
+    "definition": "Having all the necessary or appropriate parts.",
+    "example": "Please complete this form.",
+    "example_trans": "请填写这张表格。",
+    "derivatives": ["completely", "completion"],
+    "tags": ["adjective", "verb", "finish", "whole"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Have you completed your homework?",
+          "translation": "你完成作业了吗？"
+        },
+        {
+          "text": "Not yet, I need more time to complete it.",
+          "translation": "还没有，我需要更多时间来完成它。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "concentrate",
+    "phonetic": "/ˈkɑnsənˌtreɪt/",
+    "definition": "To focus all one's attention on a particular object or activity.",
+    "example": "I can't concentrate with all this noise.",
+    "example_trans": "这么吵，我无法集中注意力。",
+    "derivatives": ["concentration"],
+    "tags": ["verb", "focus", "pay attention"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "You need to concentrate on your studies.",
+          "translation": "你需要专心学习。"
+        },
+        {
+          "text": "It's hard to concentrate when I'm tired.",
+          "translation": "当我累的时候很难集中注意力。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "condition",
+    "phonetic": "/kənˈdɪʃən/",
+    "definition": "The state of something with regard to its appearance, quality, or working order.",
+    "example": "The car is in good condition.",
+    "example_trans": "这辆车状况良好。",
+    "derivatives": ["conditional"],
+    "tags": ["noun", "state", "circumstance"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What are the conditions for joining the club?",
+          "translation": "加入这个俱乐部的条件是什么？"
+        },
+        {
+          "text": "One condition is that you must be over 18.",
+          "translation": "一个条件是你必须年满18岁。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "connect",
+    "phonetic": "/kəˈnɛkt/",
+    "definition": "To bring together or into contact so that a real or notional link is established.",
+    "example": "Can you connect the printer to the computer?",
+    "example_trans": "你能把打印机连接到电脑上吗？",
+    "derivatives": ["connection"],
+    "tags": ["verb", "link", "join"],
+    "categories": ["technology", "general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I can't connect to the Wi-Fi.",
+          "translation": "我连接不上Wi-Fi。"
+        },
+        {
+          "text": "Let me help you connect your phone.",
+          "translation": "我来帮你连接你的手机。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "consider",
+    "phonetic": "/kənˈsɪdər/",
+    "definition": "To think carefully about something, typically before making a decision.",
+    "example": "We need to consider all the options.",
+    "example_trans": "我们需要考虑所有的选择。",
+    "derivatives": ["consideration", "considerable"],
+    "tags": ["verb", "think about", "regard"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Have you considered my suggestion?",
+          "translation": "你考虑过我的建议吗？"
+        },
+        {
+          "text": "Yes, I will consider it carefully.",
+          "translation": "是的，我会仔细考虑的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "contain",
+    "phonetic": "/kənˈteɪn/",
+    "definition": "To have or hold (someone or something) within.",
+    "example": "This box contains old photographs.",
+    "example_trans": "这个盒子里装着旧照片。",
+    "derivatives": ["container"],
+    "tags": ["verb", "include", "hold"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What does this drink contain?",
+          "translation": "这种饮料含有什么成分？"
+        },
+        {
+          "text": "It contains sugar, water, and fruit juice.",
+          "translation": "它含有糖、水和果汁。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "continue",
+    "phonetic": "/kənˈtɪnju/",
+    "definition": "To persist in an activity or process.",
+    "example": "Please continue with your work.",
+    "example_trans": "请继续你的工作。",
+    "derivatives": ["continuation", "continuous"],
+    "tags": ["verb", "go on", "proceed"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Should I stop or continue reading?",
+          "translation": "我应该停止还是继续阅读？"
+        },
+        {
+          "text": "Please continue. I'm enjoying the story.",
+          "translation": "请继续。我很喜欢这个故事。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "control",
+    "phonetic": "/kənˈtroʊl/",
+    "definition": "The power to influence or direct people's behavior or the course of events.",
+    "example": "He lost control of the car.",
+    "example_trans": "他失去了对汽车的控制。",
+    "derivatives": ["controller"],
+    "tags": ["noun", "verb", "manage", "regulate"],
+    "categories": ["general vocabulary"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Who is in control of this project?",
+          "translation": "谁负责这个项目？"
+        },
+        {
+          "text": "The manager has full control.",
+          "translation": "经理完全掌控。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "correct",
+    "phonetic": "/kəˈrɛkt/",
+    "definition": "Free from error; in accordance with fact or truth.",
+    "example": "Is this the correct answer?",
+    "example_trans": "这是正确答案吗？",
+    "derivatives": ["correction", "incorrect"],
+    "tags": ["adjective", "verb", "right", "accurate"],
+    "categories": ["general vocabulary"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Please correct any mistakes in my essay.",
+          "translation": "请纠正我论文中的任何错误。"
+        },
+        {
+          "text": "Your spelling is correct, but there are some grammar errors.",
+          "translation": "你的拼写是正确的，但是有一些语法错误。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cost",
+    "phonetic": "/kɔst/",
+    "definition": "(of an object or action) Require the payment of (a specified sum of money) before it can be acquired or done.",
+    "example": "How much does this book cost?",
+    "example_trans": "这本书多少钱？",
+    "derivatives": ["costly"],
+    "tags": ["noun", "verb", "price", "expense"],
+    "categories": ["shopping", "money"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What's the total cost of the trip?",
+          "translation": "这次旅行的总费用是多少？"
+        },
+        {
+          "text": "It will cost around $500 per person.",
+          "translation": "每人大约花费500美元。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "could",
+    "phonetic": "/kʊd/",
+    "definition": "Used as the past tense of can, to indicate possibility.",
+    "example": "When I was young, I could run very fast.",
+    "example_trans": "我年轻的时候，跑得很快。",
+    "derivatives": [],
+    "tags": ["modal verb", "can (past)", "possibility", "polite request"],
+    "categories": ["grammar"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Could you please help me?",
+          "translation": "你能帮我一下吗？"
+        },
+        {
+          "text": "Yes, of course I could.",
+          "translation": "是的，当然可以。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "create",
+    "phonetic": "/kriˈeɪt/",
+    "definition": "To bring (something) into existence.",
+    "example": "The artist likes to create beautiful paintings.",
+    "example_trans": "这位艺术家喜欢创作美丽的画作。",
+    "derivatives": ["creation", "creative", "creator"],
+    "tags": ["verb", "make", "produce", "design"],
+    "categories": ["actions"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Who created this amazing sculpture?",
+          "translation": "谁创作了这个令人惊叹的雕塑？"
+        },
+        {
+          "text": "It was created by a famous local artist.",
+          "translation": "它是由一位当地著名艺术家创作的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "culture",
+    "phonetic": "/ˈkʌltʃər/",
+    "definition": "The customs, arts, social institutions, and achievements of a particular nation, people, or group.",
+    "example": "It's interesting to learn about different cultures.",
+    "example_trans": "了解不同的文化很有趣。",
+    "derivatives": ["cultural"],
+    "tags": ["noun", "civilization", "customs", "traditions"],
+    "categories": ["society"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What do you know about Japanese culture?",
+          "translation": "你对日本文化了解多少？"
+        },
+        {
+          "text": "I know that respect is very important in their culture.",
+          "translation": "我知道尊重在他们的文化中非常重要。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "definition": "Able or likely to cause harm or injury.",
+    "example": "It's dangerous to swim in this river.",
+    "example_trans": "在这条河里游泳很危险。",
+    "derivatives": ["danger"],
+    "tags": ["adjective", "risky", "unsafe", "hazardous"],
+    "categories": ["descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is that snake dangerous?",
+          "translation": "那条蛇危险吗？"
+        },
+        {
+          "text": "Yes, some snakes can be very dangerous.",
+          "translation": "是的，有些蛇可能非常危险。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "dark",
+    "phonetic": "/dɑrk/",
+    "definition": "With little or no light.",
+    "example": "It gets dark early in winter.",
+    "example_trans": "冬天天黑得很早。",
+    "derivatives": ["darkness"],
+    "tags": ["adjective", "noun", "dim", "gloomy"],
+    "categories": ["colors", "descriptions"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you afraid of the dark?",
+          "translation": "你怕黑吗？"
+        },
+        {
+          "text": "When I was a child, I was very afraid of the dark.",
+          "translation": "我小时候非常怕黑。"
+        }
+      ]
+    ]
+  }
+]
