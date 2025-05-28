@@ -1,0 +1,1025 @@
+[
+  {
+    "word": "cereal",
+    "phonetic": "/ˈsɪəriəl/",
+    "definition": "n. 麦片",
+    "example": "I usually have cereal for breakfast.",
+    "example_trans": "我通常早餐吃麦片。",
+    "derivatives": ["cereals (pl.)", "cereal box (n.)"],
+    "tags": ["早餐", "谷物"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of cereal do you like?",
+          "translation": "你喜欢哪种麦片？"
+        },
+        {
+          "text": "I prefer a high-fiber cereal to keep me full until lunch.",
+          "translation": "我更喜欢高纤维麦片，这样能让我一直到午餐都觉得饱。"
+        }
+      ],
+      [
+        {
+          "text": "We're out of cereal. Can you add it to the grocery list?",
+          "translation": "我们没麦片了。你能把它加到购物清单上吗？"
+        },
+        {
+          "text": "Sure, I'll add two boxes of your favorite cereal.",
+          "translation": "当然，我会加上两盒你最喜欢的麦片。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "oatmeal",
+    "phonetic": "/ˈoʊtmiːl/",
+    "definition": "n. 燕麦粥",
+    "example": "Oatmeal is a healthy and filling breakfast option.",
+    "example_trans": "燕麦粥是一种健康且饱腹的早餐选择。",
+    "derivatives": ["oats (n.)", "oat (adj.)"],
+    "tags": ["早餐", "谷物", "健康"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I made oatmeal this morning. Would you like some?",
+          "translation": "我今天早上做了燕麦粥。你想来点吗？"
+        },
+        {
+          "text": "Yes, please! I like mine with a little honey and fruit.",
+          "translation": "好的，谢谢！我喜欢加一点蜂蜜和水果。"
+        }
+      ],
+      [
+        {
+          "text": "Oatmeal is a great way to start the day.",
+          "translation": "燕麦粥是开始美好一天的绝佳方式。"
+        },
+        {
+          "text": "I agree. It's also good for your cholesterol.",
+          "translation": "我同意。它对你的胆固醇也有好处。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "granola",
+    "phonetic": "/ɡrəˈnoʊlə/",
+    "definition": "n. 格兰诺拉麦片",
+    "example": "She added granola to her yogurt for extra crunch.",
+    "example_trans": "她在酸奶里加入了格兰诺拉麦片，以增加口感。",
+    "derivatives": ["granola bar (n.)"],
+    "tags": ["早餐", "谷物", "零食"],
+    "categories": ["食物"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "I love granola with berries and milk.",
+          "translation": "我喜欢格兰诺拉麦片配浆果和牛奶。"
+        },
+        {
+          "text": "Me too! It's a quick and easy breakfast.",
+          "translation": "我也是！这是一个快速又简单的早餐。"
+        }
+      ],
+      [
+        {
+          "text": "Have you tried making your own granola?",
+          "translation": "你试过自己做格兰诺拉麦片吗？"
+        },
+        {
+          "text": "No, but I'd like to. Do you have a good recipe?",
+          "translation": "没有，但我很想试试。你有什么好的食谱吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "toast",
+    "phonetic": "/toʊst/",
+    "definition": "n. 烤面包",
+    "example": "I had toast with butter and jam for breakfast.",
+    "example_trans": "我早餐吃了涂着黄油和果酱的烤面包。",
+    "derivatives": ["toaster (n.)", "toasted (adj.)", "toast (v.)"],
+    "tags": ["早餐", "面包"],
+    "categories": ["食物"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like some toast with your eggs?",
+          "translation": "你想来点烤面包配你的鸡蛋吗？"
+        },
+        {
+          "text": "Yes, please. Can I have it with avocado?",
+          "translation": "好的，谢谢。我可以配牛油果吗？"
+        }
+      ],
+      [
+        {
+          "text": "The toaster is broken. I can't make toast.",
+          "translation": "烤面包机坏了。我做不了烤面包了。"
+        },
+        {
+          "text": "Oh no! I guess we'll have to eat something else.",
+          "translation": "哦，不！我想我们得吃点别的了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "pancakes",
+    "phonetic": "/ˈpænkeɪks/",
+    "definition": "n. 煎饼",
+    "example": "The kids love having pancakes on Sunday mornings.",
+    "example_trans": "孩子们喜欢在星期天早上吃煎饼。",
+    "derivatives": ["pancake (sing.)", "pancake mix (n.)"],
+    "tags": ["早餐", "甜点"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I'm making pancakes for breakfast. Who wants some?",
+          "translation": "我正在做煎饼当早餐。谁想吃？"
+        },
+        {
+          "text": "Me! Me! Can I have mine with syrup and strawberries?",
+          "translation": "我！我！我可以加糖浆和草莓吗？"
+        }
+      ],
+      [
+        {
+          "text": "These pancakes are delicious! What's your secret?",
+          "translation": "这些煎饼真好吃！你的秘诀是什么？"
+        },
+        {
+          "text": "A little bit of vanilla extract makes all the difference.",
+          "translation": "加一点香草精就能让味道大不一样。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "waffles",
+    "phonetic": "/ˈwɒflz/",
+    "definition": "n. 华夫饼",
+    "example": "She topped her waffles with whipped cream and fruit.",
+    "example_trans": "她在华夫饼上放了鲜奶油和水果。",
+    "derivatives": ["waffle (sing.)", "waffle iron (n.)"],
+    "tags": ["早餐", "甜点"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you prefer waffles or pancakes?",
+          "translation": "你更喜欢华夫饼还是煎饼？"
+        },
+        {
+          "text": "That's a tough choice! I like both, but maybe waffles a little more.",
+          "translation": "这很难选择！我都喜欢，但可能更喜欢华夫饼一点。"
+        }
+      ],
+      [
+        {
+          "text": "I'm going to buy a waffle iron. Any recommendations?",
+          "translation": "我打算买一个华夫饼机。有什么推荐吗？"
+        },
+        {
+          "text": "Definitely get one with adjustable temperature settings.",
+          "translation": "一定要买一个可以调节温度的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bagel",
+    "phonetic": "/ˈbeɪɡəl/",
+    "definition": "n. 百吉饼",
+    "example": "He had a bagel with cream cheese for breakfast.",
+    "example_trans": "他早餐吃了一个涂着奶油奶酪的百吉饼。",
+    "derivatives": ["bagels (pl.)", "everything bagel (n.)"],
+    "tags": ["早餐", "面包"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of bagel would you like?",
+          "translation": "你想要哪种百吉饼？"
+        },
+        {
+          "text": "I'll take an everything bagel with lox, please.",
+          "translation": "我要一个混合口味的百吉饼，加烟熏三文鱼，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "Bagels are so versatile. You can put anything on them.",
+          "translation": "百吉饼用途广泛。你可以在上面放任何东西。"
+        },
+        {
+          "text": "Exactly! My favorite is a simple bagel with butter.",
+          "translation": "没错！我最喜欢的是一个简单的涂黄油的百吉饼。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "scrambled eggs",
+    "phonetic": "/ˈskræmbəld eɡz/",
+    "definition": "n. 炒鸡蛋",
+    "example": "She made scrambled eggs with cheese and vegetables.",
+    "example_trans": "她做了加了奶酪和蔬菜的炒鸡蛋。",
+    "derivatives": ["scramble (v.)", "egg (n.)"],
+    "tags": ["早餐", "鸡蛋", "蛋白质"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How do you like your scrambled eggs?",
+          "translation": "你喜欢怎么样的炒鸡蛋？"
+        },
+        {
+          "text": "I like them soft and creamy, not too dry.",
+          "translation": "我喜欢软而滑的，不要太干。"
+        }
+      ],
+      [
+        {
+          "text": "I'm making scrambled eggs for everyone. Anything you want added?",
+          "translation": "我正在为大家做炒鸡蛋。你们想加点什么吗？"
+        },
+        {
+          "text": "Some chopped onions and peppers would be great!",
+          "translation": "加一些切碎的洋葱和辣椒会很棒！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "fried eggs",
+    "phonetic": "/fraɪd eɡz/",
+    "definition": "n. 煎蛋",
+    "example": "He ordered fried eggs with bacon for breakfast.",
+    "example_trans": "他早餐点了煎蛋和培根。",
+    "derivatives": ["fry (v.)", "egg (n.)"],
+    "tags": ["早餐", "鸡蛋", "蛋白质"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "How do you want your fried eggs? Sunny-side up or over easy?",
+          "translation": "你的煎蛋要怎么煎？单面煎还是双面煎？"
+        },
+        {
+          "text": "Sunny-side up, please. I like the yolk runny.",
+          "translation": "单面煎，谢谢。我喜欢蛋黄是流动的。"
+        }
+      ],
+      [
+        {
+          "text": "These fried eggs are perfectly cooked!",
+          "translation": "这些煎蛋煎得太完美了！"
+        },
+        {
+          "text": "Thanks! I've been practicing.",
+          "translation": "谢谢！我一直在练习。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "boiled eggs",
+    "phonetic": "/bɔɪld eɡz/",
+    "definition": "n. 水煮蛋",
+    "example": "Boiled eggs are a simple and healthy snack.",
+    "example_trans": "水煮蛋是一种简单又健康的零食。",
+    "derivatives": ["boil (v.)", "egg (n.)", "hard-boiled egg (n.)", "soft-boiled egg (n.)"],
+    "tags": ["早餐", "鸡蛋", "蛋白质", "健康"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Are these eggs hard-boiled or soft-boiled?",
+          "translation": "这些鸡蛋是全熟的还是半熟的？"
+        },
+        {
+          "text": "They're hard-boiled. I boiled them for ten minutes.",
+          "translation": "它们是全熟的。我煮了十分钟。"
+        }
+      ],
+      [
+        {
+          "text": "I like to add boiled eggs to my salad for extra protein.",
+          "translation": "我喜欢在沙拉里加水煮蛋，以增加蛋白质。"
+        },
+        {
+          "text": "That's a great idea! I'll try that next time.",
+          "translation": "那是个好主意！我下次试试。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bacon",
+    "phonetic": "/ˈbeɪkən/",
+    "definition": "n. 培根",
+    "example": "The smell of bacon cooking filled the kitchen.",
+    "example_trans": "厨房里弥漫着培根的香味。",
+    "derivatives": ["bacon bits (n.)", "bacon grease (n.)"],
+    "tags": ["早餐", "肉类", "蛋白质"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want bacon with your breakfast?",
+          "translation": "你早餐想吃培根吗？"
+        },
+        {
+          "text": "Yes, please! Crispy bacon is the best.",
+          "translation": "好的，谢谢！脆培根是最好的。"
+        }
+      ],
+      [
+        {
+          "text": "I'm trying to cut back on bacon. It's not very healthy.",
+          "translation": "我正在努力减少培根的摄入。它不是很健康。"
+        },
+        {
+          "text": "I know, but it's so delicious!",
+          "translation": "我知道，但是它太美味了！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "sausage",
+    "phonetic": "/ˈsɒsɪdʒ/",
+    "definition": "n. 香肠",
+    "example": "He grilled sausages for the barbecue.",
+    "example_trans": "他烤了香肠用于烧烤。",
+    "derivatives": ["sausages (pl.)", "sausage roll (n.)", "sausage patty (n.)"],
+    "tags": ["早餐", "肉类", "蛋白质"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of sausage do you prefer?",
+          "translation": "你喜欢哪种香肠？"
+        },
+        {
+          "text": "I like Italian sausage, especially with pasta.",
+          "translation": "我喜欢意大利香肠，特别是和意大利面一起吃。"
+        }
+      ],
+      [
+        {
+          "text": "We're having sausage and eggs for breakfast.",
+          "translation": "我们早餐吃香肠和鸡蛋。"
+        },
+        {
+          "text": "Sounds delicious! I'm starving.",
+          "translation": "听起来很美味！我饿死了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "ham",
+    "phonetic": "/hæm/",
+    "definition": "n. 火腿",
+    "example": "She made a sandwich with ham and cheese.",
+    "example_trans": "她做了一个火腿奶酪三明治。",
+    "derivatives": ["hams (pl.)", "ham sandwich (n.)", "ham hock (n.)"],
+    "tags": ["早餐", "肉类", "蛋白质"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want ham on your pizza?",
+          "translation": "你想要在你的披萨上加火腿吗？"
+        },
+        {
+          "text": "Yes, please! Ham and pineapple is my favorite.",
+          "translation": "好的，谢谢！火腿和菠萝是我的最爱。"
+        }
+      ],
+      [
+        {
+          "text": "I'm making a ham and cheese omelet for breakfast.",
+          "translation": "我正在做火腿奶酪煎蛋卷当早餐。"
+        },
+        {
+          "text": "That sounds amazing! Can I have one too?",
+          "translation": "听起来太棒了！我也能来一个吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "definition": "n. 牛奶",
+    "example": "She drinks a glass of milk every morning.",
+    "example_trans": "她每天早上喝一杯牛奶。",
+    "derivatives": ["milks (pl.)", "milkshake (n.)", "dairy milk (n.)"],
+    "tags": ["早餐", "饮品", "奶制品"],
+    "categories": ["食物"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like milk or juice with your breakfast?",
+          "translation": "你早餐想喝牛奶还是果汁？"
+        },
+        {
+          "text": "I'll have milk, please.",
+          "translation": "我要牛奶，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "We're out of milk. Can you pick some up at the store?",
+          "translation": "我们没牛奶了。你能去商店买一些吗？"
+        },
+        {
+          "text": "Sure, I'll get a gallon.",
+          "translation": "好的，我买一加仑。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "yogurt",
+    "phonetic": "/ˈjoʊɡərt/",
+    "definition": "n. 酸奶",
+    "example": "She eats yogurt with fruit and granola.",
+    "example_trans": "她吃酸奶配水果和格兰诺拉麦片。",
+    "derivatives": ["yogurts (pl.)", "frozen yogurt (n.)", "greek yogurt (n.)"],
+    "tags": ["早餐", "奶制品", "健康"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you prefer plain yogurt or flavored yogurt?",
+          "translation": "你喜欢原味酸奶还是调味酸奶？"
+        },
+        {
+          "text": "I prefer plain yogurt so I can add my own fruit.",
+          "translation": "我喜欢原味酸奶，这样我可以自己加水果。"
+        }
+      ],
+      [
+        {
+          "text": "Yogurt is a great source of probiotics.",
+          "translation": "酸奶是益生菌的良好来源。"
+        },
+        {
+          "text": "That's why I eat it every day!",
+          "translation": "这就是我每天都吃它的原因！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cheese",
+    "phonetic": "/tʃiːz/",
+    "definition": "n. 奶酪",
+    "example": "She added cheese to her omelet.",
+    "example_trans": "她在她的煎蛋卷里加了奶酪。",
+    "derivatives": ["cheeses (pl.)", "cheesy (adj.)", "cheese sauce (n.)"],
+    "tags": ["早餐", "奶制品"],
+    "categories": ["食物"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of cheese do you want on your sandwich?",
+          "translation": "你想在你的三明治里加哪种奶酪？"
+        },
+        {
+          "text": "I'll take cheddar, please.",
+          "translation": "我要切达奶酪，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "Cheese makes everything better!",
+          "translation": "奶酪让一切都变得更好！"
+        },
+        {
+          "text": "I agree! Especially on pizza.",
+          "translation": "我同意！特别是在披萨上。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "butter",
+    "phonetic": "/ˈbʌtər/",
+    "definition": "n. 黄油",
+    "example": "She spread butter on her toast.",
+    "example_trans": "她在她的烤面包上涂了黄油。",
+    "derivatives": ["butters (pl.)", "buttery (adj.)", "butter knife (n.)"],
+    "tags": ["早餐", "奶制品"],
+    "categories": ["食物"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want butter on your bread?",
+          "translation": "你想在你的面包上涂黄油吗？"
+        },
+        {
+          "text": "Yes, please. And a little bit of jam.",
+          "translation": "好的，谢谢。再加一点果酱。"
+        }
+      ],
+      [
+        {
+          "text": "This cake is so buttery and delicious!",
+          "translation": "这个蛋糕太黄油味了，真好吃！"
+        },
+        {
+          "text": "I know! It's made with real butter.",
+          "translation": "我知道！它是用真正的黄油做的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "banana",
+    "phonetic": "/bəˈnɑːnə/",
+    "definition": "n. 香蕉",
+    "example": "She eats a banana every morning for breakfast.",
+    "example_trans": "她每天早上吃一根香蕉当早餐。",
+    "derivatives": ["bananas (pl.)", "banana bread (n.)", "banana peel (n.)"],
+    "tags": ["早餐", "水果"],
+    "categories": ["食物"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like a banana with your cereal?",
+          "translation": "你想在你的麦片里加一根香蕉吗？"
+        },
+        {
+          "text": "Yes, please! That sounds delicious.",
+          "translation": "好的，谢谢！听起来很美味。"
+        }
+      ],
+      [
+        {
+          "text": "Bananas are a great source of potassium.",
+          "translation": "香蕉是钾的良好来源。"
+        },
+        {
+          "text": "That's why they're good for you!",
+          "translation": "这就是它们对你有好处的原因！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "apple",
+    "phonetic": "/ˈæpl/",
+    "definition": "n. 苹果",
+    "example": "An apple a day keeps the doctor away.",
+    "example_trans": "一天一苹果，医生远离我。",
+    "derivatives": ["apples (pl.)", "applet (n.)", "apple pie (n.)", "apple juice (n.)", "apple sauce (n.)"],
+    "tags": ["基础词汇", "常用", "水果"],
+    "categories": ["基础词汇", "水果"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like some fresh apple juice with your breakfast?",
+          "translation": "你早餐想喝点新鲜的苹果汁吗？"
+        },
+        {
+          "text": "Yes, all our apples are locally grown and organic.",
+          "translation": "是的，我们所有的苹果都是本地种植的有机水果。"
+        }
+      ],
+      [
+        {
+          "text": "I'd like to buy the latest Apple phone.",
+          "translation": "我想买最新的苹果手机。"
+        },
+        {
+          "text": "Sure, we have several models available. Which one are you interested in?",
+          "translation": "当然，我们有几款型号可供选择。您对哪一款感兴趣？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "berries",
+    "phonetic": "/ˈberiz/",
+    "definition": "n. 浆果（如蓝莓、草莓）",
+    "example": "She added berries to her yogurt for a healthy breakfast.",
+    "example_trans": "她在酸奶里加入了浆果，做了一份健康的早餐。",
+    "derivatives": ["berry (sing.)", "strawberry (n.)", "blueberry (n.)", "raspberry (n.)"],
+    "tags": ["早餐", "水果", "健康"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of berries do you like?",
+          "translation": "你喜欢哪种浆果？"
+        },
+        {
+          "text": "I love blueberries and raspberries.",
+          "translation": "我喜欢蓝莓和覆盆子。"
+        }
+      ],
+      [
+        {
+          "text": "Berries are full of antioxidants.",
+          "translation": "浆果富含抗氧化剂。"
+        },
+        {
+          "text": "That's why they're so good for you!",
+          "translation": "这就是它们对你这么好的原因！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "orange",
+    "phonetic": "/ˈɒrɪndʒ/",
+    "definition": "n. 橙子",
+    "example": "She had an orange for breakfast.",
+    "example_trans": "她早餐吃了一个橙子。",
+    "derivatives": ["oranges (pl.)", "orange juice (n.)", "orange peel (n.)"],
+    "tags": ["早餐", "水果"],
+    "categories": ["食物"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like an orange or an apple?",
+          "translation": "你想要一个橙子还是一个苹果？"
+        },
+        {
+          "text": "I'll take an orange, please.",
+          "translation": "我要一个橙子，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "Oranges are a good source of vitamin C.",
+          "translation": "橙子是维生素C的良好来源。"
+        },
+        {
+          "text": "That's why I eat them when I have a cold.",
+          "translation": "这就是我感冒的时候吃它们的原因。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "avocado",
+    "phonetic": "/ˌævəˈkɑːdoʊ/",
+    "definition": "n. 牛油果",
+    "example": "She had avocado toast for breakfast.",
+    "example_trans": "她早餐吃了牛油果吐司。",
+    "derivatives": ["avocados (pl.)", "avocado oil (n.)", "guacamole (n.)"],
+    "tags": ["早餐", "水果", "健康"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Have you tried avocado toast?",
+          "translation": "你试过牛油果吐司吗？"
+        },
+        {
+          "text": "Yes, it's delicious! I like to add a little salt and pepper.",
+          "translation": "是的，它很美味！我喜欢加一点盐和胡椒。"
+        }
+      ],
+      [
+        {
+          "text": "Avocados are a good source of healthy fats.",
+          "translation": "牛油果是健康脂肪的良好来源。"
+        },
+        {
+          "text": "That's why they're so popular!",
+          "translation": "这就是它们如此受欢迎的原因！"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "coffee",
+    "phonetic": "/ˈkɒfi/",
+    "definition": "n. 咖啡",
+    "example": "He drinks a cup of coffee every morning.",
+    "example_trans": "他每天早上喝一杯咖啡。",
+    "derivatives": ["coffees (pl.)", "coffee shop (n.)", "coffee bean (n.)", "caffeinated (adj.)", "decaffeinated (adj.)"],
+    "tags": ["早餐", "饮品"],
+    "categories": ["饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like coffee or tea?",
+          "translation": "你想喝咖啡还是茶？"
+        },
+        {
+          "text": "Coffee, please. I need to wake up.",
+          "translation": "咖啡，谢谢。我需要醒醒神。"
+        }
+      ],
+      [
+        {
+          "text": "How do you take your coffee?",
+          "translation": "你的咖啡怎么喝？"
+        },
+        {
+          "text": "Black, please.",
+          "translation": "黑咖啡，谢谢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "tea",
+    "phonetic": "/tiː/",
+    "definition": "n. 茶",
+    "example": "She drinks tea in the afternoon.",
+    "example_trans": "她下午喝茶。",
+    "derivatives": ["teas (pl.)", "tea bag (n.)", "tea cup (n.)", "iced tea (n.)"],
+    "tags": ["早餐", "饮品"],
+    "categories": ["饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like tea or coffee?",
+          "translation": "你想喝茶还是咖啡？"
+        },
+        {
+          "text": "Tea, please. I'm trying to cut back on caffeine.",
+          "translation": "茶，谢谢。我正在努力减少咖啡因的摄入。"
+        }
+      ],
+      [
+        {
+          "text": "What kind of tea do you want?",
+          "translation": "你想要哪种茶？"
+        },
+        {
+          "text": "Green tea, please.",
+          "translation": "绿茶，谢谢。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "juice",
+    "phonetic": "/dʒuːs/",
+    "definition": "n. 果汁",
+    "example": "She drinks orange juice with breakfast.",
+    "example_trans": "她早餐喝橙汁。",
+    "derivatives": ["juices (pl.)", "juicy (adj.)", "juice bar (n.)"],
+    "tags": ["早餐", "饮品"],
+    "categories": ["饮品"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of juice do you want?",
+          "translation": "你想喝哪种果汁？"
+        },
+        {
+          "text": "Apple juice, please.",
+          "translation": "苹果汁，谢谢。"
+        }
+      ],
+      [
+        {
+          "text": "Freshly squeezed juice is the best!",
+          "translation": "鲜榨果汁是最好的！"
+        },
+        {
+          "text": "I agree! It tastes so much better than store-bought juice.",
+          "translation": "我同意！它比商店买的果汁好喝多了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "smoothie",
+    "phonetic": "/ˈsmuːði/",
+    "definition": "n. 冰沙",
+    "example": "She made a smoothie with fruit and yogurt.",
+    "example_trans": "她用水果和酸奶做了一杯冰沙。",
+    "derivatives": ["smoothies (pl.)"],
+    "tags": ["早餐", "饮品", "健康"],
+    "categories": ["饮品"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What's in your smoothie?",
+          "translation": "你的冰沙里有什么？"
+        },
+        {
+          "text": "It has banana, spinach, and almond milk.",
+          "translation": "它有香蕉、菠菜和杏仁奶。"
+        }
+      ],
+      [
+        {
+          "text": "Smoothies are a great way to get your fruits and vegetables.",
+          "translation": "冰沙是摄取水果和蔬菜的好方法。"
+        },
+        {
+          "text": "I agree! They're also quick and easy to make.",
+          "translation": "我同意！它们也很快很容易做。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "croissant",
+    "phonetic": "/ˈkrwæsɒnt/",
+    "definition": "n. 牛角包",
+    "example": "She had a croissant and coffee for breakfast.",
+    "example_trans": "她早餐吃了一个牛角包和咖啡。",
+    "derivatives": ["croissants (pl.)", "chocolate croissant (n.)", "almond croissant (n.)"],
+    "tags": ["早餐", "面包", "法式"],
+    "categories": ["食物"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like a croissant or a muffin with your coffee?",
+          "translation": "你喝咖啡想配牛角包还是松饼？"
+        },
+        {
+          "text": "A croissant, please. I love how flaky they are.",
+          "translation": "牛角包，谢谢。我喜欢它们酥脆的口感。"
+        }
+      ],
+      [
+        {
+          "text": "This croissant is so buttery and delicious!",
+          "translation": "这个牛角包太黄油味了，真好吃！"
+        },
+        {
+          "text": "I know, right? It's from that new French bakery downtown.",
+          "translation": "是啊，对吧？它是市中心那家新开的法国面包店做的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "muffin",
+    "phonetic": "/ˈmʌfɪn/",
+    "definition": "n. 松饼",
+    "example": "He grabbed a muffin on his way to work.",
+    "example_trans": "他在上班的路上拿了一个松饼。",
+    "derivatives": ["muffins (pl.)", "blueberry muffin (n.)", "chocolate chip muffin (n.)", "muffin tin (n.)"],
+    "tags": ["早餐", "面包", "甜点"],
+    "categories": ["食物"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What kind of muffin do you want?",
+          "translation": "你想要哪种松饼？"
+        },
+        {
+          "text": "A blueberry muffin, please. They're my favorite.",
+          "translation": "蓝莓松饼，谢谢。它们是我的最爱。"
+        }
+      ],
+      [
+        {
+          "text": "I baked some muffins this morning. Would you like one?",
+          "translation": "我今天早上烤了一些松饼。你想来一个吗？"
+        },
+        {
+          "text": "Yes, please! They smell delicious.",
+          "translation": "好的，谢谢！它们闻起来很香。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "rice porridge",
+    "phonetic": "/raɪs ˈpɒrɪdʒ/",
+    "definition": "n. 稀饭",
+    "example": "She ate rice porridge with pickled vegetables for breakfast.",
+    "example_trans": "她早餐吃了稀饭配腌菜。",
+    "derivatives": ["porridge (n.)", "congee (n.)", "rice (n.)"],
+    "tags": ["早餐", "亚洲", "主食"],
+    "categories": ["食物"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "I'm making rice porridge for breakfast. Do you want some?",
+          "translation": "我正在做稀饭当早餐。你想来点吗？"
+        },
+        {
+          "text": "Yes, please! I like mine with a little soy sauce and sesame oil.",
+          "translation": "好的，谢谢！我喜欢加一点酱油和香油。"
+        }
+      ],
+      [
+        {
+          "text": "Rice porridge is so comforting on a cold morning.",
+          "translation": "在寒冷的早晨，稀饭让人感到很舒服。"
+        },
+        {
+          "text": "I agree! It's also easy on the stomach.",
+          "translation": "我同意！它也容易消化。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "dumplings",
+    "phonetic": "/ˈdʌmplɪŋz/",
+    "definition": "n. 饺子（亚洲早餐）",
+    "example": "They ate dumplings for breakfast during their trip to China.",
+    "example_trans": "他们在去中国旅行期间早餐吃了饺子。",
+    "derivatives": ["dumpling (sing.)", "potstickers (n.)", "soup dumplings (n.)"],
+    "tags": ["早餐", "亚洲", "主食"],
+    "categories": ["食物"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like dumplings or noodles for breakfast?",
+          "translation": "你早餐想吃饺子还是面条？"
+        },
+        {
+          "text": "Dumplings, please! I'm craving something savory.",
+          "translation": "饺子，谢谢！我想吃点咸的。"
+        }
+      ],
+      [
+        {
+          "text": "These dumplings are homemade. My grandmother's recipe.",
+          "translation": "这些饺子是自制的。我奶奶的食谱。"
+        },
+        {
+          "text": "Wow, they're delicious! You're lucky to have such a great recipe.",
+          "translation": "哇，真好吃！你真幸运有这么好的食谱。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "congee",
+    "phonetic": "/ˈkɒndʒiː/",
+    "definition": "n. 粥（常见于中式早餐）",
+    "example": "She had congee with preserved eggs and pork floss for breakfast.",
+    "example_trans": "她早餐吃了皮蛋瘦肉粥。",
+    "derivatives": ["jook (n.)", "rice porridge (n.)"],
+    "tags": ["早餐", "亚洲", "主食"],
+    "categories": ["食物"],
+    "level": 3,
+    "dialogues": [
+      [
+        {
+          "text": "I made congee this morning. Want some?",
+          "translation": "我今天早上做了粥。想来点吗？"
+        },
+        {
+          "text": "Yes, please! Is it plain or does it have anything in it?",
+          "translation": "好的，谢谢！是白粥还是有加料的？"
+        }
+      ],
+      [
+        {
+          "text": "Congee is so easy to digest when you're not feeling well.",
+          "translation": "当你感觉不舒服的时候，粥很容易消化。"
+        },
+        {
+          "text": "That's true. It's my go-to comfort food.",
+          "translation": "没错。它是我首选的安慰食物。"
+        }
+      ]
+    ]
+  }
+]

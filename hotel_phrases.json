@@ -1,0 +1,1139 @@
+[
+  {
+    "word": "reservation",
+    "phonetic": "/ˌrezərˈveɪʃn/",
+    "definition": "n. 预订；预约",
+    "example": "I have a reservation under the name of Li.",
+    "example_trans": "我有一个以李先生/女士名义的预订。",
+    "derivatives": ["reserve (v.)"],
+    "tags": ["酒店", "预订", "常用词汇"],
+    "categories": ["酒店住宿", "入住与退房"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Hello, I'd like to make a reservation for a double room.",
+          "translation": "你好，我想预订一个双人房。"
+        },
+        {
+          "text": "Certainly. For what dates, please?",
+          "translation": "好的。请问是哪些日期呢？"
+        }
+      ],
+      [
+        {
+          "text": "Do you have my reservation? It's under Smith.",
+          "translation": "你们有我的预订吗？名字是史密斯。"
+        },
+        {
+          "text": "Yes, Mr. Smith, we have your reservation for a single room for two nights.",
+          "translation": "是的，史密斯先生，我们有您预订单人房两晚的记录。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "check in",
+    "phonetic": "/tʃek ɪn/",
+    "definition": "phr. 办理入住手续",
+    "example": "What time can I check in?",
+    "example_trans": "我什么时候可以办理入住？",
+    "derivatives": ["check-in (n.)"],
+    "tags": ["酒店", "入住", "常用短语"],
+    "categories": ["酒店住宿", "入住与退房"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Hi, I'd like to check in.",
+          "translation": "你好，我想办理入住。"
+        },
+        {
+          "text": "Welcome! Do you have a reservation?",
+          "translation": "欢迎！请问您有预订吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "check out",
+    "phonetic": "/tʃek aʊt/",
+    "definition": "phr. 办理退房手续",
+    "example": "We need to check out by 11 AM.",
+    "example_trans": "我们需要在上午11点前退房。",
+    "derivatives": ["check-out (n.)"],
+    "tags": ["酒店", "退房", "常用短语"],
+    "categories": ["酒店住宿", "入住与退房"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I'd like to check out, please.",
+          "translation": "你好，我想办理退房。"
+        },
+        {
+          "text": "Certainly. Room number, please?",
+          "translation": "好的。请问房间号是？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "front desk",
+    "phonetic": "/frʌnt desk/",
+    "definition": "n. 前台",
+    "example": "You can ask for help at the front desk.",
+    "example_trans": "你可以在前台寻求帮助。",
+    "derivatives": ["reception (n.)"],
+    "tags": ["酒店", "设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Excuse me, where is the front desk?",
+          "translation": "打扰一下，前台在哪里？"
+        },
+        {
+          "text": "It's just over there, next to the main entrance.",
+          "translation": "就在那边，正门旁边。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "room key",
+    "phonetic": "/ruːm kiː/",
+    "definition": "n. 房间钥匙 (可以是实体钥匙或房卡)",
+    "example": "Please don't lose your room key.",
+    "example_trans": "请不要丢失您的房间钥匙。",
+    "derivatives": ["key card (n.)"],
+    "tags": ["酒店", "客房", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Here is your room key. Your room is on the third floor.",
+          "translation": "这是您的房间钥匙。您的房间在三楼。"
+        },
+        {
+          "text": "Thank you. Does it also work for the elevator?",
+          "translation": "谢谢。这个也能用在电梯上吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bellboy",
+    "phonetic": "/ˈbelbɔɪ/",
+    "definition": "n. (酒店)行李员，服务生 (也称 bellhop)",
+    "example": "The bellboy will help you with your luggage.",
+    "example_trans": "行李员会帮您拿行李。",
+    "derivatives": ["bellhop (n.)", "porter (n.)"],
+    "tags": ["酒店", "服务人员", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Could you call a bellboy for me, please?",
+          "translation": "能帮我叫一位行李员吗？"
+        },
+        {
+          "text": "Certainly, madam. One moment.",
+          "translation": "当然，女士。请稍等。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "luggage",
+    "phonetic": "/ˈlʌɡɪdʒ/",
+    "definition": "n. 行李 (不可数)",
+    "example": "I have two pieces of luggage.",
+    "example_trans": "我有两件行李。",
+    "derivatives": ["baggage (n.)"],
+    "tags": ["酒店", "出行", "常用词汇"],
+    "categories": ["酒店住宿", "旅游英语"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I leave my luggage here after checking out?",
+          "translation": "我退房后可以把行李寄存在这里吗？"
+        },
+        {
+          "text": "Yes, we have a luggage storage room.",
+          "translation": "是的，我们有行李寄存室。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "single room",
+    "phonetic": "/ˈsɪŋɡl ruːm/",
+    "definition": "n. 单人房",
+    "example": "I'd like to book a single room.",
+    "example_trans": "我想预订一个单人房。",
+    "derivatives": [],
+    "tags": ["酒店", "客房类型", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is a single room available for tonight?",
+          "translation": "今晚有单人房吗？"
+        },
+        {
+          "text": "Let me check for you. Yes, we have one available.",
+          "translation": "我帮您查一下。是的，我们有一间。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "double room",
+    "phonetic": "/ˈdʌbl ruːm/",
+    "definition": "n. 双人房 (通常指一张双人床)",
+    "example": "We need a double room for two nights.",
+    "example_trans": "我们需要一个双人房，住两晚。",
+    "derivatives": [],
+    "tags": ["酒店", "客房类型", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What's the price for a double room?",
+          "translation": "双人房多少钱？"
+        },
+        {
+          "text": "It's $150 per night, including breakfast.",
+          "translation": "每晚150美元，含早餐。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "twin room",
+    "phonetic": "/twɪn ruːm/",
+    "definition": "n. 双床房 (指有两张单人床的房间)",
+    "example": "My friend and I would prefer a twin room.",
+    "example_trans": "我和我的朋友想要一个双床房。",
+    "derivatives": [],
+    "tags": ["酒店", "客房类型", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you have any twin rooms available?",
+          "translation": "你们有双床房吗？"
+        },
+        {
+          "text": "Yes, we do. How many nights will you be staying?",
+          "translation": "是的，有。您打算住几晚？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "suite",
+    "phonetic": "/swiːt/",
+    "definition": "n. 套房",
+    "example": "They booked the presidential suite.",
+    "example_trans": "他们预订了总统套房。",
+    "derivatives": [],
+    "tags": ["酒店", "客房类型", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "We'd like to upgrade to a suite if possible.",
+          "translation": "如果可能的话，我们想升级到套房。"
+        },
+        {
+          "text": "Let me see what we have available. We have a junior suite open.",
+          "translation": "我看看我们有什么空房。我们有一个小型套房。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "room service",
+    "phonetic": "/ruːm ˈsɜːrvɪs/",
+    "definition": "n. 客房服务",
+    "example": "Can I order room service?",
+    "example_trans": "我可以叫客房服务吗？",
+    "derivatives": [],
+    "tags": ["酒店", "服务", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Hello, room service? I'd like to order a club sandwich.",
+          "translation": "你好，是客房服务吗？我想点一份总汇三明治。"
+        },
+        {
+          "text": "Certainly. What is your room number, please?",
+          "translation": "好的。请问您的房间号是？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "housekeeping",
+    "phonetic": "/ˈhaʊskiːpɪŋ/",
+    "definition": "n. (酒店的)客房清洁服务；家政",
+    "example": "Could you send housekeeping to my room?",
+    "example_trans": "能派客房服务员到我房间吗？",
+    "derivatives": [],
+    "tags": ["酒店", "服务", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Hello, housekeeping. We need some extra towels.",
+          "translation": "你好，客房部。我们需要一些额外的毛巾。"
+        },
+        {
+          "text": "No problem, we'll send them up right away.",
+          "translation": "没问题，我们马上送上去。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "wake-up call",
+    "phonetic": "/ˈweɪk ʌp kɔːl/",
+    "definition": "n. 叫醒服务",
+    "example": "I'd like to request a wake-up call for 7 AM.",
+    "example_trans": "我想预订早上7点的叫醒服务。",
+    "derivatives": [],
+    "tags": ["酒店", "服务", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I set a wake-up call for tomorrow morning?",
+          "translation": "我可以设置明天早上的叫醒服务吗？"
+        },
+        {
+          "text": "Of course. What time would you like it for?",
+          "translation": "当然。您想要几点的？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Wi-Fi password",
+    "phonetic": "/ˈwaɪ faɪ ˈpæswɜːrd/",
+    "definition": "n. 无线网络密码",
+    "example": "What's the Wi-Fi password?",
+    "example_trans": "无线网络密码是什么？",
+    "derivatives": [],
+    "tags": ["酒店", "设施", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Excuse me, could I get the Wi-Fi password?",
+          "translation": "打扰一下，我能要一下Wi-Fi密码吗？"
+        },
+        {
+          "text": "Sure, it's written on this card.",
+          "translation": "当然，写在这张卡片上。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "amenities",
+    "phonetic": "/əˈmenətiz/",
+    "definition": "n. (常用复数)便利设施，生活福利设施 (如游泳池、健身房、洗漱用品等)",
+    "example": "What kind of amenities does the hotel offer?",
+    "example_trans": "这家酒店提供哪些便利设施？",
+    "derivatives": [],
+    "tags": ["酒店", "设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Does the room have basic amenities like a hairdryer and toiletries?",
+          "translation": "房间里有吹风机和洗漱用品等基本设施吗？"
+        },
+        {
+          "text": "Yes, all our rooms are equipped with standard amenities.",
+          "translation": "是的，我们所有的房间都配备了标准设施。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "concierge",
+    "phonetic": "/ˌkɒnsiˈerʒ/",
+    "definition": "n. (酒店的)礼宾司，服务台职员 (负责提供信息、预订票务等)",
+    "example": "The concierge can help you book a taxi.",
+    "example_trans": "礼宾司可以帮你预订出租车。",
+    "derivatives": [],
+    "tags": ["酒店", "服务人员", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I'd like some information about local tours. Should I ask the concierge?",
+          "translation": "我想了解一些当地旅游的信息。我应该问礼宾部吗？"
+        },
+        {
+          "text": "Yes, the concierge desk is right next to the lobby.",
+          "translation": "是的，礼宾台就在大堂旁边。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "lobby",
+    "phonetic": "/ˈlɒbi/",
+    "definition": "n. (酒店等的)大堂，大厅",
+    "example": "I'll meet you in the lobby at 6 PM.",
+    "example_trans": "我下午6点在大堂等你。",
+    "derivatives": [],
+    "tags": ["酒店", "设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is there a comfortable seating area in the lobby?",
+          "translation": "大堂有舒适的休息区吗？"
+        },
+        {
+          "text": "Yes, we have sofas and armchairs in the lobby for our guests.",
+          "translation": "是的，我们在大堂为客人准备了沙发和扶手椅。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "elevator",
+    "phonetic": "/ˈelɪveɪtər/",
+    "definition": "n. 电梯 (美式英语)",
+    "example": "The elevator is over there.",
+    "example_trans": "电梯在那边。",
+    "derivatives": ["lift (n. 英式英语)"],
+    "tags": ["酒店", "设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Which floor is the gym on?",
+          "translation": "健身房在几楼？"
+        },
+        {
+          "text": "It's on the 5th floor. You can take the elevator.",
+          "translation": "在5楼。您可以乘坐电梯。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "stairs",
+    "phonetic": "/sterz/",
+    "definition": "n. (常用复数)楼梯",
+    "example": "I prefer to take the stairs.",
+    "example_trans": "我更喜欢走楼梯。",
+    "derivatives": [],
+    "tags": ["酒店", "设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "The elevator is out of order.",
+          "translation": "电梯坏了。"
+        },
+        {
+          "text": "Oh no, we'll have to use the stairs then.",
+          "translation": "哦不，那我们只能走楼梯了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "mini-bar",
+    "phonetic": "/ˈmɪni bɑːr/",
+    "definition": "n. (旅馆房间内的)小冰箱，小吧台 (通常存放饮料和小吃)",
+    "example": "Are the drinks in the mini-bar free?",
+    "example_trans": "小冰箱里的饮料是免费的吗？",
+    "derivatives": [],
+    "tags": ["酒店", "客房设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I took a soda from the mini-bar last night.",
+          "translation": "我昨晚从小冰箱里拿了一瓶苏打水。"
+        },
+        {
+          "text": "Okay, that will be added to your bill.",
+          "translation": "好的，那会加到您的账单里。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "safe",
+    "phonetic": "/seɪf/",
+    "definition": "n. 保险箱",
+    "example": "You can keep your valuables in the room safe.",
+    "example_trans": "您可以把贵重物品放在房间的保险箱里。",
+    "derivatives": [],
+    "tags": ["酒店", "客房设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How do I use the safe in my room?",
+          "translation": "我房间里的保险箱怎么用？"
+        },
+        {
+          "text": "There are instructions next to it, or I can send someone to help you.",
+          "translation": "旁边有说明书，或者我可以派人去帮您。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "air conditioning",
+    "phonetic": "/ˈer kəndɪʃənɪŋ/",
+    "definition": "n. 空调 (常缩写为 AC 或 A/C)",
+    "example": "The air conditioning in my room isn't working.",
+    "example_trans": "我房间的空调坏了。",
+    "derivatives": ["AC", "A/C"],
+    "tags": ["酒店", "客房设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Could you please turn up the air conditioning? It's a bit warm in here.",
+          "translation": "能把空调调高一点吗？这里有点热。"
+        },
+        {
+          "text": "Certainly, I'll adjust the thermostat for you.",
+          "translation": "当然，我来帮您调节恒温器。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "heating",
+    "phonetic": "/ˈhiːtɪŋ/",
+    "definition": "n. 暖气，供暖系统",
+    "example": "Is there heating in the room?",
+    "example_trans": "房间里有暖气吗？",
+    "derivatives": [],
+    "tags": ["酒店", "客房设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "The heating doesn't seem to be working.",
+          "translation": "暖气好像不工作了。"
+        },
+        {
+          "text": "I'm sorry to hear that. I'll send maintenance to check it right away.",
+          "translation": "很抱歉听到这个。我会马上派维修人员去检查。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "towels",
+    "phonetic": "/ˈtaʊəlz/",
+    "definition": "n. (常用复数)毛巾",
+    "example": "Can I have some extra towels, please?",
+    "example_trans": "能给我一些额外的毛巾吗？",
+    "derivatives": [],
+    "tags": ["酒店", "客房用品", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "We need fresh towels for room 305.",
+          "translation": "305房间需要干净的毛巾。"
+        },
+        {
+          "text": "Housekeeping will bring them to you shortly.",
+          "translation": "客房服务员很快会给您送过去。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "toiletries",
+    "phonetic": "/ˈtɔɪlətriz/",
+    "definition": "n. (常用复数)洗漱用品 (如香皂、洗发水等)",
+    "example": "The hotel provides complimentary toiletries.",
+    "example_trans": "酒店提供免费的洗漱用品。",
+    "derivatives": [],
+    "tags": ["酒店", "客房用品", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I forgot my toothbrush. Do you provide toiletries?",
+          "translation": "我忘了带牙刷。你们提供洗漱用品吗？"
+        },
+        {
+          "text": "Yes, we can send a dental kit to your room.",
+          "translation": "是的，我们可以送一套牙具到您的房间。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "hairdryer",
+    "phonetic": "/ˈherdraɪər/",
+    "definition": "n. 吹风机",
+    "example": "Is there a hairdryer in the bathroom?",
+    "example_trans": "浴室里有吹风机吗？",
+    "derivatives": [],
+    "tags": ["酒店", "客房用品", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I can't find the hairdryer.",
+          "translation": "我找不到吹风机。"
+        },
+        {
+          "text": "It's usually in the top drawer of the desk or in the bathroom closet.",
+          "translation": "通常在书桌最上面的抽屉里，或者在浴室的壁橱里。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "laundry service",
+    "phonetic": "/ˈlɔːndri ˈsɜːrvɪs/",
+    "definition": "n. 洗衣服务",
+    "example": "Does the hotel offer laundry service?",
+    "example_trans": "酒店提供洗衣服务吗？",
+    "derivatives": [],
+    "tags": ["酒店", "服务", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I have some clothes that need washing. Do you have a laundry service?",
+          "translation": "我有些衣服需要洗。你们有洗衣服务吗？"
+        },
+        {
+          "text": "Yes, please fill out the laundry form in your room and leave the bag for housekeeping.",
+          "translation": "是的，请填写您房间里的洗衣单，然后把洗衣袋留给客房服务员。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Do Not Disturb",
+    "phonetic": "/duː nɒt dɪˈstɜːrb/",
+    "definition": "phr. 请勿打扰 (常用于挂在门上的牌子)",
+    "example": "Please hang the 'Do Not Disturb' sign on your door.",
+    "example_trans": "请把“请勿打扰”的牌子挂在门上。",
+    "derivatives": ["DND sign"],
+    "tags": ["酒店", "客房", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I'm going to take a nap. I'll put up the 'Do Not Disturb' sign.",
+          "translation": "我要睡个午觉，我会挂上“请勿打扰”的牌子。"
+        },
+        {
+          "text": "Okay, enjoy your rest.",
+          "translation": "好的，好好休息。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Make Up Room",
+    "phonetic": "/meɪk ʌp ruːm/",
+    "definition": "phr. 请打扫房间 (常用于挂在门上的牌子)",
+    "example": "If you want your room cleaned, please use the 'Make Up Room' sign.",
+    "example_trans": "如果您希望打扫房间，请使用“请打扫房间”的牌子。",
+    "derivatives": [],
+    "tags": ["酒店", "客房服务", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "We're going out for the day. Can we have our room made up?",
+          "translation": "我们今天要出去一天。能帮我们打扫一下房间吗？"
+        },
+        {
+          "text": "Certainly. Just hang the 'Make Up Room' sign on your doorknob.",
+          "translation": "当然。只需将“请打扫房间”的牌子挂在您的门把手上即可。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bill",
+    "phonetic": "/bɪl/",
+    "definition": "n. 账单",
+    "example": "Can I have the bill, please?",
+    "example_trans": "请给我账单，好吗？",
+    "derivatives": ["check (n. 美式，指餐馆账单)"],
+    "tags": ["酒店", "退房", "常用词汇"],
+    "categories": ["酒店住宿", "入住与退房"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I'm ready to check out. Could I settle my bill?",
+          "translation": "我准备退房了。我可以结账吗？"
+        },
+        {
+          "text": "Of course. Here is your itemized bill.",
+          "translation": "当然。这是您的明细账单。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "credit card",
+    "phonetic": "/ˈkredɪt kɑːrd/",
+    "definition": "n. 信用卡",
+    "example": "Do you accept credit cards?",
+    "example_trans": "你们接受信用卡吗？",
+    "derivatives": [],
+    "tags": ["酒店", "支付", "常用词汇"],
+    "categories": ["酒店住宿", "入住与退房"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How would you like to pay?",
+          "translation": "您想怎么支付？"
+        },
+        {
+          "text": "I'll pay by credit card.",
+          "translation": "我用信用卡支付。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cash",
+    "phonetic": "/kæʃ/",
+    "definition": "n. 现金",
+    "example": "I'd prefer to pay in cash.",
+    "example_trans": "我更愿意用现金支付。",
+    "derivatives": [],
+    "tags": ["酒店", "支付", "常用词汇"],
+    "categories": ["酒店住宿", "入住与退房"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I pay with cash?",
+          "translation": "我可以用现金支付吗？"
+        },
+        {
+          "text": "Yes, we accept cash, Visa, and Mastercard.",
+          "translation": "是的，我们接受现金、维萨卡和万事达卡。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "receipt",
+    "phonetic": "/rɪˈsiːt/",
+    "definition": "n. 收据，发票",
+    "example": "Could I have a receipt, please?",
+    "example_trans": "能给我一张收据吗？",
+    "derivatives": [],
+    "tags": ["酒店", "退房", "常用词汇"],
+    "categories": ["酒店住宿", "入住与退房"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Thank you for your payment. Would you like a receipt?",
+          "translation": "感谢您的付款。您需要收据吗？"
+        },
+        {
+          "text": "Yes, please. I need it for my expenses.",
+          "translation": "是的，麻烦了。我报销需要。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "valet parking",
+    "phonetic": "/ˈvæleɪ ˈpɑːrkɪŋ/",
+    "definition": "n. 代客泊车服务",
+    "example": "The hotel offers valet parking.",
+    "example_trans": "这家酒店提供代客泊车服务。",
+    "derivatives": [],
+    "tags": ["酒店", "服务", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Is there valet parking available?",
+          "translation": "有代客泊车服务吗？"
+        },
+        {
+          "text": "Yes, sir. Just pull up to the front entrance.",
+          "translation": "是的，先生。请把车开到正门前即可。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "shuttle service",
+    "phonetic": "/ˈʃʌtl ˈsɜːrvɪs/",
+    "definition": "n. (酒店、机场等的)班车服务，接驳服务",
+    "example": "Is there a shuttle service to the airport?",
+    "example_trans": "有去机场的班车服务吗？",
+    "derivatives": [],
+    "tags": ["酒店", "服务", "交通", "常用短语"],
+    "categories": ["酒店住宿", "旅游英语"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Does your hotel provide a shuttle service from the train station?",
+          "translation": "你们酒店提供从火车站过来的班车服务吗？"
+        },
+        {
+          "text": "Yes, we do. It runs every hour.",
+          "translation": "是的，我们提供。每小时一班。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "gym",
+    "phonetic": "/dʒɪm/",
+    "definition": "n. 健身房 (gymnasium的缩写)",
+    "example": "Does the hotel have a gym?",
+    "example_trans": "酒店有健身房吗？",
+    "derivatives": ["fitness center (n.)"],
+    "tags": ["酒店", "设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What are the opening hours for the gym?",
+          "translation": "健身房的开放时间是什么时候？"
+        },
+        {
+          "text": "The gym is open 24 hours for hotel guests.",
+          "translation": "健身房对酒店客人24小时开放。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "swimming pool",
+    "phonetic": "/ˈswɪmɪŋ puːl/",
+    "definition": "n. 游泳池",
+    "example": "The kids want to go to the swimming pool.",
+    "example_trans": "孩子们想去游泳池。",
+    "derivatives": ["pool (n.)"],
+    "tags": ["酒店", "设施", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is the swimming pool heated?",
+          "translation": "游泳池是恒温的吗？"
+        },
+        {
+          "text": "Yes, our outdoor pool is heated year-round.",
+          "translation": "是的，我们的室外游泳池全年恒温。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "/ˈrestrɒnt/",
+    "definition": "n. 餐厅，餐馆",
+    "example": "Is there a restaurant in the hotel?",
+    "example_trans": "酒店里有餐厅吗？",
+    "derivatives": [],
+    "tags": ["酒店", "设施", "餐饮", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What time does the hotel restaurant open for dinner?",
+          "translation": "酒店餐厅晚餐几点开始？"
+        },
+        {
+          "text": "Our restaurant opens at 6 PM for dinner service.",
+          "translation": "我们的餐厅晚餐服务从下午6点开始。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bar",
+    "phonetic": "/bɑːr/",
+    "definition": "n. 酒吧",
+    "example": "Let's meet at the hotel bar for a drink.",
+    "example_trans": "我们约在酒店酒吧喝一杯吧。",
+    "derivatives": ["lounge (n.)"],
+    "tags": ["酒店", "设施", "餐饮", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Does the hotel have a rooftop bar?",
+          "translation": "酒店有屋顶酒吧吗？"
+        },
+        {
+          "text": "Yes, it's on the top floor with a great view of the city.",
+          "translation": "是的，在顶楼，可以欣赏到很棒的城市景色。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "breakfast included",
+    "phonetic": "/ˈbrekfəst ɪnˈkluːdɪd/",
+    "definition": "phr. 含早餐",
+    "example": "Is breakfast included in the room rate?",
+    "example_trans": "房价包含早餐吗？",
+    "derivatives": [],
+    "tags": ["酒店", "餐饮", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Does this price include breakfast?",
+          "translation": "这个价格包含早餐吗？"
+        },
+        {
+          "text": "Yes, a buffet breakfast is included for all guests.",
+          "translation": "是的，所有客人都包含自助早餐。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "buffet breakfast",
+    "phonetic": "/bʊˈfeɪ ˈbrekfəst/",
+    "definition": "n. 自助早餐",
+    "example": "The hotel offers a wonderful buffet breakfast.",
+    "example_trans": "这家酒店提供很棒的自助早餐。",
+    "derivatives": [],
+    "tags": ["酒店", "餐饮", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "What time is the buffet breakfast served?",
+          "translation": "自助早餐什么时间供应？"
+        },
+        {
+          "text": "It's served from 7 AM to 10 AM in our main dining room.",
+          "translation": "早上7点到10点在我们的主餐厅供应。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "non-smoking room",
+    "phonetic": "/ˌnɒnˈsmoʊkɪŋ ruːm/",
+    "definition": "n. 无烟房",
+    "example": "I'd like to request a non-smoking room.",
+    "example_trans": "我想要一间无烟房。",
+    "derivatives": [],
+    "tags": ["酒店", "客房类型", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is this a non-smoking room?",
+          "translation": "这是无烟房吗？"
+        },
+        {
+          "text": "Yes, all our rooms on this floor are non-smoking.",
+          "translation": "是的，我们这一层的所有房间都是无烟的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "smoking room",
+    "phonetic": "/ˈsmoʊkɪŋ ruːm/",
+    "definition": "n. 吸烟房",
+    "example": "Do you have any smoking rooms available?",
+    "example_trans": "你们有吸烟房吗？",
+    "derivatives": [],
+    "tags": ["酒店", "客房类型", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I specifically requested a smoking room.",
+          "translation": "我特意要求了吸烟房。"
+        },
+        {
+          "text": "I apologize, sir. Let me see if we can change that for you.",
+          "translation": "非常抱歉，先生。我看看是否能为您更换。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "view",
+    "phonetic": "/vjuː/",
+    "definition": "n. 景色，视野",
+    "example": "Does the room have a good view?",
+    "example_trans": "房间的景色好吗？",
+    "derivatives": [],
+    "tags": ["酒店", "客房", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I'd like a room with an ocean view, if possible.",
+          "translation": "如果可能的话，我想要一间海景房。"
+        },
+        {
+          "text": "Certainly. We have a few ocean view rooms available.",
+          "translation": "当然。我们有几间海景房空着。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "noisy",
+    "phonetic": "/ˈnɔɪzi/",
+    "definition": "adj. 吵闹的",
+    "example": "My room is too noisy. Can I change rooms?",
+    "example_trans": "我的房间太吵了。我可以换个房间吗？",
+    "derivatives": ["noise (n.)"],
+    "tags": ["酒店", "客房问题", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I'm sorry to complain, but the room next door is very noisy.",
+          "translation": "很抱歉投诉，但我隔壁房间非常吵。"
+        },
+        {
+          "text": "I apologize for the inconvenience. I'll contact them right away.",
+          "translation": "给您带来不便非常抱歉。我会马上联系他们。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "complaint",
+    "phonetic": "/kəmˈpleɪnt/",
+    "definition": "n. 投诉，抱怨",
+    "example": "I'd like to make a complaint about the service.",
+    "example_trans": "我想投诉这里的服务。",
+    "derivatives": ["complain (v.)"],
+    "tags": ["酒店", "问题反馈", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Who should I speak to if I have a complaint?",
+          "translation": "如果我有投诉，应该找谁谈？"
+        },
+        {
+          "text": "You can speak to the duty manager at the front desk.",
+          "translation": "您可以和前台的值班经理谈。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "fully booked",
+    "phonetic": "/ˈfʊli bʊkt/",
+    "definition": "phr. (酒店、餐厅等)客满，预订满了",
+    "example": "I'm afraid we are fully booked for tonight.",
+    "example_trans": "恐怕我们今晚已经客满了。",
+    "derivatives": ["no vacancy"],
+    "tags": ["酒店", "预订", "常用短语"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "Do you have any rooms available for this weekend?",
+          "translation": "这个周末你们有空房吗？"
+        },
+        {
+          "text": "Unfortunately, we are fully booked due to the festival.",
+          "translation": "很遗憾，因为节日的原因，我们已经订满了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "vacancy",
+    "phonetic": "/ˈveɪkənsi/",
+    "definition": "n. (旅馆等的)空房；空缺",
+    "example": "Do you have any vacancies for tonight?",
+    "example_trans": "今晚有空房吗？",
+    "derivatives": ["no vacancies (客满)"],
+    "tags": ["酒店", "预订", "常用词汇"],
+    "categories": ["酒店住宿"],
+    "level": 2,
+    "dialogues": [
+      [
+        {
+          "text": "I saw a 'No Vacancy' sign outside.",
+          "translation": "我看到外面挂着“客满”的牌子。"
+        },
+        {
+          "text": "Yes, I'm sorry, we don't have any rooms available at the moment.",
+          "translation": "是的，很抱歉，我们目前没有任何空房。"
+        }
+      ]
+    ]
+  }
+]
