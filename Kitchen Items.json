@@ -1,0 +1,992 @@
+[
+  {
+    "word": "knife",
+    "phonetic": "/naɪf/",
+    "definition": "n. 刀",
+    "example": "Be careful when using a knife.",
+    "example_trans": "使用刀的时候要小心。",
+    "derivatives": ["knives (plural)", "knife (v.) - to stab with a knife"],
+    "tags": ["厨房用具", "餐具"],
+    "categories": ["工具", "餐具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Could you pass me a knife to cut the steak?",
+          "translation": "请递给我一把刀来切牛排好吗？"
+        },
+        {
+          "text": "Sure, here you go. Be careful, it's sharp.",
+          "translation": "好的，给你。小心点，很锋利。"
+        }
+      ],
+      [
+        {
+          "text": "I need a good knife for chopping vegetables.",
+          "translation": "我需要一把好刀来切蔬菜。"
+        },
+        {
+          "text": "This chef's knife is excellent. It's very versatile.",
+          "translation": "这把厨师刀很棒。它非常通用。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "fork",
+    "phonetic": "/fɔːrk/",
+    "definition": "n. 叉子",
+    "example": "I need a fork to eat my salad.",
+    "example_trans": "我需要一个叉子来吃沙拉。",
+    "derivatives": ["forkful (n.) - the amount a fork can hold"],
+    "tags": ["餐具"],
+    "categories": ["餐具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you prefer using a fork or chopsticks for noodles?",
+          "translation": "你吃面条喜欢用叉子还是筷子？"
+        },
+        {
+          "text": "I usually use a fork, it's easier for me.",
+          "translation": "我通常用叉子，对我来说更容易。"
+        }
+      ],
+      [
+        {
+          "text": "This fork is dirty, can I get a clean one?",
+          "translation": "这个叉子是脏的，能给我一个干净的吗？"
+        },
+        {
+          "text": "Of course, I'll bring you a fresh one right away.",
+          "translation": "当然，我马上给你拿一个新的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "spoon",
+    "phonetic": "/spuːn/",
+    "definition": "n. 勺子",
+    "example": "Use a spoon to stir the soup.",
+    "example_trans": "用勺子搅拌汤。",
+    "derivatives": ["spoonful (n.) - the amount a spoon can hold", "spoon (v.) - to transfer with a spoon"],
+    "tags": ["餐具"],
+    "categories": ["餐具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I have a spoon for my ice cream?",
+          "translation": "我可以要一个勺子吃冰淇淋吗？"
+        },
+        {
+          "text": "Sure, here's a spoon. Enjoy your ice cream!",
+          "translation": "当然，给你一个勺子。好好享用你的冰淇淋！"
+        }
+      ],
+      [
+        {
+          "text": "How many spoons of sugar do you want in your coffee?",
+          "translation": "你的咖啡里要加几勺糖？"
+        },
+        {
+          "text": "Just one spoon, please. I don't like it too sweet.",
+          "translation": "只要一勺就好，谢谢。我不喜欢太甜的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "chopsticks",
+    "phonetic": "/ˈtʃɒpstɪks/",
+    "definition": "n. 筷子",
+    "example": "I'm learning how to use chopsticks.",
+    "example_trans": "我正在学习如何使用筷子。",
+    "derivatives": [],
+    "tags": ["餐具"],
+    "categories": ["餐具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Are you comfortable using chopsticks?",
+          "translation": "你用筷子习惯吗？"
+        },
+        {
+          "text": "Not really, I still struggle a bit. Can I have a fork?",
+          "translation": "不太习惯，我还是有点困难。能给我一个叉子吗？"
+        }
+      ],
+      [
+        {
+          "text": "These chopsticks are beautiful! Where did you get them?",
+          "translation": "这双筷子真漂亮！你在哪里买的？"
+        },
+        {
+          "text": "I bought them in Japan. They are made of bamboo.",
+          "translation": "我在日本买的。它们是竹子做的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "plate",
+    "phonetic": "/pleɪt/",
+    "definition": "n. 盘子",
+    "example": "Put your food on a plate.",
+    "example_trans": "把你的食物放在盘子里。",
+    "derivatives": ["plated (adj.) - covered with a thin layer of metal", "plate (v.) - to cover with a thin layer of metal"],
+    "tags": ["餐具"],
+    "categories": ["餐具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Could you please clear the plates from the table?",
+          "translation": "请你把桌子上的盘子收走好吗？"
+        },
+        {
+          "text": "Sure, I'll take them to the kitchen.",
+          "translation": "好的，我把它们拿到厨房去。"
+        }
+      ],
+      [
+        {
+          "text": "This plate is so pretty! Where did you buy it?",
+          "translation": "这个盘子真漂亮！你在哪里买的？"
+        },
+        {
+          "text": "I got it at a flea market. It's vintage.",
+          "translation": "我在跳蚤市场买的。它是古董。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "bowl",
+    "phonetic": "/boʊl/",
+    "definition": "n. 碗",
+    "example": "I eat cereal from a bowl every morning.",
+    "example_trans": "我每天早上用碗吃麦片。",
+    "derivatives": ["bowlful (n.) - the amount a bowl can hold"],
+    "tags": ["餐具"],
+    "categories": ["餐具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I have a bowl of soup, please?",
+          "translation": "请给我一碗汤好吗？"
+        },
+        {
+          "text": "Certainly, here's a bowl of chicken noodle soup.",
+          "translation": "当然，这是一碗鸡肉面条汤。"
+        }
+      ],
+      [
+        {
+          "text": "This bowl is too hot to hold!",
+          "translation": "这个碗太烫了，没法拿！"
+        },
+        {
+          "text": "I'll get you a coaster to put it on.",
+          "translation": "我给你拿个杯垫垫着。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cup",
+    "phonetic": "/kʌp/",
+    "definition": "n. 杯子",
+    "example": "I drink a cup of coffee every morning.",
+    "example_trans": "我每天早上喝一杯咖啡。",
+    "derivatives": ["cupful (n.) - the amount a cup can hold", "cup (v.) - to form into the shape of a cup"],
+    "tags": ["餐具"],
+    "categories": ["餐具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like a cup of tea?",
+          "translation": "你想喝一杯茶吗？"
+        },
+        {
+          "text": "Yes, please. With a little milk and sugar.",
+          "translation": "好的，请。加一点牛奶和糖。"
+        }
+      ],
+      [
+        {
+          "text": "This cup is cracked. Can I get a new one?",
+          "translation": "这个杯子裂了。能给我一个新的吗？"
+        },
+        {
+          "text": "Of course, I'll replace it right away.",
+          "translation": "当然，我马上给你换一个。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "glass",
+    "phonetic": "/ɡlæs/",
+    "definition": "n. 玻璃杯",
+    "example": "I need a glass of water.",
+    "example_trans": "我需要一杯水。",
+    "derivatives": ["glasses (n. plural) - spectacles", "glassy (adj.) - resembling glass"],
+    "tags": ["餐具"],
+    "categories": ["餐具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I have a glass of juice, please?",
+          "translation": "请给我一杯果汁好吗？"
+        },
+        {
+          "text": "Sure, what kind of juice would you like?",
+          "translation": "好的，你想要什么果汁？"
+        }
+      ],
+      [
+        {
+          "text": "Be careful, that glass is fragile.",
+          "translation": "小心点，那个玻璃杯很易碎。"
+        },
+        {
+          "text": "Thanks for the warning. I'll be extra careful.",
+          "translation": "谢谢你的提醒。我会格外小心的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "mug",
+    "phonetic": "/mʌɡ/",
+    "definition": "n. 马克杯",
+    "example": "I love drinking coffee from my favorite mug.",
+    "example_trans": "我喜欢用我最喜欢的马克杯喝咖啡。",
+    "derivatives": [],
+    "tags": ["餐具"],
+    "categories": ["餐具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want some hot chocolate in your mug?",
+          "translation": "你想用你的马克杯喝点热巧克力吗？"
+        },
+        {
+          "text": "Yes, please! That sounds perfect for a cold night.",
+          "translation": "好的，请！在寒冷的夜晚这听起来太棒了。"
+        }
+      ],
+      [
+        {
+          "text": "This mug is so cute! Where did you get it?",
+          "translation": "这个马克杯真可爱！你在哪里买的？"
+        },
+        {
+          "text": "My friend gave it to me as a birthday gift.",
+          "translation": "我朋友送给我的生日礼物。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "pan / frying pan",
+    "phonetic": "/pæn/",
+    "definition": "n. 平底锅",
+    "example": "I need a frying pan to cook eggs.",
+    "example_trans": "我需要一个平底锅来煎鸡蛋。",
+    "derivatives": [],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where's the frying pan? I want to make pancakes.",
+          "translation": "平底锅在哪里？我想做煎饼。"
+        },
+        {
+          "text": "It's in the cabinet under the stove.",
+          "translation": "在炉子下面的柜子里。"
+        }
+      ],
+      [
+        {
+          "text": "This frying pan is non-stick, so the food won't stick.",
+          "translation": "这个平底锅是不粘锅，所以食物不会粘住。"
+        },
+        {
+          "text": "That's great! It'll make cooking so much easier.",
+          "translation": "太好了！这会让烹饪变得容易得多。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "pot",
+    "phonetic": "/pɒt/",
+    "definition": "n. 锅",
+    "example": "I'm making soup in a pot.",
+    "example_trans": "我正在用锅做汤。",
+    "derivatives": ["potted (adj.) - planted in a pot", "potter (n.) - someone who makes pots"],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What are you cooking in that pot?",
+          "translation": "你用那个锅在煮什么？"
+        },
+        {
+          "text": "I'm making a vegetable stew.",
+          "translation": "我在做蔬菜炖肉。"
+        }
+      ],
+      [
+        {
+          "text": "This pot is too small for the amount of food we need to cook.",
+          "translation": "这个锅太小了，不够我们煮这么多食物。"
+        },
+        {
+          "text": "You're right. Let's use the bigger one.",
+          "translation": "你说得对。我们用那个更大的吧。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "kettle",
+    "phonetic": "/ˈketl/",
+    "definition": "n. 水壶",
+    "example": "I need to boil water in the kettle.",
+    "example_trans": "我需要用水壶烧水。",
+    "derivatives": [],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is the kettle on? I want to make some tea.",
+          "translation": "水壶开着吗？我想泡点茶。"
+        },
+        {
+          "text": "Yes, it's boiling now. Be careful, it's hot.",
+          "translation": "是的，现在正在烧。小心点，很烫。"
+        }
+      ],
+      [
+        {
+          "text": "This kettle whistles when the water is boiling.",
+          "translation": "这个水壶水烧开的时候会发出哨声。"
+        },
+        {
+          "text": "That's a useful feature! I always forget to check.",
+          "translation": "这真是个有用的功能！我总是忘记检查。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "cutting board",
+    "phonetic": "/ˈkʌtɪŋ bɔːrd/",
+    "definition": "n. 砧板",
+    "example": "Use a cutting board to chop vegetables.",
+    "example_trans": "用砧板切蔬菜。",
+    "derivatives": [],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where's the cutting board? I need to chop some onions.",
+          "translation": "砧板在哪里？我需要切一些洋葱。"
+        },
+        {
+          "text": "It's on the counter next to the sink.",
+          "translation": "在水槽旁边的台面上。"
+        }
+      ],
+      [
+        {
+          "text": "Make sure to wash the cutting board after cutting raw meat.",
+          "translation": "切完生肉后一定要清洗砧板。"
+        },
+        {
+          "text": "Good point! I'll wash it with soap and hot water.",
+          "translation": "说得好！我会用肥皂和热水清洗它。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "peeler",
+    "phonetic": "/ˈpiːlər/",
+    "definition": "n. 削皮器",
+    "example": "I use a peeler to peel potatoes.",
+    "example_trans": "我用削皮器削土豆皮。",
+    "derivatives": ["peel (v.) - to remove the outer layer"],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you hand me the peeler? I need to peel these carrots.",
+          "translation": "你能把削皮器递给我吗？我需要削这些胡萝卜。"
+        },
+        {
+          "text": "Sure, here you go. Be careful not to cut yourself.",
+          "translation": "好的，给你。小心别割到自己。"
+        }
+      ],
+      [
+        {
+          "text": "This peeler is so sharp! It makes peeling vegetables so easy.",
+          "translation": "这个削皮器真锋利！削蔬菜皮变得太容易了。"
+        },
+        {
+          "text": "I know, it's a really good one. I bought it online.",
+          "translation": "我知道，它真的很好用。我在网上买的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "colander",
+    "phonetic": "/ˈkɒləndər/",
+    "definition": "n. 滤水篮",
+    "example": "Drain the pasta in a colander.",
+    "example_trans": "用滤水篮沥干意大利面。",
+    "derivatives": [],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where's the colander? I need to drain the pasta.",
+          "translation": "滤水篮在哪里？我需要沥干意大利面。"
+        },
+        {
+          "text": "It's in the sink. Be careful, the water is hot.",
+          "translation": "在水槽里。小心点，水很烫。"
+        }
+      ],
+      [
+        {
+          "text": "This colander is perfect for washing fruits and vegetables too.",
+          "translation": "这个滤水篮也很适合清洗水果和蔬菜。"
+        },
+        {
+          "text": "That's true! It's a very versatile kitchen tool.",
+          "translation": "没错！它是一个非常通用的厨房工具。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "grater",
+    "phonetic": "/ˈɡreɪtər/",
+    "definition": "n. 刨丝器",
+    "example": "I need a grater to grate cheese.",
+    "example_trans": "我需要一个刨丝器来刨奶酪。",
+    "derivatives": ["grate (v.) - to shred by rubbing on a grater"],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you pass me the grater? I need to grate some cheese for the pizza.",
+          "translation": "你能把刨丝器递给我吗？我需要刨一些奶酪做披萨。"
+        },
+        {
+          "text": "Sure, here you go. Be careful not to grate your fingers!",
+          "translation": "好的，给你。小心别刨到你的手指！"
+        }
+      ],
+      [
+        {
+          "text": "This grater has different sides for different textures.",
+          "translation": "这个刨丝器有不同的面，可以刨出不同的质地。"
+        },
+        {
+          "text": "That's really useful! I didn't know that.",
+          "translation": "真有用！我不知道。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "microwave",
+    "phonetic": "/ˈmaɪkrəweɪv/",
+    "definition": "n. 微波炉",
+    "example": "I'm heating up my lunch in the microwave.",
+    "example_trans": "我正在用微波炉加热午餐。",
+    "derivatives": [],
+    "tags": ["厨房电器"],
+    "categories": ["厨房电器"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How long should I microwave this for?",
+          "translation": "我应该用微波炉加热多久？"
+        },
+        {
+          "text": "Try two minutes and see if it's hot enough.",
+          "translation": "试试两分钟，看看够不够热。"
+        }
+      ],
+      [
+        {
+          "text": "Be careful, the food might be hot after microwaving.",
+          "translation": "小心点，微波炉加热后食物可能会很烫。"
+        },
+        {
+          "text": "Thanks for the warning. I'll use a pot holder.",
+          "translation": "谢谢你的提醒。我会用隔热垫。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "oven",
+    "phonetic": "/ˈʌvn/",
+    "definition": "n. 烤箱",
+    "example": "I'm baking a cake in the oven.",
+    "example_trans": "我正在用烤箱烤蛋糕。",
+    "derivatives": [],
+    "tags": ["厨房电器"],
+    "categories": ["厨房电器"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "What temperature should I set the oven to?",
+          "translation": "我应该把烤箱设置成多少度？"
+        },
+        {
+          "text": "Set it to 350 degrees Fahrenheit.",
+          "translation": "设置成华氏350度。"
+        }
+      ],
+      [
+        {
+          "text": "Be careful when opening the oven, it's hot inside.",
+          "translation": "打开烤箱的时候要小心，里面很烫。"
+        },
+        {
+          "text": "Thanks, I'll use oven mitts.",
+          "translation": "谢谢，我会用烤箱手套。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "stove",
+    "phonetic": "/stoʊv/",
+    "definition": "n. 炉灶",
+    "example": "I'm cooking dinner on the stove.",
+    "example_trans": "我正在炉灶上做晚饭。",
+    "derivatives": [],
+    "tags": ["厨房电器"],
+    "categories": ["厨房电器"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you turn on the stove? I need to boil some water.",
+          "translation": "你能打开炉灶吗？我需要烧点水。"
+        },
+        {
+          "text": "Sure, which burner do you want to use?",
+          "translation": "好的，你想用哪个炉头？"
+        }
+      ],
+      [
+        {
+          "text": "Be careful around the stove, it's hot.",
+          "translation": "在炉灶周围要小心，很烫。"
+        },
+        {
+          "text": "I know, I'm being careful.",
+          "translation": "我知道，我很小心。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "refrigerator / fridge",
+    "phonetic": "/rɪˈfrɪdʒəreɪtər/ /frɪdʒ/",
+    "definition": "n. 冰箱",
+    "example": "I'm putting the leftovers in the refrigerator.",
+    "example_trans": "我正在把剩菜放进冰箱。",
+    "derivatives": ["refrigerate (v.) - to keep food cold"],
+    "tags": ["厨房电器"],
+    "categories": ["厨房电器"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Is there any milk in the refrigerator?",
+          "translation": "冰箱里有牛奶吗？"
+        },
+        {
+          "text": "Yes, there's a carton on the top shelf.",
+          "translation": "有的，在顶层架子上有一盒。"
+        }
+      ],
+      [
+        {
+          "text": "The refrigerator is making a strange noise.",
+          "translation": "冰箱发出奇怪的声音。"
+        },
+        {
+          "text": "I'll check it out later. It might need defrosting.",
+          "translation": "我稍后会检查一下。可能需要除霜。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "blender",
+    "phonetic": "/ˈblendər/",
+    "definition": "n. 搅拌机",
+    "example": "I use a blender to make smoothies.",
+    "example_trans": "我用搅拌机做冰沙。",
+    "derivatives": ["blend (v.) - to mix together"],
+    "tags": ["厨房电器"],
+    "categories": ["厨房电器"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you put the fruit in the blender?",
+          "translation": "你能把水果放进搅拌机吗？"
+        },
+        {
+          "text": "Sure, what kind of smoothie are we making?",
+          "translation": "好的，我们要做什么样的冰沙？"
+        }
+      ],
+      [
+        {
+          "text": "Be careful when using the blender, the blades are sharp.",
+          "translation": "使用搅拌机时要小心，刀片很锋利。"
+        },
+        {
+          "text": "I know, I'll be careful.",
+          "translation": "我知道，我会小心的。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "toaster",
+    "phonetic": "/ˈtoʊstər/",
+    "definition": "n. 烤面包机",
+    "example": "I'm making toast in the toaster.",
+    "example_trans": "我正在用烤面包机烤面包。",
+    "derivatives": ["toast (v.) - to brown with heat"],
+    "tags": ["厨房电器"],
+    "categories": ["厨房电器"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you want some toast? I'm using the toaster.",
+          "translation": "你想吃烤面包吗？我正在用烤面包机。"
+        },
+        {
+          "text": "Yes, please! Lightly toasted.",
+          "translation": "好的，请！稍微烤一下。"
+        }
+      ],
+      [
+        {
+          "text": "The toaster is smoking! Something must be burning.",
+          "translation": "烤面包机冒烟了！肯定有什么东西烧焦了。"
+        },
+        {
+          "text": "Oh no! I'll unplug it right away.",
+          "translation": "哦，不！我马上拔掉插头。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "dishwasher",
+    "phonetic": "/ˈdɪʃwɒʃər/",
+    "definition": "n. 洗碗机",
+    "example": "I'm loading the dishwasher with dirty dishes.",
+    "example_trans": "我正在把脏盘子装进洗碗机。",
+    "derivatives": ["dishwash (v.) - to wash dishes"],
+    "tags": ["厨房电器"],
+    "categories": ["厨房电器"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you help me load the dishwasher?",
+          "translation": "你能帮我装洗碗机吗？"
+        },
+        {
+          "text": "Sure, where does everything go?",
+          "translation": "好的，都放在哪里？"
+        }
+      ],
+      [
+        {
+          "text": "The dishwasher isn't working. It won't turn on.",
+          "translation": "洗碗机坏了。它打不开。"
+        },
+        {
+          "text": "I'll take a look at it later. Maybe it's just the fuse.",
+          "translation": "我稍后会看看。也许只是保险丝坏了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "measuring cup",
+    "phonetic": "/ˈmeʒərɪŋ kʌp/",
+    "definition": "n. 量杯",
+    "example": "I need a measuring cup to measure the flour.",
+    "example_trans": "我需要一个量杯来量面粉。",
+    "derivatives": ["measure (v.) - to determine the size, amount, or degree of"],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where's the measuring cup? I need to measure the water.",
+          "translation": "量杯在哪里？我需要量水。"
+        },
+        {
+          "text": "It's in the drawer with the other utensils.",
+          "translation": "在放其他用具的抽屉里。"
+        }
+      ],
+      [
+        {
+          "text": "This measuring cup has both metric and imperial measurements.",
+          "translation": "这个量杯有公制和英制两种测量单位。"
+        },
+        {
+          "text": "That's really convenient! It makes baking so much easier.",
+          "translation": "真方便！这让烘焙变得容易多了。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "measuring spoons",
+    "phonetic": "/ˈmeʒərɪŋ spuːnz/",
+    "definition": "n. 量匙",
+    "example": "I need measuring spoons to measure the spices.",
+    "example_trans": "我需要量匙来量香料。",
+    "derivatives": ["measure (v.) - to determine the size, amount, or degree of"],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you hand me the measuring spoons? I need a teaspoon of salt.",
+          "translation": "你能把量匙递给我吗？我需要一茶匙盐。"
+        },
+        {
+          "text": "Sure, here you go. Which spoon do you need?",
+          "translation": "好的，给你。你需要哪个勺子？"
+        }
+      ],
+      [
+        {
+          "text": "These measuring spoons are magnetic, so they stick together.",
+          "translation": "这些量匙是磁性的，所以它们粘在一起。"
+        },
+        {
+          "text": "That's a great idea! It keeps them organized.",
+          "translation": "真是个好主意！这能让它们井井有条。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "tray",
+    "phonetic": "/treɪ/",
+    "definition": "n. 托盘",
+    "example": "I'm carrying the drinks on a tray.",
+    "example_trans": "我正在用托盘端饮料。",
+    "derivatives": [],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you help me carry this tray? It's heavy.",
+          "translation": "你能帮我端这个托盘吗？它很重。"
+        },
+        {
+          "text": "Sure, I'll take one side.",
+          "translation": "好的，我来端一边。"
+        }
+      ],
+      [
+        {
+          "text": "This tray is non-slip, so the drinks won't slide off.",
+          "translation": "这个托盘是防滑的，所以饮料不会滑落。"
+        },
+        {
+          "text": "That's a good feature! It makes it easier to carry things.",
+          "translation": "真是个好功能！这让端东西更容易。"
+        }
+      ]
+    ]
+  },
+ {
+    "word": "tongs",
+    "phonetic": "/tɒŋz/",
+    "definition": "n. 夹子",
+    "example": "Use tongs to flip the meat on the grill.",
+    "example_trans": "用夹子翻转烤架上的肉。",
+    "derivatives": [],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you pass me the tongs? I need to flip the chicken.",
+          "translation": "你能把夹子递给我吗？我需要翻转鸡肉。"
+        },
+        {
+          "text": "Sure, here you go. Be careful, it's hot.",
+          "translation": "好的，给你。小心点，很烫。"
+        }
+      ],
+      [
+        {
+          "text": "These tongs have a silicone grip, so they're easy to hold.",
+          "translation": "这些夹子有硅胶手柄，所以很容易握住。"
+        },
+        {
+          "text": "That's great! It makes it easier to grip the food.",
+          "translation": "太好了！这让夹食物更容易。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "whisk",
+    "phonetic": "/wɪsk/",
+    "definition": "n. 打蛋器",
+    "example": "Use a whisk to beat the eggs.",
+    "example_trans": "用打蛋器打鸡蛋。",
+    "derivatives": ["whisk (v.) - to beat with a whisk", "whisker (n.) - a long, stiff hair growing on the face of a cat, mouse, or other mammal"],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where's the whisk? I need to make a cake.",
+          "translation": "打蛋器在哪里？我需要做蛋糕。"
+        },
+        {
+          "text": "It's in the drawer with the other utensils.",
+          "translation": "在放其他用具的抽屉里。"
+        }
+      ],
+      [
+        {
+          "text": "This whisk is balloon-shaped, so it's good for whipping cream.",
+          "translation": "这个打蛋器是气球形的，所以很适合打发奶油。"
+        },
+        {
+          "text": "That's good to know! I'll use it for that.",
+          "translation": "太好了！我会用它来打发奶油。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "ladle",
+    "phonetic": "/ˈleɪdl/",
+    "definition": "n. 汤勺",
+    "example": "Use a ladle to serve the soup.",
+    "example_trans": "用汤勺盛汤。",
+    "derivatives": [],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can you pass me the ladle? I need to serve the soup.",
+          "translation": "你能把汤勺递给我吗？我需要盛汤。"
+        },
+        {
+          "text": "Sure, here you go. Be careful, it's hot.",
+          "translation": "好的，给你。小心点，很烫。"
+        }
+      ],
+      [
+        {
+          "text": "This ladle is made of stainless steel, so it's easy to clean.",
+          "translation": "这个汤勺是不锈钢做的，所以很容易清洗。"
+        },
+        {
+          "text": "That's good! I hate it when things are hard to clean.",
+          "translation": "太好了！我讨厌东西很难清洗。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "spatula",
+    "phonetic": "/ˈspætʃələ/",
+    "definition": "n. 铲子",
+    "example": "Use a spatula to flip the pancakes.",
+    "example_trans": "用铲子翻转煎饼。",
+    "derivatives": [],
+    "tags": ["厨房用具"],
+    "categories": ["厨房用具"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where's the spatula? I need to flip the eggs.",
+          "translation": "铲子在哪里？我需要翻转鸡蛋。"
+        },
+        {
+          "text": "It's in the drawer with the other cooking utensils.",
+          "translation": "在放其他烹饪用具的抽屉里。"
+        }
+      ],
+      [
+        {
+          "text": "This spatula is heat-resistant, so it won't melt in the pan.",
+          "translation": "这个铲子是耐热的，所以它不会在锅里融化。"
+        },
+        {
+          "text": "That's important! I've melted spatulas before.",
+          "translation": "这很重要！我以前融化过铲子。"
+        }
+      ]
+    ]
+  }
+]
