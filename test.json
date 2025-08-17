@@ -1,0 +1,23 @@
+[
+  {
+    "word": "extra",
+    "phonetic": "/ˈekstrə/",
+    "definition": "额外的",
+    "example": "I'd like an extra shot of espresso in my latte.",
+    "example_trans": "我想要在我的拿铁里加一份浓缩咖啡。",
+    "derivatives": [],
+    "tags": ["数量", "咖啡"],
+    "categories": ["饮食"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Would you like anything extra with your order?",
+          "translation": "您的订单需要加点什么吗？"
+        },
+        {
+          "text": "Yes, can I get an extra napkin?",
+          "translation": "是的，可以给我多一张餐巾纸吗？"
+        }
+      ]
+    ]
