@@ -1,23 +1,53 @@
 [
   {
-    "word": "extra",
-    "phonetic": "\/ˈekstrə\/",
-    "definition": "额外的",
-    "example": "I'd like an extra shot of espresso in my latte.",
-    "example_trans": "我想要在我的拿铁里加一份浓缩咖啡。",
+    "word": "check in",
+    "phonetic": "\/tʃek ɪn\/",
+    "definition": "登记入住",
+    "example": "We need to check in at the hotel before we can drop our bags.",
+    "example_trans": "我们需要先在酒店登记入住，然后才能放下行李。",
     "derivatives": [],
-    "tags": ["数量", "咖啡"],
-    "categories": ["饮食"],
+    "tags": ["酒店", "入住"],
+    "categories": ["旅游"],
     "level": 1,
     "dialogues": [
       [
         {
-          "text": "Would you like anything extra with your order?",
-          "translation": "您的订单需要加点什么吗？"
+          "text": "Excuse me, where do we check in?",
+          "translation": "不好意思，我们在哪里登记入住？"
         },
         {
-          "text": "Yes, can I get an extra napkin?",
-          "translation": "是的，可以给我多一张餐巾纸吗？"
+          "text": "Just go to the front desk and they'll help you.",
+          "translation": "去前台，他们会帮你办理的。"
+        }
+      ],
+      [
+        {
+          "text": "Hi, we have a reservation under the name of Smith.",
+          "translation": "你好，我们预订的名字是史密斯。"
+        },
+        {
+          "text": "Sure, let me check that for you. Here's your room key.",
+          "translation": "好的，我来查一下。这是您的房卡。"
+        }
+      ],
+      [
+        {
+          "text": "Is there a late check-in fee?",
+          "translation": "延迟入住会收费吗？"
+        },
+        {
+          "text": "Yes, there's a small fee if you check in after 10 PM.",
+          "translation": "是的，如果晚上10点后入住会收取少量费用。"
+        }
+      ],
+      [
+        {
+          "text": "Can we check in early? Our flight got in early.",
+          "translation": "我们可以提前入住吗？我们的航班提前到了。"
+        },
+        {
+          "text": "Let me see if we have a room ready for you.",
+          "translation": "让我看看有没有房间可以提前安排给您。"
         }
       ]
     ]
