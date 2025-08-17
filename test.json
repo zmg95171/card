@@ -1,7 +1,7 @@
 [
   {
     "word": "extra",
-    "phonetic": "/ˈekstrə/",
+    "phonetic": "\/ˈekstrə\/",
     "definition": "额外的",
     "example": "I'd like an extra shot of espresso in my latte.",
     "example_trans": "我想要在我的拿铁里加一份浓缩咖啡。",
@@ -21,3 +21,5 @@
         }
       ]
     ]
+  }
+]
