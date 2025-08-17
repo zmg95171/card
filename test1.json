@@ -1,0 +1,232 @@
+[
+  {
+    "word": "Where is the bathroom?",
+    "phonetic": "/wɛər ɪz ðə ˈbæθruːm?/",
+    "definition": "洗手间在哪里？",
+    "example": "Excuse me, where is the bathroom?",
+    "example_trans": "打扰一下，请问洗手间在哪里？",
+    "derivatives": [],
+    "tags": ["问路", "生活"],
+    "categories": ["基础", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Excuse me, where is the bathroom?",
+          "translation": "打扰一下，请问洗手间在哪里？"
+        },
+        {
+          "text": "It's down the hall on the left.",
+          "translation": "在走廊尽头的左边。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "How much is this?",
+    "phonetic": "/haʊ mʌtʃ ɪz ðɪs?/",
+    "definition": "这个多少钱？",
+    "example": "How much is this T-shirt?",
+    "example_trans": "这件T恤多少钱？",
+    "derivatives": [],
+    "tags": ["购物", "价格"],
+    "categories": ["购物", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "How much is this bag?",
+          "translation": "这个包多少钱？"
+        },
+        {
+          "text": "It's 20 dollars.",
+          "translation": "20 美元。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "I need a taxi.",
+    "phonetic": "/aɪ niːd ə ˈtæksi/",
+    "definition": "我需要一辆出租车。",
+    "example": "I need a taxi to the airport.",
+    "example_trans": "我需要一辆去机场的出租车。",
+    "derivatives": [],
+    "tags": ["交通", "出行"],
+    "categories": ["交通", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "I need a taxi, please.",
+          "translation": "请给我一辆出租车。"
+        },
+        {
+          "text": "Sure, one moment.",
+          "translation": "好的，请稍等。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Check in, please.",
+    "phonetic": "/ʧɛk ɪn pliːz/",
+    "definition": "请帮我办理入住。",
+    "example": "Hello, I’d like to check in.",
+    "example_trans": "你好，我想要办理入住。",
+    "derivatives": [],
+    "tags": ["酒店", "入住"],
+    "categories": ["住宿", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Hello, I’d like to check in.",
+          "translation": "你好，我想要办理入住。"
+        },
+        {
+          "text": "Welcome! May I have your passport, please?",
+          "translation": "欢迎！请出示您的护照好吗？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Do you speak English?",
+    "phonetic": "/duː juː spiːk ˈɪŋɡlɪʃ?/",
+    "definition": "你会说英语吗？",
+    "example": "Excuse me, do you speak English?",
+    "example_trans": "打扰一下，你会说英语吗？",
+    "derivatives": [],
+    "tags": ["交流", "语言"],
+    "categories": ["基础", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Do you speak English?",
+          "translation": "你会说英语吗？"
+        },
+        {
+          "text": "Yes, a little.",
+          "translation": "会，一点点。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Can I have the menu?",
+    "phonetic": "/kæn aɪ hæv ðə ˈmɛnjuː?/",
+    "definition": "我可以要菜单吗？",
+    "example": "Can I have the menu, please?",
+    "example_trans": "我可以要一下菜单吗？",
+    "derivatives": [],
+    "tags": ["饮食", "点餐"],
+    "categories": ["饮食", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I have the menu, please?",
+          "translation": "请给我菜单好吗？"
+        },
+        {
+          "text": "Of course, here you are.",
+          "translation": "当然可以，给您。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Water, please.",
+    "phonetic": "/ˈwɔːtər pliːz/",
+    "definition": "请给我水。",
+    "example": "Can I have some water, please?",
+    "example_trans": "请给我一些水好吗？",
+    "derivatives": [],
+    "tags": ["饮食", "基础"],
+    "categories": ["饮食", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Water, please.",
+          "translation": "请给我水。"
+        },
+        {
+          "text": "Still or sparkling?",
+          "translation": "要静水还是气泡水？"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Where is the bus stop?",
+    "phonetic": "/wɛər ɪz ðə bʌs stɒp?/",
+    "definition": "公交车站在哪里？",
+    "example": "Excuse me, where is the bus stop?",
+    "example_trans": "打扰一下，请问公交车站在哪里？",
+    "derivatives": [],
+    "tags": ["交通", "问路"],
+    "categories": ["交通", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where is the bus stop?",
+          "translation": "公交车站在哪里？"
+        },
+        {
+          "text": "It’s across the street.",
+          "translation": "在街对面。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Can I pay by card?",
+    "phonetic": "/kæn aɪ peɪ baɪ kɑːd?/",
+    "definition": "我可以用卡支付吗？",
+    "example": "Can I pay by card?",
+    "example_trans": "我可以刷卡吗？",
+    "derivatives": [],
+    "tags": ["购物", "支付"],
+    "categories": ["购物", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Can I pay by card?",
+          "translation": "我可以刷卡吗？"
+        },
+        {
+          "text": "Yes, we accept credit cards.",
+          "translation": "可以的，我们接受信用卡。"
+        }
+      ]
+    ]
+  },
+  {
+    "word": "Where is the airport?",
+    "phonetic": "/wɛər ɪz ði ˈɛəpɔːt?/",
+    "definition": "机场在哪里？",
+    "example": "Excuse me, where is the airport bus?",
+    "example_trans": "打扰一下，机场大巴在哪里？",
+    "derivatives": [],
+    "tags": ["交通", "问路"],
+    "categories": ["交通", "旅行"],
+    "level": 1,
+    "dialogues": [
+      [
+        {
+          "text": "Where is the airport?",
+          "translation": "机场在哪里？"
+        },
+        {
+          "text": "It's about 10 kilometers from here.",
+          "translation": "离这里大约 10 公里。"
+        }
+      ]
+    ]
+  }
+]
